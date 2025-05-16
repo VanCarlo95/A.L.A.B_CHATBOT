@@ -1,0 +1,18 @@
+Chat History for User ID: user_1745707531598
+Started: 2025-04-27 06:49:43
+==================================================
+[2025-04-27 06:49:43] User: I'm doing fine Alab?
+[2025-04-27 06:49:43] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 06:49:43] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-27 06:49:54] User: i'm doing fine alab
+[2025-04-27 06:49:54] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 06:49:54] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-27 06:49:58] User: oh
+[2025-04-27 06:49:58] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 06:49:58] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-27 06:50:15] User: what is MSU-IIT?
+[2025-04-27 06:50:15] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 06:50:15] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-27 06:50:27] User: oh you need to learn
+[2025-04-27 06:50:27] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 06:50:27] Bot: I'm sorry, I didn't understand that. Could you rephrase?

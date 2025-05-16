@@ -1,0 +1,22 @@
+Chat History for User ID: user_1745769045226
+Started: 2025-04-27 23:52:14
+==================================================
+[2025-04-27 23:52:14] User: what are the faqs?
+[2025-04-27 23:52:14] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 23:52:14] Bot: I was designed to serve as an information assistant for MSU-IIT, helping people learn about the university's offerings, locations, and resources without having to search through multiple sources.
+[2025-04-27 23:52:47] User: what courses do you offer?
+[2025-04-27 23:52:47] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 23:52:47] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-27 23:53:16] User: what are the university's offering
+[2025-04-27 23:53:16] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 23:53:16] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-27 23:53:24] User: where is it located\
+[2025-04-27 23:53:24] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 23:53:24] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-27 23:53:57] User: can you provide the location of university clinic?
+[2025-04-27 23:53:57] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 23:53:57] Bot: I. Hematology II. Urinalysis III. FBS IV. RBS V. Lipid Profile VI. Creatinine VII. Blood Uric Acid (BUA) VIII. Blood Urea Nitrogen (BUN) IX. SGPT X. SGOT VI. Blood Typing
+[2025-04-27 23:53:57] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-27 23:54:38] User: what does College of Computer Studies offer
+[2025-04-27 23:54:38] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 23:54:38] Bot: I'm sorry, I didn't understand that. Could you rephrase?

@@ -1,0 +1,36 @@
+Chat History for User ID: user_1745657481365
+Started: 2025-04-26 16:52:15
+==================================================
+[2025-04-26 16:52:15] User: Are you better than other chatbots?
+[2025-04-26 16:52:15] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 16:52:15] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 16:52:26] User: what are you
+[2025-04-26 16:52:26] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 16:52:26] Bot: I'm ALAB, a chatbot created to assist with inquiries about MSU-IIT. How can I help you today?
+[2025-04-26 16:52:40] User: What can you offer
+[2025-04-26 16:52:40] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 16:52:40] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 16:52:49] User: how can you help me
+[2025-04-26 16:52:49] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 16:52:49] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 16:53:09] User: how old is msu iit
+[2025-04-26 16:53:09] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 16:53:09] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 16:53:25] User: what do you do
+[2025-04-26 16:53:25] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 16:53:25] Bot: I was designed to serve as an information assistant for MSU-IIT, helping people learn about the university's offerings, locations, and resources without having to search through multiple sources.
+[2025-04-26 16:53:52] User: does msu iit offer pharmacy program
+[2025-04-26 16:53:52] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 16:53:52] Bot: Here are the details for our program:
+[2025-04-26 16:53:52] Bot: BS Nursing (BSN):
+• Core Focus: Nursing theory and practice
+• Key Subjects: Anatomy and Physiology, Pharmacology, Nursing Care Management
+• Duration: 4 years
+• Special Features: Clinical Practice, Simulation Labs, Community Health Projects
+[2025-04-26 16:53:52] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 16:54:12] User: electronics engineering
+[2025-04-26 16:54:12] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 16:54:12] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 16:54:20] User: is there bs ece
+[2025-04-26 16:54:20] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 16:54:20] Bot: I'm sorry, I didn't understand that. Could you rephrase?

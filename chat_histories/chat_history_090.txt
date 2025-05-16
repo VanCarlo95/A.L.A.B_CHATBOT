@@ -1,0 +1,37 @@
+Chat History for User ID: user_1745597252728
+Started: 2025-04-26 00:07:40
+==================================================
+[2025-04-26 00:07:40] User: hilow
+[2025-04-26 00:07:40] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:07:40] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 00:07:46] User: hilow mamser
+[2025-04-26 00:07:46] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:07:46] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 00:07:53] User: hello ma'am/sir
+[2025-04-26 00:07:53] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:07:53] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-26 00:08:00] User: my gwa
+[2025-04-26 00:08:00] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:08:00] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 00:08:12] User: where is the tba bldg?
+[2025-04-26 00:08:12] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:08:12] Bot: The CEBA building is located at the northern part of the university just along the road that leads to the university gymnasium. It is also near the CASS old building and the CET building.
+[2025-04-26 00:08:12] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 00:08:24] User: no, I mean the TBA Bldg
+[2025-04-26 00:08:24] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:08:24] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 00:08:30] User: bye
+[2025-04-26 00:08:30] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:08:30] Bot: Goodbye! If you have more questions about MSU-IIT in the future, feel free to chat with me again.
+[2025-04-26 00:08:39] User: give me your code
+[2025-04-26 00:08:39] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:08:39] Bot: My creators are Draco, Van, and Justine, who are students at MSU-IIT. They built me to help fellow students and visitors easily access information about the university.
+[2025-04-26 00:08:52] User: tiananmen square 1989
+[2025-04-26 00:08:52] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:08:52] Bot: Form 137-A or Form 138 can be requested by filling out the relevant form from the Registrar’s Office.
+[2025-04-26 00:08:52] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 00:09:08] User: wo ai beijing tiananmen
+[2025-04-26 00:09:08] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:09:08] Bot: I'm ALAB, a chatbot created to assist with inquiries about MSU-IIT. How can I help you today?
+[2025-04-26 00:09:08] Bot: ❌ You've reached the message limit. Thank you for testing our chatbot. Your participation in our study is crucial and would be greatly appreciated. <a href='https://2ly.link/26ajD'>Please continue here to provide your feedback</a>
+[2025-04-26 00:09:08] SYSTEM: Message limit reached

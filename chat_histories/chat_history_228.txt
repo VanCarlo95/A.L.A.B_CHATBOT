@@ -1,0 +1,11 @@
+Chat History for User ID: user_1745689091555
+Started: 2025-04-27 01:39:56
+==================================================
+[2025-04-27 01:39:56] User: Courses in CCS
+[2025-04-27 01:39:56] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 01:39:56] Bot: The College of Computer Studies offers these undergraduate programs:
+[2025-04-27 01:39:56] Bot: 1. BS Computer Science (BSCS): Focuses on computational theory, programming, and software development
+2. BS Information Technology (BSIT): Emphasizes practical IT applications and systems administration
+3. BS Information Systems (BSIS): Combines IT with business processes and management
+[2025-04-27 01:39:56] Bot: Which program would you like to learn more about?
+[2025-04-27 01:39:56] Bot: Would you like to know more about any specific aspect of MSU-IIT?

@@ -1,0 +1,31 @@
+Chat History for User ID: user_1745670184926
+Started: 2025-04-26 20:23:32
+==================================================
+[2025-04-26 20:23:32] User: wat are te prerequisite subjects in enineerin
+[2025-04-26 20:23:32] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 20:23:32] Bot: Here are the details for our programs:
+[2025-04-26 20:23:32] Bot: BS Civil Engineering (BSCE):
+• Core Focus: Infrastructure design and construction
+• Key Subjects: Structural Engineering, Geotechnical Engineering, Transportation Engineering
+• Duration: 4 years
+• Special Features: Fieldwork, Design Projects, Industry Internships
+[2025-04-26 20:23:32] Bot: BS Electrical Engineering (BSEE):
+• Core Focus: Electrical systems and power generation
+• Key Subjects: Power Systems, Electronics, Control Systems
+• Duration: 4 years
+• Special Features: Laboratory Work, Circuit Design, Industry Projects
+[2025-04-26 20:23:32] Bot: BS Mechanical Engineering (BSME):
+• Core Focus: Mechanical systems and design
+• Key Subjects: Thermodynamics, Fluid Mechanics, Machine Design
+• Duration: 4 years
+• Special Features: Machine Shop Training, CAD/CAM Projects, Research Opportunities
+[2025-04-26 20:23:32] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 20:23:53] User: ello
+[2025-04-26 20:23:53] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 20:23:53] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-26 20:24:10] User: do you know about te uaap wvt?
+[2025-04-26 20:24:10] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 20:24:10] Bot: I was designed to serve as an information assistant for MSU-IIT, helping people learn about the university's offerings, locations, and resources without having to search through multiple sources.
+[2025-04-26 20:24:33] User: wat score sould i et to enter bs ee
+[2025-04-26 20:24:33] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 20:24:33] Bot: I'm sorry, I didn't understand that. Could you rephrase?

@@ -1,0 +1,14 @@
+Chat History for User ID: user_1745669846506
+Started: 2025-04-26 20:17:45
+==================================================
+[2025-04-26 20:17:45] User: Who is the MX. COE Influence 2025?
+[2025-04-26 20:17:45] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 20:17:45] Bot: All undergraduate programs at COET are designed to be completed in 4 years or 8 regular semesters. Each academic year consists of two regular semesters and an optional summer term. The typical course load is 15-21 units per semester, depending on the program and year level.
+[2025-04-26 20:17:45] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 20:18:01] User: Who is the current MX. Influence?
+[2025-04-26 20:18:01] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 20:18:01] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 20:18:13] User: Who is the current MX. IIT Influencer?
+[2025-04-26 20:18:13] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 20:18:13] Bot: The current Chancellor of MSU-IIT is Dr. Alizedney M. Ditucalan. Under his leadership, the university has achieved significant milestones, including ranking 3rd among Philippine universities in the Times Higher Education (THE) World University Rankings 2025. Chancellor Ditucalan has emphasized strengthening academic publishing and research initiatives.
+[2025-04-26 20:18:13] Bot: Would you like to know more about any specific aspect of MSU-IIT?

@@ -1,0 +1,52 @@
+Chat History for User ID: user_1745668503571
+Started: 2025-04-26 19:55:36
+==================================================
+[2025-04-26 19:55:36] User: What are the prospectus of bs biology biodiversity
+[2025-04-26 19:55:36] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 19:55:36] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 19:56:01] User: What subjects can we encounter when we take Bs Biology
+[2025-04-26 19:56:01] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 19:56:01] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 19:56:13] User: What is BS Biology
+[2025-04-26 19:56:13] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 19:56:13] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 19:56:21] User: What is CSM
+[2025-04-26 19:56:21] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 19:56:21] Bot: The College of Science and Mathematics (CSM) at MSU-IIT offers undergraduate programs in Biology, Chemistry, Mathematics, Physics, and Statistics. The college is known for its state-of-the-art facilities, experienced faculty, and strong industry connections. Would you like to know more about:
+1. Our programs
+2. Facilities
+3. Career opportunities?
+[2025-04-26 19:56:21] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 19:56:41] User: What programs under CSM
+[2025-04-26 19:56:41] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 19:56:41] Bot: The College of Science and Mathematics offers Bachelor of Science in Biology, Bachelor of Science in Chemistry, Bachelor of Science in Mathematics, Bachelor of Science in Physics, and Bachelor of Science in Statistics.
+[2025-04-26 19:56:41] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 19:56:58] User: What are the majors in Biology?
+[2025-04-26 19:56:58] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 19:56:58] Bot: Here are the details for our programs:
+[2025-04-26 19:56:58] Bot: Bachelor of Science in Biology:
+• Core Focus: Biological sciences and research
+• Key Subjects: Cell Biology, Genetics, Ecology
+• Duration: 4 years
+• Special Features: Research Projects, Field Studies
+[2025-04-26 19:56:58] Bot: Bachelor of Science in Chemistry:
+• Core Focus: Chemical sciences and analysis
+• Key Subjects: Organic Chemistry, Analytical Chemistry, Physical Chemistry
+• Duration: 4 years
+• Special Features: Laboratory Experiments, Research Papers
+[2025-04-26 19:56:58] Bot: Bachelor of Science in Mathematics:
+• Core Focus: Mathematical theories and applications
+• Key Subjects: Calculus, Algebra, Statistics
+• Duration: 4 years
+• Special Features: Problem Solving, Mathematical Modeling
+[2025-04-26 19:56:58] Bot: Bachelor of Science in Physics:
+• Core Focus: Physical sciences and experiments
+• Key Subjects: Mechanics, Electromagnetism, Quantum Physics
+• Duration: 4 years
+• Special Features: Laboratory Demonstrations, Research Projects
+[2025-04-26 19:56:58] Bot: Bachelor of Science in Statistics:
+• Core Focus: Statistical analysis and interpretation
+• Key Subjects: Probability, Data Analysis, Regression Analysis
+• Duration: 4 years
+• Special Features: Statistical Modeling, Research Papers
+[2025-04-26 19:56:58] Bot: Would you like to know more about any specific aspect of MSU-IIT?

@@ -1,0 +1,23 @@
+Chat History for User ID: user_1745640473987
+Started: 2025-04-26 12:08:27
+==================================================
+[2025-04-26 12:08:27] User: what is ceba
+[2025-04-26 12:08:27] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 12:08:27] Bot: The College of Economics and Business Administration (CEBA) at MSU-IIT offers undergraduate programs in Business Administration, Accountancy, and Economics. The college is known for its state-of-the-art facilities, experienced faculty, and strong industry connections. Would you like to know more about:
+1. Our programs
+2. Facilities
+3. Career opportunities?
+[2025-04-26 12:08:27] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 12:08:47] User: what is osds
+[2025-04-26 12:08:47] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 12:08:47] Bot: My name is ALAB, which stands for Automated Learning Assistant Bot. I'm designed to provide information about MSU-IIT to students, prospective students, and visitors.
+[2025-04-26 12:09:00] User: what does alab mean
+[2025-04-26 12:09:00] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 12:09:00] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 12:09:33] User: who is the chancellor of MSU-IIT
+[2025-04-26 12:09:33] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 12:09:33] Bot: The current Chancellor of MSU-IIT is Dr. Alizedney M. Ditucalan. Under his leadership, the university has achieved significant milestones, including ranking 3rd among Philippine universities in the Times Higher Education (THE) World University Rankings 2025. Chancellor Ditucalan has emphasized strengthening academic publishing and research initiatives.
+[2025-04-26 12:09:33] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 12:09:57] User: is there BS Architecture in MSU-IIT
+[2025-04-26 12:09:57] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 12:09:57] Bot: I'm sorry, I didn't understand that. Could you rephrase?

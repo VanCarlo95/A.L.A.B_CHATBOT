@@ -1,0 +1,19 @@
+Chat History for User ID: user_1745662251608
+Started: 2025-04-26 18:10:56
+==================================================
+[2025-04-26 18:10:56] User: tell me about csm
+[2025-04-26 18:10:56] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:10:56] Bot: The College of Science and Mathematics (CSM) at MSU-IIT offers undergraduate programs in Biology, Chemistry, Mathematics, Physics, and Statistics. The college is known for its state-of-the-art facilities, experienced faculty, and strong industry connections. Would you like to know more about:
+1. Our programs
+2. Facilities
+3. Career opportunities?
+[2025-04-26 18:10:56] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 18:11:14] User: career opportunities
+[2025-04-26 18:11:14] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:11:14] Bot: MSU-IIT supports working students through:
+- Flexible class schedules
+- Student assistant positions
+- Part-time work opportunities in campus
+- Industry internship programs
+[2025-04-26 18:11:14] Bot: Working students should maintain satisfactory academic performance and inform their academic advisor to ensure proper balance of work and studies.
+[2025-04-26 18:11:14] Bot: Would you like to know more about any specific aspect of MSU-IIT?

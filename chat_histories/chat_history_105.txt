@@ -1,0 +1,31 @@
+Chat History for User ID: user_1745601784510
+Started: 2025-04-26 01:23:31
+==================================================
+[2025-04-26 01:23:31] User: What day is today
+[2025-04-26 01:23:31] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 01:23:31] Bot: I was created to help students and prospective students get information about MSU-IIT. I can answer questions about colleges, programs, facilities, and services offered by the university.
+[2025-04-26 01:23:54] User: What does bs ece stands for in MSUIIT
+[2025-04-26 01:23:54] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 01:23:54] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 01:24:01] User: Yes
+[2025-04-26 01:24:01] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 01:24:01] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 01:24:09] User: What is bsece
+[2025-04-26 01:24:09] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 01:24:09] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 01:24:21] User: What ia bs ece
+[2025-04-26 01:24:21] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 01:24:21] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 01:24:41] User: BS ECE
+[2025-04-26 01:24:41] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 01:24:41] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 01:24:42] User: Chancellor
+[2025-04-26 01:24:42] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 01:24:42] Bot: The current Chancellor of MSU-IIT is Dr. Alizedney M. Ditucalan. Under his leadership, the university has achieved significant milestones, including ranking 3rd among Philippine universities in the Times Higher Education (THE) World University Rankings 2025. Chancellor Ditucalan has emphasized strengthening academic publishing and research initiatives.
+[2025-04-26 01:24:42] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 01:25:05] User: Rohane
+[2025-04-26 01:25:05] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 01:25:05] Bot: Hello! I am A.L.A.B, your Academic Learning Assistance Bot. How can I help you today?
+[2025-04-26 01:25:12] User: Bobo ka
+[2025-04-26 01:25:12] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 01:25:12] Bot: I'm sorry, I didn't understand that. Could you rephrase?

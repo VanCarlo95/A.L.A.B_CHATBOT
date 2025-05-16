@@ -1,0 +1,29 @@
+Chat History for User ID: user_1745603370720
+Started: 2025-04-26 01:49:51
+==================================================
+[2025-04-26 01:49:51] User: what can you not do?
+[2025-04-26 01:49:51] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 01:49:51] Bot: I was created to help students and prospective students get information about MSU-IIT. I can answer questions about colleges, programs, facilities, and services offered by the university.
+[2025-04-26 01:50:00] User: what can't you do?
+[2025-04-26 01:50:00] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 01:50:00] Bot: I was designed to serve as an information assistant for MSU-IIT, helping people learn about the university's offerings, locations, and resources without having to search through multiple sources.
+[2025-04-26 01:50:14] User: what aren't you doing?
+[2025-04-26 01:50:14] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 01:50:14] Bot: I was created to help students and prospective students get information about MSU-IIT. I can answer questions about colleges, programs, facilities, and services offered by the university.
+[2025-04-26 01:50:57] User: who is the first chancellor of the institute?
+[2025-04-26 01:50:57] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 01:50:57] Bot: The current Chancellor of MSU-IIT is Dr. Alizedney M. Ditucalan. Under his leadership, the university has achieved significant milestones, including ranking 3rd among Philippine universities in the Times Higher Education (THE) World University Rankings 2025. Chancellor Ditucalan has emphasized strengthening academic publishing and research initiatives.
+[2025-04-26 01:50:57] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 01:51:24] User: who was the chancellor before him?
+[2025-04-26 01:51:24] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 01:51:24] Bot: The current Chancellor of MSU-IIT is Dr. Alizedney M. Ditucalan. Under his leadership, the university has achieved significant milestones, including ranking 3rd among Philippine universities in the Times Higher Education (THE) World University Rankings 2025. Chancellor Ditucalan has emphasized strengthening academic publishing and research initiatives.
+[2025-04-26 01:51:24] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 01:52:05] User: what is your model?
+[2025-04-26 01:52:05] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 01:52:05] Bot: My purpose is to provide quick and accurate information about MSU-IIT's academic programs, facilities, and services. I'm here to make it easier for you to find the information you need about the university.
+[2025-04-26 01:52:24] User: how many steps from the main gate to the cass building?
+[2025-04-26 01:52:24] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 01:52:24] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 01:52:42] User: if i walk from the main gate to the CASS building, how many steps would it take?
+[2025-04-26 01:52:42] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 01:52:42] Bot: I'm sorry, I didn't understand that. Could you rephrase?

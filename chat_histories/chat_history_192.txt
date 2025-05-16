@@ -1,0 +1,63 @@
+Chat History for User ID: user_1745673489239
+Started: 2025-04-26 21:18:17
+==================================================
+[2025-04-26 21:18:17] User: Hello!
+[2025-04-26 21:18:17] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 21:18:17] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-26 21:18:28] User: What is CCS?
+[2025-04-26 21:18:28] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 21:18:28] Bot: The College of Computer Studies (CCS) is MSU-IIT's center for computing education. It offers undergraduate programs in Computer Science, Information Technology, and Information Systems. The college is known for its modern facilities, experienced faculty, and strong industry partnerships. Would you like to know more about:
+1. Our programs
+2. Facilities
+3. Career opportunities?
+[2025-04-26 21:18:28] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 21:18:59] User: Career opportunities for CCS
+[2025-04-26 21:18:59] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 21:18:59] Bot: Career opportunities for our graduates include:
+[2025-04-26 21:18:59] Bot: For BSCS Graduates:
+• Software Engineer (₱25,000 - ₱120,000/month)
+• AI/ML Engineer
+• Data Scientist
+• Research & Development
+• Game Developer
+• Cloud Solutions Architect
+[2025-04-26 21:18:59] Bot: For BSIT Graduates:
+• Systems Administrator
+• Network Engineer
+• Web Developer
+• IT Security Specialist
+• DevOps Engineer
+• Technical Support Specialist
+[2025-04-26 21:18:59] Bot: For BSIS Graduates:
+• Business Systems Analyst
+• IT Project Manager
+• Database Administrator
+• ERP Consultant
+• Digital Transformation Specialist
+[2025-04-26 21:18:59] Bot: For BSCS Graduates:
+• Software Engineer 
+• AI/ML Engineer
+• Data Scientist 
+• Research & Development Engineer
+• Game Developer
+• Cloud Solutions Architect
+[2025-04-26 21:18:59] Bot: Companies actively hiring CS graduates:
+• Google, Microsoft, IBM
+• Local tech companies and startups
+• International software companies
+• Research institutions
+• Game development studios
+[2025-04-26 21:18:59] Bot: Career Growth:
+• Technical Lead
+• Software Architect
+• Research Scientist
+• CTO
+• Tech Entrepreneur
+[2025-04-26 21:18:59] Bot: Many of our graduates work in:
+• Top tech companies (Google, Microsoft, IBM)
+• Banks and financial institutions
+• Government agencies
+• BPO companies
+• Start-ups
+• International companies (both local and abroad)
+[2025-04-26 21:18:59] Bot: Would you like to know more about any specific aspect of MSU-IIT?

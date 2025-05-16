@@ -1,0 +1,33 @@
+Chat History for User ID: user_1745669523147
+Started: 2025-04-26 20:12:06
+==================================================
+[2025-04-26 20:12:06] User: COE?
+[2025-04-26 20:12:06] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 20:12:06] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 20:12:32] User: where is COE?
+[2025-04-26 20:12:32] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 20:12:32] Bot: The College of Engineering and Technology is located in the COET Building, a modern 4-story structure in the heart of MSU-IIT campus. It's easily accessible and recognizable by its distinctive red-brick exterior. The building houses state-of-the-art engineering laboratories, classrooms, and faculty offices.
+[2025-04-26 20:12:32] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 20:12:50] User: COE?
+[2025-04-26 20:12:50] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 20:12:50] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 20:13:14] User: CCS?
+[2025-04-26 20:13:14] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 20:13:14] Bot: The College of Computer Studies is located in the CCS Building, a modern 4-story structure in the heart of MSU-IIT campus. It's easily accessible and recognizable by its distinctive blue-gray exterior. The building houses state-of-the-art computer laboratories, classrooms, and faculty offices.
+[2025-04-26 20:13:14] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 20:13:38] User: COET?
+[2025-04-26 20:13:38] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 20:13:38] Bot: The College of Engineering offers these undergraduate programs:
+[2025-04-26 20:13:38] Bot: 1. BS Civil Engineering (BSCE): Focuses on infrastructure design and construction
+2. BS Electrical Engineering (BSEE): Emphasizes electrical systems and power generation
+3. BS Mechanical Engineering (BSME): Focuses on mechanical systems and design
+[2025-04-26 20:13:38] Bot: Which program would you like to learn more about?
+[2025-04-26 20:13:38] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 20:21:44] User: Where is CCS?
+[2025-04-26 20:21:44] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 20:21:44] Bot: The College of Computer Studies is located in the CCS Building, a modern 4-story structure in the heart of MSU-IIT campus. It's easily accessible and recognizable by its distinctive blue-gray exterior. The building houses state-of-the-art computer laboratories, classrooms, and faculty offices.
+[2025-04-26 20:21:44] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 20:28:18] User: who is the dean of ccs?
+[2025-04-26 20:28:18] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 20:28:18] Bot: The Dean's Office is located on the 2nd floor of the CCS Building, Room 201. It's easily accessible via the main staircase or elevator. The office is open during regular business hours (8:00 AM - 5:00 PM) on weekdays.
+[2025-04-26 20:28:18] Bot: Would you like to know more about any specific aspect of MSU-IIT?

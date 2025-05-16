@@ -1,0 +1,50 @@
+Chat History for User ID: user_1745732296910
+Started: 2025-04-27 13:38:42
+==================================================
+[2025-04-27 13:38:42] User: hi
+[2025-04-27 13:38:42] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 13:38:42] Bot: Hello! I am A.L.A.B, your Academic Learning Assistance Bot. How can I help you today?
+[2025-04-27 13:39:14] User: are there eng tech courses in iit
+[2025-04-27 13:39:14] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 13:39:14] Bot: MSU-IIT is located in the heart of Iligan City, Lanao del Norte, Philippines. The main campus is situated along Andres Bonifacio Avenue, and is easily accessible by public transportation. The campus is known for its modern facilities and beautiful landscape.
+[2025-04-27 13:39:14] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-27 13:39:43] User: are there engineering courses in msu iit
+[2025-04-27 13:39:43] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 13:39:43] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-27 13:40:37] User: what program does COE has
+[2025-04-27 13:40:37] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 13:40:37] Bot: The College of Engineering offers these undergraduate programs:
+[2025-04-27 13:40:37] Bot: 1. BS Civil Engineering (BSCE): Focuses on infrastructure design and construction
+2. BS Electrical Engineering (BSEE): Emphasizes electrical systems and power generation
+3. BS Mechanical Engineering (BSME): Focuses on mechanical systems and design
+[2025-04-27 13:40:37] Bot: Which program would you like to learn more about?
+[2025-04-27 13:40:37] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-27 13:41:27] User: i want to know more about bachelor of engineering technology
+[2025-04-27 13:41:27] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 13:41:27] Bot: Here are the details for our programs:
+[2025-04-27 13:41:27] Bot: BS Civil Engineering (BSCE):
+• Core Focus: Infrastructure design and construction
+• Key Subjects: Structural Engineering, Geotechnical Engineering, Transportation Engineering
+• Duration: 4 years
+• Special Features: Fieldwork, Design Projects, Industry Internships
+[2025-04-27 13:41:27] Bot: BS Electrical Engineering (BSEE):
+• Core Focus: Electrical systems and power generation
+• Key Subjects: Power Systems, Electronics, Control Systems
+• Duration: 4 years
+• Special Features: Laboratory Work, Circuit Design, Industry Projects
+[2025-04-27 13:41:27] Bot: BS Mechanical Engineering (BSME):
+• Core Focus: Mechanical systems and design
+• Key Subjects: Thermodynamics, Fluid Mechanics, Machine Design
+• Duration: 4 years
+• Special Features: Machine Shop Training, CAD/CAM Projects, Research Opportunities
+[2025-04-27 13:41:27] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-27 13:42:01] User: tell us about OSDS
+[2025-04-27 13:42:01] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 13:42:01] Bot: I was designed to serve as an information assistant for MSU-IIT, helping people learn about the university's offerings, locations, and resources without having to search through multiple sources.
+[2025-04-27 13:42:30] User: tell us about the chancellor
+[2025-04-27 13:42:30] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 13:42:30] Bot: The current Chancellor of MSU-IIT is Dr. Alizedney M. Ditucalan. Under his leadership, the university has achieved significant milestones, including ranking 3rd among Philippine universities in the Times Higher Education (THE) World University Rankings 2025. Chancellor Ditucalan has emphasized strengthening academic publishing and research initiatives.
+[2025-04-27 13:42:30] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-27 13:42:56] User: who is the current vice chancellor of academic affairs
+[2025-04-27 13:42:56] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 13:42:56] Bot: I'm sorry, I didn't understand that. Could you rephrase?

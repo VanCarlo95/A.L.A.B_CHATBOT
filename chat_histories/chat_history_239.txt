@@ -1,0 +1,13 @@
+Chat History for User ID: user_1745718633428
+Started: 2025-04-27 09:50:43
+==================================================
+[2025-04-27 09:50:43] User: hi
+[2025-04-27 09:50:43] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 09:50:43] Bot: Hello! I am A.L.A.B, your Academic Learning Assistance Bot. How can I help you today?
+[2025-04-27 09:50:55] User: what is ccs?
+[2025-04-27 09:50:55] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 09:50:55] Bot: The College of Computer Studies (CCS) is MSU-IIT's center for computing education. It offers undergraduate programs in Computer Science, Information Technology, and Information Systems. The college is known for its modern facilities, experienced faculty, and strong industry partnerships. Would you like to know more about:
+1. Our programs
+2. Facilities
+3. Career opportunities?
+[2025-04-27 09:50:55] Bot: Would you like to know more about any specific aspect of MSU-IIT?

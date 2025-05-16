@@ -1,0 +1,42 @@
+Chat History for User ID: user_1745681903036
+Started: 2025-04-26 23:39:00
+==================================================
+[2025-04-26 23:39:00] User: Hello, may I ask how can I apply for IIT?
+[2025-04-26 23:39:00] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 23:39:00] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 23:39:17] User: how can I apply to be a student of MSUIIT?
+[2025-04-26 23:39:17] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 23:39:17] Bot: Yes, MSU-IIT offers scholarships to students based on academic performance, financial need, and other qualifications. The university has various scholarship programs funded by the government, private organizations, and the university itself. Announcement of available scholarships will be posted on the official Facebook page of the office, MSU-IIT Office of Admissions, Scholarships and Grants.
+[2025-04-26 23:39:17] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 23:39:54] User: Can you list all the programs offered by the College of Arts and Social Sciences?
+[2025-04-26 23:39:54] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 23:39:54] Bot: Here's how our programs compare:
+[2025-04-26 23:39:54] Bot: Communication vs English:
+• Communication focuses on media studies
+• English focuses on language and literature
+• Communication has more media courses
+• English has more literary courses
+[2025-04-26 23:39:54] Bot: Communication vs History:
+• Communication focuses on media studies
+• History focuses on historical research
+• Communication has more journalism courses
+• History has more historical methods courses
+[2025-04-26 23:39:54] Bot: Communication vs Political Science:
+• Communication focuses on media studies
+• Political Science focuses on political analysis
+• Communication has more public relations courses
+• Political Science has more political theory courses
+[2025-04-26 23:39:54] Bot: Communication vs Psychology:
+• Communication focuses on media studies
+• Psychology focuses on psychological studies
+• Communication has more media courses
+• Psychology has more social psychology courses
+[2025-04-26 23:39:54] Bot: Communication vs Sociology:
+• Communication focuses on media studies
+• Sociology focuses on sociological research
+• Communication has more public relations courses
+• Sociology has more social theory courses
+[2025-04-26 23:39:54] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 23:40:41] User: Does IIT offer any masteral programs?
+[2025-04-26 23:40:41] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 23:40:41] Bot: I'm sorry, I didn't understand that. Could you rephrase?

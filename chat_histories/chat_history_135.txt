@@ -1,0 +1,10 @@
+Chat History for User ID: user_1745644194886
+Started: 2025-04-26 13:10:39
+==================================================
+[2025-04-26 13:10:39] User: The dean from College of Engineering
+[2025-04-26 13:10:39] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 13:10:39] Bot: The Dean's Office is located on the 2nd floor of the COET Building, Room 201. It's easily accessible via the main staircase or elevator. The office is open during regular business hours (8:00 AM - 5:00 PM) on weekdays.
+[2025-04-26 13:10:39] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 13:11:03] User: I mean the name of the dean
+[2025-04-26 13:11:03] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 13:11:03] Bot: I'm sorry, I didn't understand that. Could you rephrase?

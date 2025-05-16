@@ -1,0 +1,19 @@
+Chat History for User ID: user_1745676690771
+Started: 2025-04-26 22:11:39
+==================================================
+[2025-04-26 22:11:39] User: Where is IIT located
+[2025-04-26 22:11:39] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 22:11:39] Bot: MSU-IIT is located in the heart of Iligan City, Lanao del Norte, Philippines. The main campus is situated along Andres Bonifacio Avenue, and is easily accessible by public transportation. The campus is known for its modern facilities and beautiful landscape.
+[2025-04-26 22:11:39] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 22:12:03] User: Who is the dean in CEBA
+[2025-04-26 22:12:03] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 22:12:03] Bot: The CEBA Dean's office is located on the second floor of the white CEBA building.
+[2025-04-26 22:12:03] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 22:12:29] User: I mean who is the dean person of CEBA
+[2025-04-26 22:12:29] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 22:12:29] Bot: The CEBA Dean's office is located on the second floor of the white CEBA building.
+[2025-04-26 22:12:29] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 22:12:59] User: I'm asking for a person, about who is the dean of CEBA
+[2025-04-26 22:12:59] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 22:12:59] Bot: The CEBA Dean's office is located on the second floor of the white CEBA building.
+[2025-04-26 22:12:59] Bot: Would you like to know more about any specific aspect of MSU-IIT?

@@ -1,0 +1,28 @@
+Chat History for User ID: user_1745634265367
+Started: 2025-04-26 10:24:29
+==================================================
+[2025-04-26 10:24:29] User: Helloooo
+[2025-04-26 10:24:29] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 10:24:29] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-26 10:25:03] User: I want to know what programs that CASS offers
+[2025-04-26 10:25:03] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 10:25:03] Bot: The College of Arts and Social Sciences offers Bachelor of Arts in Communication, Bachelor of Arts in English, Bachelor of Arts in History, Bachelor of Arts in Political Science, Bachelor of Arts in Psychology, and Bachelor of Arts in Sociology.
+[2025-04-26 10:25:03] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 10:25:28] User: Is that all of it ?
+[2025-04-26 10:25:28] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 10:25:28] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-26 10:25:42] User: Where can i find CASS
+[2025-04-26 10:25:42] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 10:25:42] Bot: The CASS building is located at the northern most part of the university. It is the building beside the CEBA student lounge. The CASS building consists of the old and new building.
+[2025-04-26 10:25:42] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 10:26:14] User: How many days will I get my TOR?
+[2025-04-26 10:26:14] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 10:26:14] Bot: The student should know if there is a problem with the submitted requirements because, there is a checklist. After some period, some students  will be called by OASG staff regarding the requirements if it is still lacking. Those who cannot submit the original grade 12 report card, will forfeit their slot after some period. While other documents will be tagged as liability.
+[2025-04-26 10:26:14] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 10:26:43] User: I'm talking about TOR not COR
+[2025-04-26 10:26:43] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 10:26:43] Bot: A Certificate of Registration can be requested for Php 20.00 and will be processed within one day.
+[2025-04-26 10:26:43] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 10:26:50] User: TOR
+[2025-04-26 10:26:50] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 10:26:50] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?

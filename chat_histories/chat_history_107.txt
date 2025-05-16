@@ -1,0 +1,13 @@
+Chat History for User ID: user_1745602944653
+Started: 2025-04-26 01:42:42
+==================================================
+[2025-04-26 01:42:42] User: Where is csm
+[2025-04-26 01:42:42] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 01:42:42] Bot: The CSM building is located at the eastern side of the university. It is one of the oldest buildings in the campus.
+[2025-04-26 01:42:42] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 01:43:14] User: What are the questions you can answer?
+[2025-04-26 01:43:14] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 01:43:14] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 01:43:23] User: Bubu
+[2025-04-26 01:43:23] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 01:43:23] Bot: I'm sorry, I didn't understand that. Could you rephrase?

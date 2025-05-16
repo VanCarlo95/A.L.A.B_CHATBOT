@@ -1,0 +1,28 @@
+Chat History for User ID: user_1745595234704
+Started: 2025-04-25 23:34:10
+==================================================
+[2025-04-25 23:34:10] User: ok
+[2025-04-25 23:34:10] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:34:10] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 23:34:19] User: why
+[2025-04-25 23:34:19] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:34:19] Bot: I was created to help students and prospective students get information about MSU-IIT. I can answer questions about colleges, programs, facilities, and services offered by the university.
+[2025-04-25 23:34:31] User: are u krazy
+[2025-04-25 23:34:31] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:34:31] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 23:34:41] User: what is my name
+[2025-04-25 23:34:41] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:34:41] Bot: I'm ALAB, a chatbot created to assist with inquiries about MSU-IIT. How can I help you today?
+[2025-04-25 23:34:57] User: is there allowance
+[2025-04-25 23:34:57] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:34:57] Bot: The scholarship application process may take some time due to the evaluation of applications, verification of documents, and selection of awardees. The scholarship office will inform applicants of the status of their application and the expected timeline for the release of results.
+[2025-04-25 23:34:57] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-25 23:35:16] User: echoes
+[2025-04-25 23:35:16] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:35:16] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 23:35:28] User: hey
+[2025-04-25 23:35:28] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:35:28] Bot: Hello! I am A.L.A.B, your Academic Learning Assistance Bot. How can I help you today?
+[2025-04-25 23:35:36] User: echoes band
+[2025-04-25 23:35:36] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:35:36] Bot: I'm sorry, I didn't understand that. Could you rephrase?

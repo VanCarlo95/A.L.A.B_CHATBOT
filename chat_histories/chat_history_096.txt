@@ -1,0 +1,43 @@
+Chat History for User ID: user_1745597776634
+Started: 2025-04-26 00:16:27
+==================================================
+[2025-04-26 00:16:27] User: Hi? What day is today
+[2025-04-26 00:16:27] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:16:27] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 00:16:37] User: Hello
+[2025-04-26 00:16:37] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:16:37] Bot: Hello! I am A.L.A.B, your Academic Learning Assistance Bot. How can I help you today?
+[2025-04-26 00:16:49] User: What is MSU IIT
+[2025-04-26 00:16:49] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:16:49] Bot: MSU-IIT (Mindanao State University - Iligan Institute of Technology) is a premier state university established in 1968. Known for its excellence in science and technology education, MSU-IIT has consistently ranked among the top universities in the Philippines. The university offers quality education across various fields including engineering, computer studies, science and mathematics, business, arts, and more.
+[2025-04-26 00:16:49] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 00:17:15] User: Mining Engineering Program?
+[2025-04-26 00:17:15] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:17:15] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 00:17:21] User: Mining Engineer
+[2025-04-26 00:17:21] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:17:21] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 00:17:32] User: Mining Engineering Program
+[2025-04-26 00:17:32] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:17:32] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 00:18:00] User: Where is COE?
+[2025-04-26 00:18:00] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:18:00] Bot: The College of Engineering and Technology is located in the COET Building, a modern 4-story structure in the heart of MSU-IIT campus. It's easily accessible and recognizable by its distinctive red-brick exterior. The building houses state-of-the-art engineering laboratories, classrooms, and faculty offices.
+[2025-04-26 00:18:00] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 00:18:18] User: Chancellor
+[2025-04-26 00:18:18] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:18:18] Bot: The current Chancellor of MSU-IIT is Dr. Alizedney M. Ditucalan. Under his leadership, the university has achieved significant milestones, including ranking 3rd among Philippine universities in the Times Higher Education (THE) World University Rankings 2025. Chancellor Ditucalan has emphasized strengthening academic publishing and research initiatives.
+[2025-04-26 00:18:18] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 00:18:42] User: COE Programs
+[2025-04-26 00:18:42] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:18:42] Bot: The College of Engineering offers these undergraduate programs:
+[2025-04-26 00:18:42] Bot: 1. BS Civil Engineering (BSCE): Focuses on infrastructure design and construction
+2. BS Electrical Engineering (BSEE): Emphasizes electrical systems and power generation
+3. BS Mechanical Engineering (BSME): Focuses on mechanical systems and design
+[2025-04-26 00:18:42] Bot: Which program would you like to learn more about?
+[2025-04-26 00:18:42] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 00:19:04] User: Is that all?
+[2025-04-26 00:19:04] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:19:04] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 00:19:04] Bot: ❌ You've reached the message limit. Thank you for testing our chatbot. Your participation in our study is crucial and would be greatly appreciated. <a href='https://2ly.link/26ajD'>Please continue here to provide your feedback</a>
+[2025-04-26 00:19:04] SYSTEM: Message limit reached

@@ -1,0 +1,7 @@
+Chat History for User ID: user_1745751434404
+Started: 2025-04-27 18:57:48
+==================================================
+[2025-04-27 18:57:48] User: when would the sase results be released
+[2025-04-27 18:57:48] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 18:57:48] Bot: The chances of getting admitted to MSU-IIT depend on the student's academic performance, entrance exam results, and the availability of slots in the chosen program. The university follows a merit-based admission system, where students are ranked based on their qualifications and performance.
+[2025-04-27 18:57:48] Bot: Would you like to know more about any specific aspect of MSU-IIT?

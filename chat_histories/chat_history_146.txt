@@ -1,0 +1,12 @@
+Chat History for User ID: user_1745659721999
+Started: 2025-04-26 17:28:53
+==================================================
+[2025-04-26 17:28:53] User: Hi
+[2025-04-26 17:28:53] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:28:53] Bot: Hello! I am A.L.A.B, your Academic Learning Assistance Bot. How can I help you today?
+[2025-04-26 17:29:10] User: How do you calculate the distance of light
+[2025-04-26 17:29:10] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:29:10] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 17:29:17] User: :<
+[2025-04-26 17:29:17] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:29:17] Bot: I'm sorry, I didn't understand that. Could you rephrase?

@@ -1,0 +1,10 @@
+Chat History for User ID: user_1745630892553
+Started: 2025-04-26 09:28:37
+==================================================
+[2025-04-26 09:28:37] User: who is our chancellor
+[2025-04-26 09:28:37] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 09:28:37] Bot: The current Chancellor of MSU-IIT is Dr. Alizedney M. Ditucalan. Under his leadership, the university has achieved significant milestones, including ranking 3rd among Philippine universities in the Times Higher Education (THE) World University Rankings 2025. Chancellor Ditucalan has emphasized strengthening academic publishing and research initiatives.
+[2025-04-26 09:28:37] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 09:29:12] User: explain the room number system
+[2025-04-26 09:29:12] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 09:29:12] Bot: I'm sorry, I didn't understand that. Could you rephrase?

@@ -1,0 +1,9 @@
+Chat History for User ID: user_1745594706422
+Started: 2025-04-25 23:25:44
+==================================================
+[2025-04-25 23:25:44] User: Hi! alab, how are you? I need a directory list of faculties in a specific department, can you do that?
+[2025-04-25 23:25:44] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:25:44] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 23:26:03] User: I need a list of MSU-iit’s faculty members.
+[2025-04-25 23:26:03] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:26:03] Bot: I'm sorry, I didn't understand that. Could you rephrase?

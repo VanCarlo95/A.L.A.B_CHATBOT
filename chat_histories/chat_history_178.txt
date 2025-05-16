@@ -1,0 +1,17 @@
+Chat History for User ID: user_1745670678534
+Started: 2025-04-26 20:31:42
+==================================================
+[2025-04-26 20:31:42] User: hi
+[2025-04-26 20:31:42] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 20:31:42] Bot: Hello! I am A.L.A.B, your Academic Learning Assistance Bot. How can I help you today?
+[2025-04-26 20:32:02] User: what is msu?
+[2025-04-26 20:32:02] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 20:32:02] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 20:32:13] User: what is msu iit?
+[2025-04-26 20:32:13] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 20:32:13] Bot: MSU-IIT (Mindanao State University - Iligan Institute of Technology) is a premier state university established in 1968. Known for its excellence in science and technology education, MSU-IIT has consistently ranked among the top universities in the Philippines. The university offers quality education across various fields including engineering, computer studies, science and mathematics, business, arts, and more.
+[2025-04-26 20:32:13] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 20:32:37] User: do you know iligan?
+[2025-04-26 20:32:37] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 20:32:37] Bot: MSU-IIT (Mindanao State University - Iligan Institute of Technology) is a premier state university established in 1968. Known for its excellence in science and technology education, MSU-IIT has consistently ranked among the top universities in the Philippines. The university offers quality education across various fields including engineering, computer studies, science and mathematics, business, arts, and more.
+[2025-04-26 20:32:37] Bot: Would you like to know more about any specific aspect of MSU-IIT?

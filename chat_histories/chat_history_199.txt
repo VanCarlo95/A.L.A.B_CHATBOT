@@ -1,0 +1,18 @@
+Chat History for User ID: user_1745676847305
+Started: 2025-04-26 22:09:35
+==================================================
+[2025-04-26 22:09:35] User: What program does ccs have
+[2025-04-26 22:09:35] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 22:09:35] Bot: The College of Computer Studies offers these undergraduate programs:
+[2025-04-26 22:09:35] Bot: 1. BS Computer Science (BSCS): Focuses on computational theory, programming, and software development
+2. BS Information Technology (BSIT): Emphasizes practical IT applications and systems administration
+3. BS Information Systems (BSIS): Combines IT with business processes and management
+[2025-04-26 22:09:35] Bot: Which program would you like to learn more about?
+[2025-04-26 22:09:35] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 22:12:02] User: What do u know abot vcs
+[2025-04-26 22:12:02] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 22:12:02] Bot: The College of Computer Studies (CCS) is MSU-IIT's center for computing education. It offers undergraduate programs in Computer Science, Information Technology, and Information Systems. The college is known for its modern facilities, experienced faculty, and strong industry partnerships. Would you like to know more about:
+1. Our programs
+2. Facilities
+3. Career opportunities?
+[2025-04-26 22:12:02] Bot: Would you like to know more about any specific aspect of MSU-IIT?

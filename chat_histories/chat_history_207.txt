@@ -1,0 +1,27 @@
+Chat History for User ID: user_1745679345383
+Started: 2025-04-26 22:56:16
+==================================================
+[2025-04-26 22:56:16] User: What are the core values of iit
+[2025-04-26 22:56:16] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 22:56:16] Bot: MSU-IIT's Vision: To be a premier university integrating academic excellence, research, and community service while fostering peace and development in Mindanao.
+[2025-04-26 22:56:16] Bot: Mission: To provide high-quality education, promote cultural diversity, and contribute to the socio-economic development of Mindanao through:
+• Excellence in teaching and learning
+• Innovative research and development
+• Active community engagement
+• Cultural integration and understanding
+[2025-04-26 22:56:16] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 22:56:55] User: How about the virtues like innovation and excellence
+[2025-04-26 22:56:55] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 22:56:55] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 22:57:23] User: Like those pair core values such as innovation and excellence what are the others
+[2025-04-26 22:57:23] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 22:57:23] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 22:58:36] User: Don’t you know about the innovation and excellence, service and others
+[2025-04-26 22:58:36] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 22:58:36] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 22:59:16] User: Anyways what are the recent announcement of msu iit that i need to know
+[2025-04-26 22:59:16] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 22:59:16] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 22:59:55] User: What are your limitations here?
+[2025-04-26 22:59:55] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 22:59:55] Bot: I'm sorry, I didn't understand that. Could you rephrase?

@@ -1,0 +1,9 @@
+Chat History for User ID: user_1745599457266
+Started: 2025-04-26 00:45:06
+==================================================
+[2025-04-26 00:45:06] User: How to improve sleep
+[2025-04-26 00:45:06] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:45:06] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 00:45:32] User: How to improve sleeping?
+[2025-04-26 00:45:32] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:45:32] Bot: I'm sorry, I didn't understand that. Could you rephrase?

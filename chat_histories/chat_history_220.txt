@@ -1,0 +1,21 @@
+Chat History for User ID: user_1745681869946
+Started: 2025-04-26 23:39:07
+==================================================
+[2025-04-26 23:39:07] User: what college is coe
+[2025-04-26 23:39:07] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 23:39:07] Bot: The College of Engineering and Technology (COET) is one of the premier colleges at MSU-IIT. It offers undergraduate programs in various engineering disciplines including Civil Engineering, Electrical Engineering, Mechanical Engineering, and more. The college is known for its state-of-the-art facilities, experienced faculty, and strong industry connections. Would you like to know more about:
+1. Our programs
+2. Facilities
+3. Career opportunities?
+[2025-04-26 23:39:07] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 23:39:32] User: what are your programs
+[2025-04-26 23:39:32] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 23:39:32] Bot: My name is ALAB, which stands for Automated Learning Assistant Bot. I'm designed to provide information about MSU-IIT to students, prospective students, and visitors.
+[2025-04-26 23:39:54] User: what are programs in coet
+[2025-04-26 23:39:54] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 23:39:54] Bot: The College of Engineering offers these undergraduate programs:
+[2025-04-26 23:39:54] Bot: 1. BS Civil Engineering (BSCE): Focuses on infrastructure design and construction
+2. BS Electrical Engineering (BSEE): Emphasizes electrical systems and power generation
+3. BS Mechanical Engineering (BSME): Focuses on mechanical systems and design
+[2025-04-26 23:39:54] Bot: Which program would you like to learn more about?
+[2025-04-26 23:39:54] Bot: Would you like to know more about any specific aspect of MSU-IIT?

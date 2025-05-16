@@ -1,0 +1,28 @@
+Chat History for User ID: user_1745591971364
+Started: 2025-04-25 22:39:57
+==================================================
+[2025-04-25 22:39:57] User: Who are your developers?
+[2025-04-25 22:39:57] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 22:39:57] Bot: My creators are Draco, Van, and Justine, who are students at MSU-IIT. They built me to help fellow students and visitors easily access information about the university.
+[2025-04-25 22:40:16] User: What model are you being trained?
+[2025-04-25 22:40:16] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 22:40:16] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 22:40:34] User: Can you share about your Machine Learning model?
+[2025-04-25 22:40:34] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 22:40:34] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 22:40:37] User: Okay
+[2025-04-25 22:40:37] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 22:40:37] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 22:40:54] User: What are the information you can share about msu iit
+[2025-04-25 22:40:54] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 22:40:54] Bot: MSU-IIT (Mindanao State University - Iligan Institute of Technology) is a premier state university established in 1968. Known for its excellence in science and technology education, MSU-IIT has consistently ranked among the top universities in the Philippines. The university offers quality education across various fields including engineering, computer studies, science and mathematics, business, arts, and more.
+[2025-04-25 22:40:54] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-25 22:41:13] User: How about its entrance exam?
+[2025-04-25 22:41:13] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 22:41:13] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 22:41:28] User: Can you discuss the scope of you knowledge?
+[2025-04-25 22:41:28] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 22:41:28] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 22:41:34] User: okay bye
+[2025-04-25 22:41:34] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 22:41:34] Bot: Take care! I'm here whenever you need information about MSU-IIT.

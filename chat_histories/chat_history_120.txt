@@ -1,0 +1,85 @@
+Chat History for User ID: user_1745629172407
+Started: 2025-04-26 09:00:34
+==================================================
+[2025-04-26 09:00:34] User: hello po
+[2025-04-26 09:00:34] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 09:00:34] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-26 09:01:04] User: what is ccs?
+[2025-04-26 09:01:04] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 09:01:04] Bot: The College of Computer Studies (CCS) is MSU-IIT's center for computing education. It offers undergraduate programs in Computer Science, Information Technology, and Information Systems. The college is known for its modern facilities, experienced faculty, and strong industry partnerships. Would you like to know more about:
+1. Our programs
+2. Facilities
+3. Career opportunities?
+[2025-04-26 09:01:04] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 09:01:49] User: career opportunities?
+[2025-04-26 09:01:49] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 09:01:49] Bot: MSU-IIT supports working students through:
+- Flexible class schedules
+- Student assistant positions
+- Part-time work opportunities in campus
+- Industry internship programs
+[2025-04-26 09:01:49] Bot: Working students should maintain satisfactory academic performance and inform their academic advisor to ensure proper balance of work and studies.
+[2025-04-26 09:01:49] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 09:02:19] User: career opportunities for ccs students
+[2025-04-26 09:02:19] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 09:02:19] Bot: Career opportunities for our graduates include:
+[2025-04-26 09:02:19] Bot: For BSCS Graduates:
+• Software Engineer (₱25,000 - ₱120,000/month)
+• AI/ML Engineer
+• Data Scientist
+• Research & Development
+• Game Developer
+• Cloud Solutions Architect
+[2025-04-26 09:02:19] Bot: For BSIT Graduates:
+• Systems Administrator
+• Network Engineer
+• Web Developer
+• IT Security Specialist
+• DevOps Engineer
+• Technical Support Specialist
+[2025-04-26 09:02:19] Bot: For BSIS Graduates:
+• Business Systems Analyst
+• IT Project Manager
+• Database Administrator
+• ERP Consultant
+• Digital Transformation Specialist
+[2025-04-26 09:02:19] Bot: For BSCS Graduates:
+• Software Engineer 
+• AI/ML Engineer
+• Data Scientist 
+• Research & Development Engineer
+• Game Developer
+• Cloud Solutions Architect
+[2025-04-26 09:02:19] Bot: Companies actively hiring CS graduates:
+• Google, Microsoft, IBM
+• Local tech companies and startups
+• International software companies
+• Research institutions
+• Game development studios
+[2025-04-26 09:02:19] Bot: Career Growth:
+• Technical Lead
+• Software Architect
+• Research Scientist
+• CTO
+• Tech Entrepreneur
+[2025-04-26 09:02:19] Bot: Many of our graduates work in:
+• Top tech companies (Google, Microsoft, IBM)
+• Banks and financial institutions
+• Government agencies
+• BPO companies
+• Start-ups
+• International companies (both local and abroad)
+[2025-04-26 09:02:19] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 09:03:17] User: what are the admission requirements?
+[2025-04-26 09:03:17] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 09:03:17] Bot: The MSU-IIT Admissions Office or OASG is responsible for processing applications, conducting entrance exams, and managing student admissions. The office provides information on admission requirements, application procedures, and enrollment schedules. Would you like to know more about:
+1. Admission requirements
+2. Application process
+3. Entrance exams?
+[2025-04-26 09:03:17] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 09:03:33] User: location?
+[2025-04-26 09:03:33] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 09:03:33] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 09:04:01] User: location of the admission office like where is it located inside of iit?
+[2025-04-26 09:04:01] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 09:04:01] Bot: I'm sorry, I didn't understand that. Could you rephrase?

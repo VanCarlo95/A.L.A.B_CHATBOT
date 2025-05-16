@@ -1,0 +1,48 @@
+Chat History for User ID: user_1745489799931
+Started: 2025-04-24 18:19:23
+==================================================
+[2025-04-24 18:19:23] User: hello
+[2025-04-24 18:19:23] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 18:19:23] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-24 18:19:32] User: hello
+[2025-04-24 18:19:32] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 18:19:32] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-24 18:19:38] User: msuiit?
+[2025-04-24 18:19:38] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 18:19:38] Bot: MSU-IIT (Mindanao State University - Iligan Institute of Technology) is a premier state university established in 1968. Known for its excellence in science and technology education, MSU-IIT has consistently ranked among the top universities in the Philippines. The university offers quality education across various fields including engineering, computer studies, science and mathematics, business, arts, and more.
+[2025-04-24 18:19:38] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-24 18:22:11] User: joy
+[2025-04-24 18:22:11] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 18:22:11] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-24 18:22:20] User: academics
+[2025-04-24 18:22:20] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 18:22:20] Bot: MSU-IIT has seven colleges:
+1. College of Engineering (COE)
+2. College of Computer Studies (CCS)
+3. College of Science and Mathematics (CSM)
+4. College of Business Administration and Accountancy (CBAA)
+5. College of Arts and Social Sciences (CASS)
+6. College of Education (CED)
+7. College of Health Sciences (CHS)
+[2025-04-24 18:22:32] User: tuition
+[2025-04-24 18:22:32] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 18:22:32] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-24 18:22:38] User: admission
+[2025-04-24 18:22:38] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 18:22:38] Bot: The MSU-IIT Admissions Office or OASG is responsible for processing applications, conducting entrance exams, and managing student admissions. The office provides information on admission requirements, application procedures, and enrollment schedules. Would you like to know more about:
+1. Admission requirements
+2. Application process
+3. Entrance exams?
+[2025-04-24 18:22:38] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-24 18:22:46] User: policy
+[2025-04-24 18:22:46] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 18:22:46] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-24 18:23:04] User: chancellor
+[2025-04-24 18:23:04] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 18:23:04] Bot: The current Chancellor of MSU-IIT is Dr. Alizedney M. Ditucalan. Under his leadership, the university has achieved significant milestones, including ranking 3rd among Philippine universities in the Times Higher Education (THE) World University Rankings 2025. Chancellor Ditucalan has emphasized strengthening academic publishing and research initiatives.
+[2025-04-24 18:23:04] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-24 18:23:14] User: vice chancellor
+[2025-04-24 18:23:14] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 18:23:14] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-24 18:23:14] Bot: ❌ You've reached the message limit. Thank you for testing our chatbot. Your participation in our study is crucial and would be greatly appreciated. <a href='https://2ly.link/26ajD'>Please continue here to provide your feedback</a>
+[2025-04-24 18:23:14] SYSTEM: Message limit reached

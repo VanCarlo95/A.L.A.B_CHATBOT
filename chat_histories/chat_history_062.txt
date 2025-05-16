@@ -1,0 +1,6 @@
+Chat History for User ID: user_1745591641691
+Started: 2025-04-25 22:34:32
+==================================================
+[2025-04-25 22:34:32] User: what is google
+[2025-04-25 22:34:32] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 22:34:32] Bot: I am ALAB, the Automated Learning Assistant Bot for MSU-IIT. I'm here to help answer your questions about MSU-IIT, its colleges, programs, and facilities.

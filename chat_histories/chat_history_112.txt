@@ -1,0 +1,10 @@
+Chat History for User ID: user_1745615676416
+Started: 2025-04-26 05:14:49
+==================================================
+[2025-04-26 05:14:49] User: test
+[2025-04-26 05:14:49] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 05:14:49] Bot: I. Hematology II. Urinalysis III. FBS IV. RBS V. Lipid Profile VI. Creatinine VII. Blood Uric Acid (BUA) VIII. Blood Urea Nitrogen (BUN) IX. SGPT X. SGOT VI. Blood Typing
+[2025-04-26 05:14:49] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 05:15:08] User: minimum gpa for honors?
+[2025-04-26 05:15:08] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 05:15:08] Bot: I'm sorry, I didn't understand that. Could you rephrase?

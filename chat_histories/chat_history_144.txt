@@ -1,0 +1,31 @@
+Chat History for User ID: user_1745656961608
+Started: 2025-04-26 16:43:39
+==================================================
+[2025-04-26 16:43:39] User: information technology courses
+[2025-04-26 16:43:39] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 16:43:39] Bot: BS Information Technology (BSIT) Program Details:
+[2025-04-26 16:43:39] Bot: Overview:
+• Industry-aligned IT program
+• Focus on practical applications
+• Strong emphasis on current technologies
+• Hands-on technical skills development
+[2025-04-26 16:43:39] Bot: Key Features:
+• Network administration
+• Systems administration
+• Web and mobile development
+• Database management
+• IT project management
+• Industry certifications
+[2025-04-26 16:43:39] Bot: Learning Outcomes:
+• Technical implementation skills
+• System administration capabilities
+• Network management expertise
+• Web and mobile development proficiency
+• IT service management knowledge
+[2025-04-26 16:43:39] Bot: Special Features:
+• Industry certifications (CISCO, CompTIA)
+• Hands-on laboratory exercises
+• Industry internships
+• Real-world projects
+• Technical support training
+[2025-04-26 16:43:39] Bot: Would you like to know more about any specific aspect of MSU-IIT?

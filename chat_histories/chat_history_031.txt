@@ -1,0 +1,16 @@
+Chat History for User ID: user_1745535311493
+Started: 2025-04-25 06:55:36
+==================================================
+[2025-04-25 06:55:36] User: Where can you find prism building
+[2025-04-25 06:55:36] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 06:55:36] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 06:55:51] User: Where can you find the PRISM building
+[2025-04-25 06:55:51] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 06:55:51] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 06:56:12] User: Premier research institute of Science and Mathematics
+[2025-04-25 06:56:12] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 06:56:12] Bot: Yes, students are encouraged to engage in research on topics related to biology, chemistry, mathematics, physics, statistics, and environmental science. The college has research centers that provide resources and support for student research projects.
+[2025-04-25 06:56:12] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-25 06:56:34] User: Random fact on MSU-IIT
+[2025-04-25 06:56:34] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 06:56:34] Bot: I'm sorry, I didn't understand that. Could you rephrase?

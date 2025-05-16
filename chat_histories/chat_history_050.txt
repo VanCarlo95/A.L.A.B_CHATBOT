@@ -1,0 +1,35 @@
+Chat History for User ID: user_1745550231228
+Started: 2025-04-25 11:03:56
+==================================================
+[2025-04-25 11:03:56] User: hi
+[2025-04-25 11:03:56] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 11:03:56] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-25 11:04:05] User: Who created you?
+[2025-04-25 11:04:05] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 11:04:05] Bot: I was developed by Draco, Van, and Justine. They're the brilliant minds behind my design and knowledge base, creating me to serve as an informational resource for the MSU-IIT community.
+[2025-04-25 11:04:23] User: Can you introduce them to me?
+[2025-04-25 11:04:23] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 11:04:23] Bot: I was designed to serve as an information assistant for MSU-IIT, helping people learn about the university's offerings, locations, and resources without having to search through multiple sources.
+[2025-04-25 11:04:40] User: I mean, introduce the creators to me
+[2025-04-25 11:04:40] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 11:04:40] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 11:04:57] User: Give the full details of your creators
+[2025-04-25 11:04:57] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 11:04:57] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 11:05:38] User: who develop you and who are they?
+[2025-04-25 11:05:38] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 11:05:38] Bot: I was developed by Draco, Van, and Justine. They're the brilliant minds behind my design and knowledge base, creating me to serve as an informational resource for the MSU-IIT community.
+[2025-04-25 11:05:58] User: you know Silahis?
+[2025-04-25 11:05:58] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 11:05:58] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 11:06:08] User: you know MSU-IIT?
+[2025-04-25 11:06:08] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 11:06:08] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 11:06:20] User: where is MSU-IIT?
+[2025-04-25 11:06:20] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 11:06:20] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 11:06:40] User: can you help me find the MSU-IIT Gymnasium?
+[2025-04-25 11:06:40] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 11:06:40] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 11:06:40] Bot: ❌ You've reached the message limit. Thank you for testing our chatbot. Your participation in our study is crucial and would be greatly appreciated. <a href='https://2ly.link/26ajD'>Please continue here to provide your feedback</a>
+[2025-04-25 11:06:40] SYSTEM: Message limit reached

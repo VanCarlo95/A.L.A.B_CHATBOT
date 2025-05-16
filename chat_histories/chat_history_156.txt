@@ -1,0 +1,53 @@
+Chat History for User ID: user_1745662123306
+Started: 2025-04-26 18:08:53
+==================================================
+[2025-04-26 18:08:53] User: Hello
+[2025-04-26 18:08:53] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:08:53] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-26 18:09:02] User: Unifast
+[2025-04-26 18:09:02] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:09:02] Bot: FBS: 6-8 hours Lipid Profile: 10-12 hours Both FBS and Lipid Profile: 10-12 hours
+[2025-04-26 18:09:02] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 18:09:22] User: Unified scholarship scheme
+[2025-04-26 18:09:22] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:09:22] Bot: MSU offers various scholarship opportunities:
+• Entrance Scholarships for top SASE performers
+• Academic Scholarships for high-achieving students
+• Cultural and Athletic Grants
+• Financial Aid Programs
+• Government Scholarship Programs
+• Research Scholarships
+• Special Grants for Indigenous Peoples
+[2025-04-26 18:09:22] Bot: Each scholarship has specific requirements and benefits. Contact the Scholarship Office for detailed information and application procedures.
+[2025-04-26 18:09:22] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 18:09:43] User: What is science
+[2025-04-26 18:09:43] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:09:43] Bot: BS Computer Science (BSCS) Program Details:
+[2025-04-26 18:09:43] Bot: Overview:
+• Premier program focusing on core computing principles
+• Strong emphasis on mathematics and theoretical foundations
+• Extensive programming and algorithm development
+• Research-oriented approach
+[2025-04-26 18:09:43] Bot: Key Features:
+• Advanced mathematics courses
+• Theoretical computer science
+• Algorithm analysis and design
+• Multiple programming paradigms
+• Artificial Intelligence and Machine Learning
+• Research methodology
+[2025-04-26 18:09:43] Bot: Learning Outcomes:
+• Strong problem-solving skills
+• Advanced programming capabilities
+• Understanding of computing theory
+• Research and analytical skills
+• Innovation and creativity in software development
+[2025-04-26 18:09:43] Bot: Special Features:
+• Research opportunities
+• Programming competitions
+• Industry collaboration projects
+• Advanced computing laboratories
+• International certification preparations
+[2025-04-26 18:09:43] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 18:09:49] User: Biology
+[2025-04-26 18:09:49] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:09:49] Bot: I'm sorry, I didn't understand that. Could you rephrase?

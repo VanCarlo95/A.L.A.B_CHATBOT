@@ -1,0 +1,13 @@
+Chat History for User ID: user_1745750365788
+Started: 2025-04-27 18:39:45
+==================================================
+[2025-04-27 18:39:45] User: What is CED?
+[2025-04-27 18:39:45] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 18:39:45] Bot: The College of Education (CED) at MSU-IIT offers undergraduate programs in Elementary Education, Secondary Education, and Special Education. The college is known for its state-of-the-art facilities, experienced faculty, and strong industry connections. Would you like to know more about:
+1. Our programs
+2. Facilities
+3. Career opportunities?
+[2025-04-27 18:39:45] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-27 18:40:03] User: What about IDS?
+[2025-04-27 18:40:03] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 18:40:03] Bot: My purpose is to provide quick and accurate information about MSU-IIT's academic programs, facilities, and services. I'm here to make it easier for you to find the information you need about the university.

@@ -1,0 +1,19 @@
+Chat History for User ID: user_1745670111522
+Started: 2025-04-26 20:21:55
+==================================================
+[2025-04-26 20:21:55] User: hi
+[2025-04-26 20:21:55] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 20:21:55] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-26 20:22:05] User: what is ceba?
+[2025-04-26 20:22:05] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 20:22:05] Bot: The College of Economics and Business Administration (CEBA) at MSU-IIT offers undergraduate programs in Business Administration, Accountancy, and Economics. The college is known for its state-of-the-art facilities, experienced faculty, and strong industry connections. Would you like to know more about:
+1. Our programs
+2. Facilities
+3. Career opportunities?
+[2025-04-26 20:22:05] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 20:22:25] User: yes please
+[2025-04-26 20:22:25] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 20:22:25] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 20:22:44] User: i wanna know about the career opportunities
+[2025-04-26 20:22:44] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 20:22:44] Bot: I'm sorry, I didn't understand that. Could you rephrase?

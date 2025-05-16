@@ -1,0 +1,60 @@
+version: "3.1"
+
+rules:
+# Core conversational rules that should always apply
+- rule: Say goodbye anytime
+  steps:
+  - intent: goodbye
+  - action: utter_goodbye
+
+- rule: Respond to bot challenge anytime
+  steps:
+  - intent: bot_challenge
+  - action: utter_iamabot
+
+# Fallback behavior
+# - rule: Default fallback
+#   steps:
+#   - intent: nlu_fallback
+#   - action: utter_default
+
+# College inquiry rules
+- rule: Handle COE General Inquiry
+  condition:
+    - active_loop: null
+  steps:
+    - intent: coe_general_inquiry
+    - action: action_set_active_college
+    - action: utter_coe_general_inquiry
+    - action: utter_ask_follow_up_general
+    - action: action_listen
+
+- rule: Handle CCS General Inquiry
+  condition:
+    - active_loop: null
+  steps:
+    - intent: ccs_general_inquiry
+    - action: action_set_active_college
+    - action: utter_ccs_general_inquiry
+    - action: utter_ask_follow_up_general
+    - action: action_listen
+
+- rule: Handle CHS General Inquiry
+  condition:
+    - active_loop: null
+  steps:
+    - intent: chs_general_inquiry
+    - action: action_set_active_college
+    - action: utter_chs_general_inquiry
+    - action: utter_ask_follow_up_general
+    - action: action_listen
+
+- rule: Respond to general follow-up questions
+  steps:
+  - intent: ask_follow_up_general
+  - action: utter_ask_follow_up_general
+
+- rule: Handle default fallback
+  steps:
+  - intent: default
+  - action: utter_default

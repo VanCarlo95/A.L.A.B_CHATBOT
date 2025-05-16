@@ -1,0 +1,14 @@
+Chat History for User ID: user_1745638974703
+Started: 2025-04-26 11:43:03
+==================================================
+[2025-04-26 11:43:03] User: Hello
+[2025-04-26 11:43:03] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 11:43:03] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-26 11:43:19] User: Who is the current Dean of CASS?
+[2025-04-26 11:43:19] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 11:43:19] Bot: The CASS Dean's office is located at the ground floor of the new CASS building.
+[2025-04-26 11:43:19] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 11:43:38] User: Who is the Chancellor of MSUIIT
+[2025-04-26 11:43:38] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 11:43:38] Bot: The current Chancellor of MSU-IIT is Dr. Alizedney M. Ditucalan. Under his leadership, the university has achieved significant milestones, including ranking 3rd among Philippine universities in the Times Higher Education (THE) World University Rankings 2025. Chancellor Ditucalan has emphasized strengthening academic publishing and research initiatives.
+[2025-04-26 11:43:38] Bot: Would you like to know more about any specific aspect of MSU-IIT?

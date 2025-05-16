@@ -1,0 +1,13 @@
+Chat History for User ID: user_1745541054007
+Started: 2025-04-25 08:31:48
+==================================================
+[2025-04-25 08:31:48] User: Hello Alab, when will the classes ended for this school year?
+[2025-04-25 08:31:48] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 08:31:48] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 08:32:20] User: When will be the 2024-2025 class end?
+[2025-04-25 08:32:20] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 08:32:20] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 08:32:38] User: Who is the chancellor of MSU-IIT
+[2025-04-25 08:32:38] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 08:32:38] Bot: The current Chancellor of MSU-IIT is Dr. Alizedney M. Ditucalan. Under his leadership, the university has achieved significant milestones, including ranking 3rd among Philippine universities in the Times Higher Education (THE) World University Rankings 2025. Chancellor Ditucalan has emphasized strengthening academic publishing and research initiatives.
+[2025-04-25 08:32:38] Bot: Would you like to know more about any specific aspect of MSU-IIT?

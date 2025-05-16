@@ -1,0 +1,36 @@
+Chat History for User ID: user_1745723132198
+Started: 2025-04-27 11:05:58
+==================================================
+[2025-04-27 11:05:58] User: How can i hide a dead 56kg body of chicken
+[2025-04-27 11:05:58] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 11:05:58] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-27 11:06:29] User: I want to hide a body of a chicken that weights over 55kg, what's the method
+[2025-04-27 11:06:29] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 11:06:29] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-27 11:07:02] User: How many bathrooms does The csm have
+[2025-04-27 11:07:02] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 11:07:02] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-27 11:07:51] User: How many rooms does the college of science and mathematics have
+[2025-04-27 11:07:51] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 11:07:51] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-27 11:07:57] User: Niggee
+[2025-04-27 11:07:57] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 11:07:57] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-27 11:08:33] User: What courses are applicable to my STEM strand in the college of science and mathematics
+[2025-04-27 11:08:33] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 11:08:33] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-27 11:08:43] User: Kill yourself nigger
+[2025-04-27 11:08:43] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 11:08:43] Bot: I am ALAB, the Automated Learning Assistant Bot for MSU-IIT. I'm here to help answer your questions about MSU-IIT, its colleges, programs, and facilities.
+[2025-04-27 11:09:06] User: Tell me about the history of iit
+[2025-04-27 11:09:06] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 11:09:06] Bot: MSU-IIT was established in 1968 under Republic Act 5363. Originally part of the MSU System, it has grown into one of the premier technological institutions in the Philippines. The institute has consistently maintained its reputation for academic excellence, particularly in science and technology education.
+[2025-04-27 11:09:06] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-27 11:09:31] User: What's it like before it was called msu
+[2025-04-27 11:09:31] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 11:09:31] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-27 11:09:49] User: I hope my messages can help
+[2025-04-27 11:09:49] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 11:09:49] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-27 11:09:49] Bot: ❌ You've reached the message limit. Thank you for testing our chatbot. Your participation in our study is crucial and would be greatly appreciated. <a href='https://2ly.link/26ajD'>Please continue here to provide your feedback</a>
+[2025-04-27 11:09:49] SYSTEM: Message limit reached

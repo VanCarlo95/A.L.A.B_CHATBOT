@@ -1,0 +1,9 @@
+Chat History for User ID: user_1745664529194
+Started: 2025-04-26 19:12:16
+==================================================
+[2025-04-26 19:12:16] User: what can you help me with?
+[2025-04-26 19:12:16] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 19:12:16] Bot: I was created to help students and prospective students get information about MSU-IIT. I can answer questions about colleges, programs, facilities, and services offered by the university.
+[2025-04-26 19:12:59] User: tell me about the masters in data science course offered by the university
+[2025-04-26 19:12:59] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 19:12:59] Bot: I'm sorry, I didn't understand that. Could you rephrase?

@@ -1,0 +1,47 @@
+Chat History for User ID: user_1745674432749
+Started: 2025-04-26 21:34:00
+==================================================
+[2025-04-26 21:34:00] User: Hello
+[2025-04-26 21:34:00] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 21:34:00] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-26 21:34:17] User: Who was the winner of Palakasan 2013
+[2025-04-26 21:34:17] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 21:34:17] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 21:34:32] User: Who was the winner of MSU IIT PALAKASAN 2013
+[2025-04-26 21:34:32] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 21:34:32] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 21:34:46] User: Who was the winner of PALAKASAN 2025
+[2025-04-26 21:34:46] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 21:34:46] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 21:35:18] User: What the scope of your available information?
+[2025-04-26 21:35:18] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 21:35:18] Bot: I was created to help students and prospective students get information about MSU-IIT. I can answer questions about colleges, programs, facilities, and services offered by the university.
+[2025-04-26 21:36:22] User: What would happen if I fail 75% of the subjects taken this semester
+[2025-04-26 21:36:22] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 21:36:22] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 21:36:37] User: What is the equivalent grade of INC?
+[2025-04-26 21:36:37] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 21:36:37] Bot: CCS uses a comprehensive evaluation system that includes:
+- Regular examinations (40%)
+- Laboratory work and projects (30%)
+- Assignments and quizzes (20%)
+- Class participation (10%)
+[2025-04-26 21:36:37] Bot: Grading follows the university's standard system:
+- 1.0 (Excellent) to 5.0 (Failed)
+- 3.0 is the passing grade for most subjects
+- Some technical subjects require 2.5 or better to pass
+[2025-04-26 21:36:37] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 21:37:09] User: What are the requirements to withdraw a subject?
+[2025-04-26 21:37:09] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 21:37:09] Bot: For subject withdrawal, fill out the Academic Load Revision Permit, attach the required documents, and submit it to the Registrar’s Office.
+[2025-04-26 21:37:09] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 21:37:28] User: When is the deadline for withdrawal?
+[2025-04-26 21:37:28] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 21:37:28] Bot: For subject withdrawal, fill out the Academic Load Revision Permit, attach the required documents, and submit it to the Registrar’s Office.
+[2025-04-26 21:37:28] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 21:37:41] User: Who is the current chancellor?
+[2025-04-26 21:37:41] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 21:37:41] Bot: The current Chancellor of MSU-IIT is Dr. Alizedney M. Ditucalan. Under his leadership, the university has achieved significant milestones, including ranking 3rd among Philippine universities in the Times Higher Education (THE) World University Rankings 2025. Chancellor Ditucalan has emphasized strengthening academic publishing and research initiatives.
+[2025-04-26 21:37:41] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 21:37:41] Bot: ❌ You've reached the message limit. Thank you for testing our chatbot. Your participation in our study is crucial and would be greatly appreciated. <a href='https://2ly.link/26ajD'>Please continue here to provide your feedback</a>
+[2025-04-26 21:37:41] SYSTEM: Message limit reached

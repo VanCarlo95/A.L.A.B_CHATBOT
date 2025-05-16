@@ -1,0 +1,22 @@
+Chat History for User ID: user_1745595280799
+Started: 2025-04-25 23:34:50
+==================================================
+[2025-04-25 23:34:50] User: hi
+[2025-04-25 23:34:50] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:34:50] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-25 23:34:58] User: what is csm?
+[2025-04-25 23:34:58] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:34:58] Bot: The College of Science and Mathematics (CSM) at MSU-IIT offers undergraduate programs in Biology, Chemistry, Mathematics, Physics, and Statistics. The college is known for its state-of-the-art facilities, experienced faculty, and strong industry connections. Would you like to know more about:
+1. Our programs
+2. Facilities
+3. Career opportunities?
+[2025-04-25 23:34:58] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-25 23:35:11] User: chemistry?
+[2025-04-25 23:35:11] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:35:11] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 23:35:21] User: bs chemistry?
+[2025-04-25 23:35:21] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:35:21] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 23:35:30] User: do you bs chemistry from msu iit?
+[2025-04-25 23:35:30] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:35:30] Bot: I'm sorry, I didn't understand that. Could you rephrase?

@@ -1,0 +1,48 @@
+Chat History for User ID: user_1745489231417
+Started: 2025-04-25 10:54:58
+==================================================
+[2025-04-25 10:54:58] User: Hi!
+[2025-04-25 10:54:58] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 10:54:58] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-25 10:55:09] User: How do I enroll?
+[2025-04-25 10:55:09] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 10:55:09] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 10:55:25] User: What is MSU IIT?
+[2025-04-25 10:55:25] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 10:55:25] Bot: MSU-IIT (Mindanao State University - Iligan Institute of Technology) is a premier state university established in 1968. Known for its excellence in science and technology education, MSU-IIT has consistently ranked among the top universities in the Philippines. The university offers quality education across various fields including engineering, computer studies, science and mathematics, business, arts, and more.
+[2025-04-25 10:55:25] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-25 10:55:42] User: How do I enroll?
+[2025-04-25 10:55:42] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 10:55:42] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 10:55:56] User: What is CEBA?
+[2025-04-25 10:55:56] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 10:55:56] Bot: The College of Economics and Business Administration (CEBA) at MSU-IIT offers undergraduate programs in Business Administration, Accountancy, and Economics. The college is known for its state-of-the-art facilities, experienced faculty, and strong industry connections. Would you like to know more about:
+1. Our programs
+2. Facilities
+3. Career opportunities?
+[2025-04-25 10:55:56] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-25 10:56:13] User: What programs does CEBA have?
+[2025-04-25 10:56:13] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 10:56:13] Bot: The College of Business Administration and Accountancy offers Bachelor of Science in Accountancy (BSA), Bachelor of Science in Business Administration (BSBA) with majors in Marketing Management, and Business Economics, as well as Bachelor of Science in Hospitality Management (BSHM).
+[2025-04-25 10:56:13] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-25 10:56:58] User: How to graduate at MSU IIT?
+[2025-04-25 10:56:58] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 10:56:58] Bot: MSU-IIT has seven colleges:
+1. College of Engineering (COE)
+2. College of Computer Studies (CCS)
+3. College of Science and Mathematics (CSM)
+4. College of Business Administration and Accountancy (CBAA)
+5. College of Arts and Social Sciences (CASS)
+6. College of Education (CED)
+7. College of Health Sciences (CHS)
+[2025-04-25 10:57:24] User: Do you have masteral programs?
+[2025-04-25 10:57:24] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 10:57:24] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 10:57:33] User: Who is ALAB?
+[2025-04-25 10:57:33] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 10:57:33] Bot: I was created by a talented team of MSU-IIT students: Draco, Van, and Justine. They developed me as part of their project to improve information accessibility for the university community.
+[2025-04-25 11:02:11] User: Do you know how I can enroll?
+[2025-04-25 11:02:11] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 11:02:11] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 11:02:11] Bot: ❌ You've reached the message limit. Thank you for testing our chatbot. Your participation in our study is crucial and would be greatly appreciated. <a href='https://2ly.link/26ajD'>Please continue here to provide your feedback</a>
+[2025-04-25 11:02:11] SYSTEM: Message limit reached

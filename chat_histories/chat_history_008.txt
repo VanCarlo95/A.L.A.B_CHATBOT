@@ -1,0 +1,37 @@
+Chat History for User ID: user_1745491037054
+Started: 2025-04-24 18:37:47
+==================================================
+[2025-04-24 18:37:47] User: What does A.L.A.B. mean?
+[2025-04-24 18:37:47] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 18:37:47] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-24 18:38:09] User: Your name, it's A.L.A.B., what does the abbreviation mean?
+[2025-04-24 18:38:09] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 18:38:09] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-24 18:39:11] User: How can I get my TOR?
+[2025-04-24 18:39:11] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 18:39:11] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-24 18:39:21] User: I want to get my transcript of records
+[2025-04-24 18:39:21] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 18:39:21] Bot: To request a transcript of records, fill out the relevant form and pay Php 50.00 per page. The processing time is approximately three working days.
+[2025-04-24 18:39:21] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-24 18:39:55] User: Who is the current chancellor of MSU-IIT?
+[2025-04-24 18:39:55] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 18:39:55] Bot: The current Chancellor of MSU-IIT is Dr. Alizedney M. Ditucalan. Under his leadership, the university has achieved significant milestones, including ranking 3rd among Philippine universities in the Times Higher Education (THE) World University Rankings 2025. Chancellor Ditucalan has emphasized strengthening academic publishing and research initiatives.
+[2025-04-24 18:39:55] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-24 18:41:40] User: Who is Michelle Caracut?
+[2025-04-24 18:41:40] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 18:41:40] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-24 18:41:56] User: Who is the director of Office of Communications?
+[2025-04-24 18:41:56] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 18:41:56] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-24 18:42:14] User: Do you have database on staff of MSU-IIT?
+[2025-04-24 18:42:14] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 18:42:14] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-24 18:42:53] User: Who are you?
+[2025-04-24 18:42:53] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 18:42:53] Bot: My creators are Draco, Van, and Justine, who are students at MSU-IIT. They built me to help fellow students and visitors easily access information about the university.
+[2025-04-24 18:43:09] User: What questions have they taught you?
+[2025-04-24 18:43:09] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 18:43:09] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-24 18:43:09] Bot: ❌ You've reached the message limit. Thank you for testing our chatbot. Your participation in our study is crucial and would be greatly appreciated. <a href='https://2ly.link/26ajD'>Please continue here to provide your feedback</a>
+[2025-04-24 18:43:09] SYSTEM: Message limit reached

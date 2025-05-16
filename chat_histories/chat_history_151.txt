@@ -1,0 +1,27 @@
+Chat History for User ID: user_1745660656486
+Started: 2025-04-26 17:44:27
+==================================================
+[2025-04-26 17:44:27] User: hello
+[2025-04-26 17:44:27] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:44:27] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-26 17:44:33] User: q
+[2025-04-26 17:44:33] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:44:33] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 17:44:39] User: ha
+[2025-04-26 17:44:39] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:44:39] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-26 17:44:45] User: eyy
+[2025-04-26 17:44:45] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:44:45] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 17:44:48] User: yey
+[2025-04-26 17:44:48] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:44:48] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-26 17:44:57] User: yey
+[2025-04-26 17:44:57] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:44:57] Bot: Hello! I am A.L.A.B, your Academic Learning Assistance Bot. How can I help you today?
+[2025-04-26 17:45:03] User: yey
+[2025-04-26 17:45:03] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:45:03] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-26 17:45:09] User: yey
+[2025-04-26 17:45:09] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:45:09] Bot: Hello! I am A.L.A.B, your Academic Learning Assistance Bot. How can I help you today?

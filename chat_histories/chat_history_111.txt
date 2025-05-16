@@ -1,0 +1,10 @@
+Chat History for User ID: user_1745606494638
+Started: 2025-04-26 02:41:45
+==================================================
+[2025-04-26 02:41:45] User: Stipend
+[2025-04-26 02:41:45] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 02:41:45] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 02:41:50] User: allowance
+[2025-04-26 02:41:50] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 02:41:50] Bot: The scholarship application process may take some time due to the evaluation of applications, verification of documents, and selection of awardees. The scholarship office will inform applicants of the status of their application and the expected timeline for the release of results.
+[2025-04-26 02:41:50] Bot: Would you like to know more about any specific aspect of MSU-IIT?

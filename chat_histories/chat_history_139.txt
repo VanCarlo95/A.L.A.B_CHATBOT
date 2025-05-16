@@ -1,0 +1,30 @@
+Chat History for User ID: user_1745650084839
+Started: 2025-04-26 14:48:38
+==================================================
+[2025-04-26 14:48:38] User: Hi, where is Coe?
+[2025-04-26 14:48:38] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 14:48:38] Bot: The College of Engineering and Technology is located in the COET Building, a modern 4-story structure in the heart of MSU-IIT campus. It's easily accessible and recognizable by its distinctive red-brick exterior. The building houses state-of-the-art engineering laboratories, classrooms, and faculty offices.
+[2025-04-26 14:48:38] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 14:48:53] User: Yes
+[2025-04-26 14:48:53] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 14:48:53] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 14:49:27] User: Who is the Chancellor right now?
+[2025-04-26 14:49:27] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 14:49:27] Bot: The current Chancellor of MSU-IIT is Dr. Alizedney M. Ditucalan. Under his leadership, the university has achieved significant milestones, including ranking 3rd among Philippine universities in the Times Higher Education (THE) World University Rankings 2025. Chancellor Ditucalan has emphasized strengthening academic publishing and research initiatives.
+[2025-04-26 14:49:27] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 14:50:44] User: Who is the vice Chancellor of academic affairs?
+[2025-04-26 14:50:44] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 14:50:44] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 14:51:21] User: Who is the vice Chancellor in school?
+[2025-04-26 14:51:21] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 14:51:21] Bot: MSU-IIT's administration is structured with several Vice Chancellors overseeing specific areas:
+• Vice Chancellor for Academic Affairs: Manages academic programs
+• Vice Chancellor for Research and Extension: Oversees research and community services
+• Vice Chancellor for Administration and Finance: Handles administrative and financial operations
+• Vice Chancellor for Planning and Development: Focuses on strategic planning
+• Vice Chancellor for Student Services: Manages student welfare
+[2025-04-26 14:51:21] Bot: These leaders work together to ensure the university's continued growth and excellence.
+[2025-04-26 14:51:21] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 14:51:55] User: Who is those person in charge?
+[2025-04-26 14:51:55] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 14:51:55] Bot: I'm sorry, I didn't understand that. Could you rephrase?

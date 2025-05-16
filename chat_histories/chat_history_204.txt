@@ -1,0 +1,28 @@
+Chat History for User ID: user_1745678276473
+Started: 2025-04-26 22:38:01
+==================================================
+[2025-04-26 22:38:01] User: Hello!
+[2025-04-26 22:38:01] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 22:38:01] Bot: Hello! I am A.L.A.B, your Academic Learning Assistance Bot. How can I help you today?
+[2025-04-26 22:38:22] User: I wanna ask about what is CASS?
+[2025-04-26 22:38:22] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 22:38:22] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 22:38:30] User: Oh Tell me
+[2025-04-26 22:38:30] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 22:38:30] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 22:38:39] User: Tell me about CASS
+[2025-04-26 22:38:39] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 22:38:39] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 22:38:57] User: CASS as in College of Arts and Social Science
+[2025-04-26 22:38:57] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 22:38:57] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 22:39:18] User: What is the College of Arts and Social Science?
+[2025-04-26 22:39:18] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 22:39:18] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 22:40:39] User: What are the other courses of CASS?
+[2025-04-26 22:40:39] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 22:40:39] Bot: The College of Arts and Social Sciences offers Bachelor of Arts in Communication, Bachelor of Arts in English, Bachelor of Arts in History, Bachelor of Arts in Political Science, Bachelor of Arts in Psychology, and Bachelor of Arts in Sociology.
+[2025-04-26 22:40:39] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 22:41:04] User: About more on Philosophy
+[2025-04-26 22:41:04] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 22:41:04] Bot: I'm sorry, I didn't understand that. Could you rephrase?

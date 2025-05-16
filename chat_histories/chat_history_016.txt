@@ -1,0 +1,35 @@
+Chat History for User ID: user_1745503783373
+Started: 2025-04-24 22:09:52
+==================================================
+[2025-04-24 22:09:52] User: Hi
+[2025-04-24 22:09:52] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 22:09:52] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-24 22:10:02] User: How to enroll?
+[2025-04-24 22:10:02] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 22:10:02] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-24 22:10:08] User: How to enroll in iit
+[2025-04-24 22:10:08] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 22:10:08] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-24 22:10:11] User: How to enroll
+[2025-04-24 22:10:11] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 22:10:11] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-24 22:10:14] User: Huh
+[2025-04-24 22:10:14] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 22:10:14] Bot: Hello! I am A.L.A.B, your Academic Learning Assistance Bot. How can I help you today?
+[2025-04-24 22:10:22] User: Tell me how do I enroll
+[2025-04-24 22:10:22] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 22:10:22] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-24 22:10:26] User: How to enter iit
+[2025-04-24 22:10:26] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 22:10:26] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-24 22:10:36] User: Admission requirements
+[2025-04-24 22:10:36] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 22:10:36] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-24 22:10:43] User: Admission requirements
+[2025-04-24 22:10:43] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 22:10:43] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-24 22:10:48] User: Requirements
+[2025-04-24 22:10:48] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 22:10:48] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-24 22:10:48] Bot: ❌ You've reached the message limit. Thank you for testing our chatbot. Your participation in our study is crucial and would be greatly appreciated. <a href='https://2ly.link/26ajD'>Please continue here to provide your feedback</a>
+[2025-04-24 22:10:48] SYSTEM: Message limit reached

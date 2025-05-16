@@ -1,0 +1,54 @@
+Chat History for User ID: user_1745661237150
+Started: 2025-04-26 17:54:09
+==================================================
+[2025-04-26 17:54:09] User: Hello
+[2025-04-26 17:54:09] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:54:09] Bot: Hello! I am A.L.A.B, your Academic Learning Assistance Bot. How can I help you today?
+[2025-04-26 17:54:24] User: Tell me about COE
+[2025-04-26 17:54:24] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:54:24] Bot: The College of Engineering and Technology (COET) is one of the premier colleges at MSU-IIT. It offers undergraduate programs in various engineering disciplines including Civil Engineering, Electrical Engineering, Mechanical Engineering, and more. The college is known for its state-of-the-art facilities, experienced faculty, and strong industry connections. Would you like to know more about:
+1. Our programs
+2. Facilities
+3. Career opportunities?
+[2025-04-26 17:54:24] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 17:54:59] User: Where is COE?
+[2025-04-26 17:54:59] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:54:59] Bot: The College of Engineering and Technology is located in the COET Building, a modern 4-story structure in the heart of MSU-IIT campus. It's easily accessible and recognizable by its distinctive red-brick exterior. The building houses state-of-the-art engineering laboratories, classrooms, and faculty offices.
+[2025-04-26 17:54:59] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 17:55:24] User: What programs does COE have?
+[2025-04-26 17:55:24] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:55:24] Bot: The College of Engineering offers these undergraduate programs:
+[2025-04-26 17:55:24] Bot: 1. BS Civil Engineering (BSCE): Focuses on infrastructure design and construction
+2. BS Electrical Engineering (BSEE): Emphasizes electrical systems and power generation
+3. BS Mechanical Engineering (BSME): Focuses on mechanical systems and design
+[2025-04-26 17:55:24] Bot: Which program would you like to learn more about?
+[2025-04-26 17:55:24] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 17:55:52] User: What are the admission requirements?
+[2025-04-26 17:55:52] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:55:52] Bot: The MSU-IIT Admissions Office or OASG is responsible for processing applications, conducting entrance exams, and managing student admissions. The office provides information on admission requirements, application procedures, and enrollment schedules. Would you like to know more about:
+1. Admission requirements
+2. Application process
+3. Entrance exams?
+[2025-04-26 17:55:52] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 17:56:26] User: Tell me about IIT
+[2025-04-26 17:56:26] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:56:26] Bot: MSU-IIT (Mindanao State University - Iligan Institute of Technology) is a premier state university established in 1968. Known for its excellence in science and technology education, MSU-IIT has consistently ranked among the top universities in the Philippines. The university offers quality education across various fields including engineering, computer studies, science and mathematics, business, arts, and more.
+[2025-04-26 17:56:26] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 17:57:06] User: Tell me about registrar
+[2025-04-26 17:57:06] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:57:06] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 17:57:26] User: Tell me about COE
+[2025-04-26 17:57:26] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:57:26] Bot: The College of Engineering and Technology (COET) is one of the premier colleges at MSU-IIT. It offers undergraduate programs in various engineering disciplines including Civil Engineering, Electrical Engineering, Mechanical Engineering, and more. The college is known for its state-of-the-art facilities, experienced faculty, and strong industry connections. Would you like to know more about:
+1. Our programs
+2. Facilities
+3. Career opportunities?
+[2025-04-26 17:57:26] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 17:58:09] User: Hi
+[2025-04-26 17:58:09] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:58:09] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-26 17:58:16] User: Hello
+[2025-04-26 17:58:16] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:58:16] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-26 17:58:16] Bot: ❌ You've reached the message limit. Thank you for testing our chatbot. Your participation in our study is crucial and would be greatly appreciated. <a href='https://2ly.link/26ajD'>Please continue here to provide your feedback</a>
+[2025-04-26 17:58:16] SYSTEM: Message limit reached

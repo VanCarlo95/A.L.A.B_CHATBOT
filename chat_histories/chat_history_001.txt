@@ -1,0 +1,87 @@
+Chat History for User ID: user
+Started: 2025-04-24 18:19:11
+==================================================
+[2025-04-24 18:19:11] User: Hey
+[2025-04-24 18:19:11] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 18:19:11] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-24 18:19:18] User: Hi
+[2025-04-24 18:19:18] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 18:19:18] Bot: Hello! I am A.L.A.B, your Academic Learning Assistance Bot. How can I help you today?
+[2025-04-24 18:19:27] User: Hi
+[2025-04-24 18:19:27] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 18:19:27] Bot: Hello! I am A.L.A.B, your Academic Learning Assistance Bot. How can I help you today?
+[2025-04-24 18:19:28] User: Hi
+[2025-04-24 18:19:28] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 18:19:28] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-24 18:19:43] User: Hi
+[2025-04-24 18:19:43] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 18:19:43] Bot: Hello! I am A.L.A.B, your Academic Learning Assistance Bot. How can I help you today?
+[2025-04-24 18:20:23] User: Hi
+[2025-04-24 18:20:23] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 18:20:23] Bot: Hello! I am A.L.A.B, your Academic Learning Assistance Bot. How can I help you today?
+[2025-04-24 18:20:25] User: Hi
+[2025-04-24 18:20:25] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 18:20:25] Bot: Hello! I am A.L.A.B, your Academic Learning Assistance Bot. How can I help you today?
+[2025-04-24 18:20:41] User: Hi
+[2025-04-24 18:20:41] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 18:20:41] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-24 18:20:43] User: Hi
+[2025-04-24 18:20:43] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 18:20:43] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-24 18:20:45] User: Hi
+[2025-04-24 18:20:45] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 18:20:45] Bot: Hello! I am A.L.A.B, your Academic Learning Assistance Bot. How can I help you today?
+[2025-04-24 18:20:45] Bot: ❌ You've reached the message limit. Thank you for testing our chatbot. Your participation in our study is crucial and would be greatly appreciated. <a href='https://2ly.link/26ajD'>Please continue here to provide your feedback</a>
+[2025-04-24 18:20:45] SYSTEM: Message limit reached
+[2025-04-24 18:20:48] User: Hi
+[2025-04-24 18:20:48] SYSTEM: Message limit reached
+[2025-04-24 18:21:08] User: Hi
+[2025-04-24 18:21:08] SYSTEM: Message limit reached
+[2025-04-24 18:21:15] User: Ho
+[2025-04-24 18:21:15] SYSTEM: Message limit reached
+[2025-04-24 18:21:24] User: Hi
+[2025-04-24 18:21:24] SYSTEM: Message limit reached
+[2025-04-24 18:21:33] User: Hello
+[2025-04-24 18:21:33] SYSTEM: Message limit reached
+[2025-04-24 18:21:49] User: Hi
+[2025-04-24 18:21:49] SYSTEM: Message limit reached
+[2025-04-24 18:22:09] User: Hi
+[2025-04-24 18:22:09] SYSTEM: Message limit reached
+[2025-04-24 18:22:24] User: Heyey
+[2025-04-24 18:22:24] SYSTEM: Message limit reached
+[2025-04-24 18:22:35] User: Helloo
+[2025-04-24 18:22:35] SYSTEM: Message limit reached
+[2025-04-24 18:22:48] User: Hi
+[2025-04-24 18:22:48] SYSTEM: Message limit reached
+[2025-04-24 18:22:51] User: Hi
+[2025-04-24 18:22:51] SYSTEM: Message limit reached
+[2025-04-24 18:22:52] User: Heyyy
+[2025-04-24 18:22:52] SYSTEM: Message limit reached
+[2025-04-24 18:23:09] User: Heyyy
+[2025-04-24 18:23:09] SYSTEM: Message limit reached
+[2025-04-24 18:23:31] User: Thankk
+[2025-04-24 18:23:31] SYSTEM: Message limit reached
+[2025-04-24 18:25:33] User: Hi
+[2025-04-24 18:25:33] SYSTEM: Message limit reached
+[2025-04-24 18:25:48] User: Hi
+[2025-04-24 18:25:48] SYSTEM: Message limit reached
+[2025-04-24 18:26:07] User: Alabchat
+[2025-04-24 18:26:07] SYSTEM: Message limit reached
+[2025-04-24 18:29:16] User: help me
+[2025-04-24 18:29:16] SYSTEM: Message limit reached
+[2025-04-24 18:29:19] User: I want to enroll
+[2025-04-24 18:29:19] SYSTEM: Message limit reached
+[2025-04-24 18:30:30] User: Hi
+[2025-04-24 18:30:30] SYSTEM: Message limit reached
+[2025-04-24 18:31:39] User: hey
+[2025-04-24 18:31:39] SYSTEM: Message limit reached
+[2025-04-24 18:32:39] User: Hi
+[2025-04-24 18:32:39] SYSTEM: Message limit reached
+[2025-04-24 18:44:29] User: Hi alab
+[2025-04-24 18:44:29] SYSTEM: Message limit reached
+[2025-04-24 18:56:06] User: Hi
+[2025-04-24 18:56:06] SYSTEM: Message limit reached
+[2025-04-24 19:53:39] User: Hi
+[2025-04-24 19:53:39] SYSTEM: Message limit reached
+[2025-04-24 23:24:27] User: Hey
+[2025-04-24 23:24:27] SYSTEM: Message limit reached

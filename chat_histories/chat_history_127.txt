@@ -1,0 +1,29 @@
+Chat History for User ID: user_1745638246658
+Started: 2025-04-26 11:31:02
+==================================================
+[2025-04-26 11:31:02] User: Where is CEBA
+[2025-04-26 11:31:02] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 11:31:02] Bot: The CEBA building is located at the northern part of the university just along the road that leads to the university gymnasium. It is also near the CASS old building and the CET building.
+[2025-04-26 11:31:02] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 11:31:28] User: How many students are there at fourth year Accountancy program
+[2025-04-26 11:31:28] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 11:31:28] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 11:31:43] User: How many students currently are there at accountancy program
+[2025-04-26 11:31:43] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 11:31:43] Bot: Here are the details for our programs:
+[2025-04-26 11:31:43] Bot: Bachelor of Science in Accountancy (BSA):
+• Core Focus: Accounting principles and practices
+• Key Subjects: Financial Accounting, Auditing, Taxation
+• Duration: 4 years
+• Special Features: CPA Board Exam Review, Internship Program
+[2025-04-26 11:31:43] Bot: Bachelor of Science in Business Administration (BSBA):
+• Core Focus: Business management and operations
+• Key Subjects: Marketing, Finance, Human Resources
+• Duration: 4 years
+• Special Features: Business Plan Competitions, Industry Internships
+[2025-04-26 11:31:43] Bot: Bachelor of Science in Hospitality Management (BSHM):
+• Core Focus: Hospitality industry operations
+• Key Subjects: Hotel Management, Tourism, Event Planning
+• Duration: 4 years
+• Special Features: Internship Program, Culinary Arts Training
+[2025-04-26 11:31:43] Bot: Would you like to know more about any specific aspect of MSU-IIT?

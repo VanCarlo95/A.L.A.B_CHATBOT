@@ -1,0 +1,31 @@
+Chat History for User ID: user_1745679532400
+Started: 2025-04-26 22:58:57
+==================================================
+[2025-04-26 22:58:57] User: hello
+[2025-04-26 22:58:57] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 22:58:57] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-26 22:59:04] User: what can you do
+[2025-04-26 22:59:04] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 22:59:04] Bot: I was created to help students and prospective students get information about MSU-IIT. I can answer questions about colleges, programs, facilities, and services offered by the university.
+[2025-04-26 22:59:46] User: what are the colleges in msu iit
+[2025-04-26 22:59:46] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 22:59:46] Bot: MSU-IIT has seven colleges:
+1. College of Engineering (COE)
+2. College of Computer Studies (CCS)
+3. College of Science and Mathematics (CSM)
+4. College of Business Administration and Accountancy (CBAA)
+5. College of Arts and Social Sciences (CASS)
+6. College of Education (CED)
+7. College of Health Sciences (CHS)
+[2025-04-26 22:59:53] User: 1+!
+[2025-04-26 22:59:53] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 22:59:53] Bot: Form 137-A or Form 138 can be requested by filling out the relevant form from the Registrar’s Office.
+[2025-04-26 22:59:53] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 23:00:04] User: 1+!
+[2025-04-26 23:00:04] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 23:00:04] Bot: Form 137-A or Form 138 can be requested by filling out the relevant form from the Registrar’s Office.
+[2025-04-26 23:00:04] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 23:00:33] User: WHAT ARE THE PROGRAMS UNDER CSM
+[2025-04-26 23:00:33] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 23:00:33] Bot: The College of Science and Mathematics offers Bachelor of Science in Biology, Bachelor of Science in Chemistry, Bachelor of Science in Mathematics, Bachelor of Science in Physics, and Bachelor of Science in Statistics.
+[2025-04-26 23:00:33] Bot: Would you like to know more about any specific aspect of MSU-IIT?

@@ -1,0 +1,48 @@
+Chat History for User ID: user_1745597710038
+Started: 2025-04-26 00:15:16
+==================================================
+[2025-04-26 00:15:16] User: ho
+[2025-04-26 00:15:16] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:15:16] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-26 00:15:33] User: who built you?
+[2025-04-26 00:15:33] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:15:33] Bot: I was created by a talented team of MSU-IIT students: Draco, Van, and Justine. They developed me as part of their project to improve information accessibility for the university community.
+[2025-04-26 00:15:46] User: What are you made of?
+[2025-04-26 00:15:46] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:15:46] Bot: I was designed to serve as an information assistant for MSU-IIT, helping people learn about the university's offerings, locations, and resources without having to search through multiple sources.
+[2025-04-26 00:16:01] User: What is your backend technology?
+[2025-04-26 00:16:01] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:16:01] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 00:16:11] User: What AI Agent are you made of?
+[2025-04-26 00:16:11] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:16:11] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 00:16:21] User: Do you use OpenAI?
+[2025-04-26 00:16:21] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:16:21] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 00:16:28] User: 1+1?
+[2025-04-26 00:16:28] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:16:28] Bot: Form 137-A or Form 138 can be requested by filling out the relevant form from the Registrar’s Office.
+[2025-04-26 00:16:28] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 00:16:42] User: WHo is you kasama president?
+[2025-04-26 00:16:42] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:16:42] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 00:16:51] User: Who is the current chancellor?
+[2025-04-26 00:16:51] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:16:51] Bot: The current Chancellor of MSU-IIT is Dr. Alizedney M. Ditucalan. Under his leadership, the university has achieved significant milestones, including ranking 3rd among Philippine universities in the Times Higher Education (THE) World University Rankings 2025. Chancellor Ditucalan has emphasized strengthening academic publishing and research initiatives.
+[2025-04-26 00:16:51] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 00:17:03] User: Who are the the vice chancellors?
+[2025-04-26 00:17:03] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:17:03] Bot: MSU-IIT's administration is structured with several Vice Chancellors overseeing specific areas:
+• Vice Chancellor for Academic Affairs: Manages academic programs
+• Vice Chancellor for Research and Extension: Oversees research and community services
+• Vice Chancellor for Administration and Finance: Handles administrative and financial operations
+• Vice Chancellor for Planning and Development: Focuses on strategic planning
+• Vice Chancellor for Student Services: Manages student welfare
+[2025-04-26 00:17:03] Bot: These leaders work together to ensure the university's continued growth and excellence.
+[2025-04-26 00:17:03] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 00:17:03] Bot: ❌ You've reached the message limit. Thank you for testing our chatbot. Your participation in our study is crucial and would be greatly appreciated. <a href='https://2ly.link/26ajD'>Please continue here to provide your feedback</a>
+[2025-04-26 00:17:03] SYSTEM: Message limit reached
+[2025-04-26 00:17:18] User: Who are they?
+[2025-04-26 00:17:18] SYSTEM: Message limit reached
+[2025-04-26 00:17:26] User: naah
+[2025-04-26 00:17:26] SYSTEM: Message limit reached

@@ -1,0 +1,35 @@
+Chat History for User ID: user_1745596577118
+Started: 2025-04-25 23:56:27
+==================================================
+[2025-04-25 23:56:27] User: what are the programs offered by coe
+[2025-04-25 23:56:27] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:56:27] Bot: The College of Engineering offers these undergraduate programs:
+[2025-04-25 23:56:27] Bot: 1. BS Civil Engineering (BSCE): Focuses on infrastructure design and construction
+2. BS Electrical Engineering (BSEE): Emphasizes electrical systems and power generation
+3. BS Mechanical Engineering (BSME): Focuses on mechanical systems and design
+[2025-04-25 23:56:27] Bot: Which program would you like to learn more about?
+[2025-04-25 23:56:27] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-25 23:56:54] User: are there only 3 programs offered by coe?
+[2025-04-25 23:56:54] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:56:54] Bot: All undergraduate programs at COET are designed to be completed in 4 years or 8 regular semesters. Each academic year consists of two regular semesters and an optional summer term. The typical course load is 15-21 units per semester, depending on the program and year level.
+[2025-04-25 23:56:54] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-25 23:57:16] User: i would like to know all of the programs under the coe
+[2025-04-25 23:57:16] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:57:16] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 23:57:34] User: i would like to know all the courses under coe
+[2025-04-25 23:57:34] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:57:34] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 23:57:48] User: what are all the programs offered by cie
+[2025-04-25 23:57:48] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:57:48] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 23:57:59] User: what are all the programs offered by coe
+[2025-04-25 23:57:59] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:57:59] Bot: The College of Engineering offers these undergraduate programs:
+[2025-04-25 23:57:59] Bot: 1. BS Civil Engineering (BSCE): Focuses on infrastructure design and construction
+2. BS Electrical Engineering (BSEE): Emphasizes electrical systems and power generation
+3. BS Mechanical Engineering (BSME): Focuses on mechanical systems and design
+[2025-04-25 23:57:59] Bot: Which program would you like to learn more about?
+[2025-04-25 23:57:59] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-25 23:58:22] User: does iit offer chemical engineering?
+[2025-04-25 23:58:22] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:58:22] Bot: I'm sorry, I didn't understand that. Could you rephrase?

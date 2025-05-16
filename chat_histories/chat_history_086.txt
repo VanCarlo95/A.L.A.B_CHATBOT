@@ -1,0 +1,10 @@
+Chat History for User ID: user_1745596892942
+Started: 2025-04-26 00:02:21
+==================================================
+[2025-04-26 00:02:21] User: MSU-IIT started when?
+[2025-04-26 00:02:21] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:02:21] Bot: MSU-IIT was established in 1968 under Republic Act 5363. Originally part of the MSU System, it has grown into one of the premier technological institutions in the Philippines. The institute has consistently maintained its reputation for academic excellence, particularly in science and technology education.
+[2025-04-26 00:02:21] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 00:02:41] User: what current rank of iit?
+[2025-04-26 00:02:41] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:02:41] Bot: I'm sorry, I didn't understand that. Could you rephrase?

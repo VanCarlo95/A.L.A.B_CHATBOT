@@ -1,0 +1,46 @@
+Chat History for User ID: user_1745660715378
+Started: 2025-04-26 17:46:03
+==================================================
+[2025-04-26 17:46:03] User: What does the business economics course teach you?
+[2025-04-26 17:46:03] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:46:03] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 17:46:18] User: Tell me about CEBA
+[2025-04-26 17:46:18] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:46:18] Bot: The College of Economics and Business Administration (CEBA) at MSU-IIT offers undergraduate programs in Business Administration, Accountancy, and Economics. The college is known for its state-of-the-art facilities, experienced faculty, and strong industry connections. Would you like to know more about:
+1. Our programs
+2. Facilities
+3. Career opportunities?
+[2025-04-26 17:46:18] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 17:46:40] User: Where is CEBA located?
+[2025-04-26 17:46:40] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:46:40] Bot: The CEBA building is located at the northern part of the university just along the road that leads to the university gymnasium. It is also near the CASS old building and the CET building.
+[2025-04-26 17:46:40] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 17:47:15] User: How many absences before i drop out of a subject?
+[2025-04-26 17:47:15] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:47:15] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 17:47:36] User: Who’s the CEBA dean
+[2025-04-26 17:47:36] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:47:36] Bot: The CEBA Dean's office is located on the second floor of the white CEBA building.
+[2025-04-26 17:47:36] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 17:48:01] User: What programs do CASS offer
+[2025-04-26 17:48:01] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:48:01] Bot: The College of Arts and Social Sciences offers Bachelor of Arts in Communication, Bachelor of Arts in English, Bachelor of Arts in History, Bachelor of Arts in Political Science, Bachelor of Arts in Psychology, and Bachelor of Arts in Sociology.
+[2025-04-26 17:48:01] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 17:48:37] User: Tell me about CASS
+[2025-04-26 17:48:37] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:48:37] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 17:48:48] User: Tell me about COE
+[2025-04-26 17:48:48] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:48:48] Bot: The College of Engineering and Technology (COET) is one of the premier colleges at MSU-IIT. It offers undergraduate programs in various engineering disciplines including Civil Engineering, Electrical Engineering, Mechanical Engineering, and more. The college is known for its state-of-the-art facilities, experienced faculty, and strong industry connections. Would you like to know more about:
+1. Our programs
+2. Facilities
+3. Career opportunities?
+[2025-04-26 17:48:48] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 17:49:25] User: Hello, what’s your name?
+[2025-04-26 17:49:25] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:49:25] Bot: I am ALAB, the Automated Learning Assistant Bot for MSU-IIT. I'm here to help answer your questions about MSU-IIT, its colleges, programs, and facilities.
+[2025-04-26 17:49:39] User: Who created you?
+[2025-04-26 17:49:39] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:49:39] Bot: My creators are Draco, Van, and Justine, who are students at MSU-IIT. They built me to help fellow students and visitors easily access information about the university.
+[2025-04-26 17:49:39] Bot: ❌ You've reached the message limit. Thank you for testing our chatbot. Your participation in our study is crucial and would be greatly appreciated. <a href='https://2ly.link/26ajD'>Please continue here to provide your feedback</a>
+[2025-04-26 17:49:39] SYSTEM: Message limit reached

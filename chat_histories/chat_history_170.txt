@@ -1,0 +1,13 @@
+Chat History for User ID: user_1745668676550
+Started: 2025-04-26 19:58:14
+==================================================
+[2025-04-26 19:58:14] User: Where's CASS?
+[2025-04-26 19:58:14] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 19:58:14] Bot: The CASS building is located at the northern most part of the university. It is the building beside the CEBA student lounge. The CASS building consists of the old and new building.
+[2025-04-26 19:58:14] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 19:58:22] User: Yes
+[2025-04-26 19:58:22] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 19:58:22] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 19:58:32] User: I want to know more
+[2025-04-26 19:58:32] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 19:58:32] Bot: I'm sorry, I didn't understand that. Could you rephrase?

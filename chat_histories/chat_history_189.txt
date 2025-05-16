@@ -1,0 +1,26 @@
+Chat History for User ID: user_1745672973201
+Started: 2025-04-26 21:09:43
+==================================================
+[2025-04-26 21:09:43] User: Wjo are you?
+[2025-04-26 21:09:43] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 21:09:43] Bot: I'm ALAB, a chatbot created to assist with inquiries about MSU-IIT. How can I help you today?
+[2025-04-26 21:09:54] User: Are you OpenAI powered?
+[2025-04-26 21:09:54] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 21:09:54] Bot: I am ALAB, the Automated Learning Assistant Bot for MSU-IIT. I'm here to help answer your questions about MSU-IIT, its colleges, programs, and facilities.
+[2025-04-26 21:10:07] User: What type of AI are you?
+[2025-04-26 21:10:07] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 21:10:07] Bot: My name is ALAB, which stands for Automated Learning Assistant Bot. I'm designed to provide information about MSU-IIT to students, prospective students, and visitors.
+[2025-04-26 21:10:18] User: What is CCS?
+[2025-04-26 21:10:18] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 21:10:18] Bot: The College of Computer Studies (CCS) is MSU-IIT's center for computing education. It offers undergraduate programs in Computer Science, Information Technology, and Information Systems. The college is known for its modern facilities, experienced faculty, and strong industry partnerships. Would you like to know more about:
+1. Our programs
+2. Facilities
+3. Career opportunities?
+[2025-04-26 21:10:18] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 21:10:36] User: How to create account myiit?
+[2025-04-26 21:10:36] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 21:10:36] Bot: The student should submit LBP account number in the OASG through walk-in or online submission via email. Once the OASG staff receives the LBP account number, they will clear the liability through MSU-IIT Online Clearance System.
+[2025-04-26 21:10:36] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 21:10:54] User: Nigger
+[2025-04-26 21:10:54] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 21:10:54] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?

@@ -1,0 +1,7 @@
+Chat History for User ID: user_1745682195840
+Started: 2025-04-26 23:44:01
+==================================================
+[2025-04-26 23:44:01] User: Who is the dean of the college of engineering of MSU-IIT
+[2025-04-26 23:44:01] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 23:44:01] Bot: The Dean's Office is located on the 2nd floor of the COET Building, Room 201. It's easily accessible via the main staircase or elevator. The office is open during regular business hours (8:00 AM - 5:00 PM) on weekdays.
+[2025-04-26 23:44:01] Bot: Would you like to know more about any specific aspect of MSU-IIT?

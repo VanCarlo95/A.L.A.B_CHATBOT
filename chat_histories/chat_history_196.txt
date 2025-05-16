@@ -1,0 +1,17 @@
+Chat History for User ID: user_1745675107996
+Started: 2025-04-26 21:45:30
+==================================================
+[2025-04-26 21:45:30] User: Hello
+[2025-04-26 21:45:30] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 21:45:30] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-26 21:45:42] User: Who is the chancellor
+[2025-04-26 21:45:42] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 21:45:42] Bot: The current Chancellor of MSU-IIT is Dr. Alizedney M. Ditucalan. Under his leadership, the university has achieved significant milestones, including ranking 3rd among Philippine universities in the Times Higher Education (THE) World University Rankings 2025. Chancellor Ditucalan has emphasized strengthening academic publishing and research initiatives.
+[2025-04-26 21:45:42] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 21:45:56] User: yes
+[2025-04-26 21:45:56] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 21:45:56] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 21:46:08] User: How can i shift
+[2025-04-26 21:46:08] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 21:46:08] Bot: For shifter status, complete and submit the Shifters Application Form to the Registrar’s Office.
+[2025-04-26 21:46:08] Bot: Would you like to know more about any specific aspect of MSU-IIT?

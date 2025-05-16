@@ -1,0 +1,13 @@
+Chat History for User ID: user_1745598432037
+Started: 2025-04-26 00:28:46
+==================================================
+[2025-04-26 00:28:46] User: what can you do currently?
+[2025-04-26 00:28:46] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:28:46] Bot: I was created to help students and prospective students get information about MSU-IIT. I can answer questions about colleges, programs, facilities, and services offered by the university.
+[2025-04-26 00:29:05] User: what are services offered in the university clinic
+[2025-04-26 00:29:05] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:29:05] Bot: I. Hematology II. Urinalysis III. FBS IV. RBS V. Lipid Profile VI. Creatinine VII. Blood Uric Acid (BUA) VIII. Blood Urea Nitrogen (BUN) IX. SGPT X. SGOT VI. Blood Typing
+[2025-04-26 00:29:05] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 00:30:23] User: I'll come back later
+[2025-04-26 00:30:23] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:30:23] Bot: I'm sorry, I didn't understand that. Could you rephrase?

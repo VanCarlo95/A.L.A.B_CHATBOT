@@ -1,0 +1,42 @@
+Chat History for User ID: user_1745636592843
+Started: 2025-04-26 11:03:51
+==================================================
+[2025-04-26 11:03:51] User: what can you do?
+[2025-04-26 11:03:51] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 11:03:51] Bot: I was created to help students and prospective students get information about MSU-IIT. I can answer questions about colleges, programs, facilities, and services offered by the university.
+[2025-04-26 11:04:08] User: what about stipend system?
+[2025-04-26 11:04:08] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 11:04:08] Bot: BS Information Systems (BSIS) Program Details:
+[2025-04-26 11:04:08] Bot: Overview:
+• Business-oriented IT program
+• Focus on enterprise systems
+• Integration of business and technology
+• Management perspective of IT
+[2025-04-26 11:04:08] Bot: Key Features:
+• Business process analysis
+• Enterprise systems
+• Project management
+• Information management
+• Business analytics
+[2025-04-26 11:04:08] Bot: Learning Outcomes:
+• Business analysis skills
+• IT project management
+• Enterprise system knowledge
+• Process improvement capabilities
+• Business-IT alignment expertise
+[2025-04-26 11:04:08] Bot: Special Features:
+• SAP training
+• Business case studies
+• Industry projects
+• Management training
+• Enterprise software experience
+[2025-04-26 11:04:08] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 11:04:36] User: stipend system?
+[2025-04-26 11:04:36] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 11:04:36] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 11:04:42] User: stipend
+[2025-04-26 11:04:42] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 11:04:42] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 11:04:58] User: rewarding students based on merits?
+[2025-04-26 11:04:58] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 11:04:58] Bot: I'm sorry, I didn't understand that. Could you rephrase?

@@ -1,0 +1,21 @@
+Chat History for User ID: user_1745679755093
+Started: 2025-04-26 23:03:56
+==================================================
+[2025-04-26 23:03:56] User: Hello!
+[2025-04-26 23:03:56] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 23:03:56] Bot: Hello! I am A.L.A.B, your Academic Learning Assistance Bot. How can I help you today?
+[2025-04-26 23:04:06] User: Can you tell me about CASS?
+[2025-04-26 23:04:06] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 23:04:06] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 23:04:26] User: Tell me about CASS
+[2025-04-26 23:04:26] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 23:04:26] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 23:04:42] User: What is CASS?
+[2025-04-26 23:04:42] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 23:04:42] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 23:05:45] User: Tell me about CASS
+[2025-04-26 23:05:45] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 23:05:45] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 23:05:54] User: College of Arts and Social Sciences
+[2025-04-26 23:05:54] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 23:05:54] Bot: I'm sorry, I didn't understand that. Could you rephrase?

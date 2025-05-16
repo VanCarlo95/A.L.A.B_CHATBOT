@@ -1,0 +1,12 @@
+Chat History for User ID: user_1745532597267
+Started: 2025-04-25 06:10:25
+==================================================
+[2025-04-25 06:10:25] User: hello
+[2025-04-25 06:10:25] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 06:10:25] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-25 06:10:36] User: what can you do?
+[2025-04-25 06:10:36] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 06:10:36] Bot: I was created to help students and prospective students get information about MSU-IIT. I can answer questions about colleges, programs, facilities, and services offered by the university.
+[2025-04-25 06:10:53] User: what is msu-iit?
+[2025-04-25 06:10:53] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 06:10:53] Bot: I'm sorry, I didn't understand that. Could you rephrase?

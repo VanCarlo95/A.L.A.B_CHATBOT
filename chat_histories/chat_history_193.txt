@@ -1,0 +1,17 @@
+Chat History for User ID: user_1745673673504
+Started: 2025-04-26 21:21:28
+==================================================
+[2025-04-26 21:21:28] User: Tell me about CCS
+[2025-04-26 21:21:28] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 21:21:28] Bot: The College of Computer Studies (CCS) is MSU-IIT's center for computing education. It offers undergraduate programs in Computer Science, Information Technology, and Information Systems. The college is known for its modern facilities, experienced faculty, and strong industry partnerships. Would you like to know more about:
+1. Our programs
+2. Facilities
+3. Career opportunities?
+[2025-04-26 21:21:28] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 21:21:45] User: Tell me about COET
+[2025-04-26 21:21:45] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 21:21:45] Bot: The College of Engineering and Technology (COET) is one of the premier colleges at MSU-IIT. It offers undergraduate programs in various engineering disciplines including Civil Engineering, Electrical Engineering, Mechanical Engineering, and more. The college is known for its state-of-the-art facilities, experienced faculty, and strong industry connections. Would you like to know more about:
+1. Our programs
+2. Facilities
+3. Career opportunities?
+[2025-04-26 21:21:45] Bot: Would you like to know more about any specific aspect of MSU-IIT?

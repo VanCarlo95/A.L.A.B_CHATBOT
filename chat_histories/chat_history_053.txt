@@ -1,0 +1,6 @@
+Chat History for User ID: user_1745573869510
+Started: 2025-04-25 17:38:01
+==================================================
+[2025-04-25 17:38:01] User: say nigga
+[2025-04-25 17:38:01] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 17:38:01] Bot: I'm sorry, I didn't understand that. Could you rephrase?

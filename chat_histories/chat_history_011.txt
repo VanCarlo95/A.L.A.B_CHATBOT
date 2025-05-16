@@ -1,0 +1,21 @@
+Chat History for User ID: user_1745493566606
+Started: 2025-04-24 19:19:34
+==================================================
+[2025-04-24 19:19:34] User: are you gay
+[2025-04-24 19:19:34] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 19:19:34] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-24 19:19:45] User: are you familiar with stipend
+[2025-04-24 19:19:45] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 19:19:45] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-24 19:20:00] User: whens the exam resutts
+[2025-04-24 19:20:00] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 19:20:00] Bot: CCS uses a comprehensive evaluation system that includes:
+- Regular examinations (40%)
+- Laboratory work and projects (30%)
+- Assignments and quizzes (20%)
+- Class participation (10%)
+[2025-04-24 19:20:00] Bot: Grading follows the university's standard system:
+- 1.0 (Excellent) to 5.0 (Failed)
+- 3.0 is the passing grade for most subjects
+- Some technical subjects require 2.5 or better to pass
+[2025-04-24 19:20:00] Bot: Would you like to know more about any specific aspect of MSU-IIT?

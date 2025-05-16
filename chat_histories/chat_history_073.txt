@@ -1,0 +1,30 @@
+Chat History for User ID: user_1745595045920
+Started: 2025-04-25 23:31:44
+==================================================
+[2025-04-25 23:31:44] User: Where is csm?
+[2025-04-25 23:31:44] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:31:44] Bot: The CSM building is located at the eastern side of the university. It is one of the oldest buildings in the campus.
+[2025-04-25 23:31:44] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-25 23:32:10] User: Date of construction
+[2025-04-25 23:32:10] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:32:10] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 23:32:36] User: What is the date of establishing csm?
+[2025-04-25 23:32:36] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:32:36] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 23:32:58] User: What is iit?
+[2025-04-25 23:32:58] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:32:58] Bot: MSU-IIT (Mindanao State University - Iligan Institute of Technology) is a premier state university established in 1968. Known for its excellence in science and technology education, MSU-IIT has consistently ranked among the top universities in the Philippines. The university offers quality education across various fields including engineering, computer studies, science and mathematics, business, arts, and more.
+[2025-04-25 23:32:58] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-25 23:33:14] User: Yes
+[2025-04-25 23:33:14] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:33:14] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 23:33:44] User: End chat
+[2025-04-25 23:33:44] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:33:44] Bot: Hello! I am A.L.A.B, your Academic Learning Assistance Bot. How can I help you today?
+[2025-04-25 23:33:59] User: 1+1
+[2025-04-25 23:33:59] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:33:59] Bot: Form 137-A or Form 138 can be requested by filling out the relevant form from the Registrar’s Office.
+[2025-04-25 23:33:59] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-25 23:34:21] User: Add 1 and 2
+[2025-04-25 23:34:21] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:34:21] Bot: I'm sorry, I didn't understand that. Could you rephrase?

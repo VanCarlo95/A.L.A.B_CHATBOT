@@ -1,0 +1,13 @@
+Chat History for User ID: user_1745768866695
+Started: 2025-04-27 23:48:23
+==================================================
+[2025-04-27 23:48:23] User: how is your day
+[2025-04-27 23:48:23] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 23:48:23] Bot: I am ALAB, the Automated Learning Assistant Bot for MSU-IIT. I'm here to help answer your questions about MSU-IIT, its colleges, programs, and facilities.
+[2025-04-27 23:48:34] User: tell me about CHS
+[2025-04-27 23:48:34] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 23:48:34] Bot: The College of Health Sciences (CHS) at MSU-IIT offers undergraduate programs in Nursing. The college is known for its state-of-the-art facilities, experienced faculty, and strong industry connections. Would you like to know more about:
+1. Our programs
+2. Facilities
+3. Career opportunities?
+[2025-04-27 23:48:34] Bot: Would you like to know more about any specific aspect of MSU-IIT?

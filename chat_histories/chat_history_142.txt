@@ -1,0 +1,12 @@
+Chat History for User ID: user_1745653949656
+Started: 2025-04-26 15:52:37
+==================================================
+[2025-04-26 15:52:37] User: hi
+[2025-04-26 15:52:37] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 15:52:37] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-26 15:52:54] User: what is MSU IDS all about
+[2025-04-26 15:52:54] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 15:52:54] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 15:53:05] User: what is IDS
+[2025-04-26 15:53:05] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 15:53:05] Bot: I'm ALAB, a chatbot created to assist with inquiries about MSU-IIT. How can I help you today?

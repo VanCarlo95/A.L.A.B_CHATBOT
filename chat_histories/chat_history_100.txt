@@ -1,0 +1,20 @@
+Chat History for User ID: user_1745598182515
+Started: 2025-04-26 00:23:21
+==================================================
+[2025-04-26 00:23:21] User: Tell me about CHS
+[2025-04-26 00:23:21] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:23:21] Bot: The College of Health Sciences (CHS) at MSU-IIT offers undergraduate programs in Nursing. The college is known for its state-of-the-art facilities, experienced faculty, and strong industry connections. Would you like to know more about:
+1. Our programs
+2. Facilities
+3. Career opportunities?
+[2025-04-26 00:23:21] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 00:23:39] User: 1
+[2025-04-26 00:23:39] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:23:39] Bot: Form 137-A or Form 138 can be requested by filling out the relevant form from the Registrar’s Office.
+[2025-04-26 00:23:39] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 00:24:00] User: I want to know more about programs
+[2025-04-26 00:24:00] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:24:00] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 00:24:47] User: Tell me the programs or courses offered by IIT
+[2025-04-26 00:24:47] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:24:47] Bot: I'm sorry, I didn't understand that. Could you rephrase?

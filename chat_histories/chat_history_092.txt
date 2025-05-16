@@ -1,0 +1,18 @@
+Chat History for User ID: user_1745597317119
+Started: 2025-04-26 00:10:05
+==================================================
+[2025-04-26 00:10:05] User: Help me with my ID
+[2025-04-26 00:10:05] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:10:05] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 00:10:59] User: how do I enroll
+[2025-04-26 00:10:59] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:10:59] Bot: To be admitted to MSU:
+1. Pass the MSU System Admission and Scholarship Examination (SASE)
+2. Meet specific program requirements
+3. Submit required documents:
+   • Form 138 (Report Card)
+   • Certificate of Good Moral Character
+   • Birth Certificate
+   • Medical Certificate
+[2025-04-26 00:10:59] Bot: Note: Requirements may vary by campus and program. Contact the specific campus admission office for detailed information.
+[2025-04-26 00:10:59] Bot: Would you like to know more about any specific aspect of MSU-IIT?

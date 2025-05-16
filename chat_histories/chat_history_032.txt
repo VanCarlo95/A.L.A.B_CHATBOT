@@ -1,0 +1,9 @@
+Chat History for User ID: user_1745536549144
+Started: 2025-04-25 07:16:23
+==================================================
+[2025-04-25 07:16:23] User: hello
+[2025-04-25 07:16:23] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 07:16:23] Bot: Hello! I am A.L.A.B, your Academic Learning Assistance Bot. How can I help you today?
+[2025-04-25 07:17:35] User: the subjects in the admission portal and our subject are not the same but it is required for all the subjects to be filled up so what do i do
+[2025-04-25 07:17:35] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 07:17:35] Bot: I'm sorry, I didn't understand that. Could you rephrase?

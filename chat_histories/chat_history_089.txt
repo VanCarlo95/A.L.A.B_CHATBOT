@@ -1,0 +1,28 @@
+Chat History for User ID: user_1745597239762
+Started: 2025-04-26 00:07:38
+==================================================
+[2025-04-26 00:07:38] User: What is the full name of chanzed
+[2025-04-26 00:07:38] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:07:38] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 00:08:02] User: Who is the chancellor of msu iit
+[2025-04-26 00:08:02] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:08:02] Bot: The current Chancellor of MSU-IIT is Dr. Alizedney M. Ditucalan. Under his leadership, the university has achieved significant milestones, including ranking 3rd among Philippine universities in the Times Higher Education (THE) World University Rankings 2025. Chancellor Ditucalan has emphasized strengthening academic publishing and research initiatives.
+[2025-04-26 00:08:02] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 00:08:25] User: How about ced deam
+[2025-04-26 00:08:25] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:08:25] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 00:08:31] User: Ced dean
+[2025-04-26 00:08:31] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:08:31] Bot: The CED Dean's office is located at the left side of the CED building.
+[2025-04-26 00:08:31] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 00:08:45] User: Who is ced dean?
+[2025-04-26 00:08:45] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:08:45] Bot: The CED Dean's office is located at the left side of the CED building.
+[2025-04-26 00:08:45] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 00:08:58] User: Who is the ced dean?
+[2025-04-26 00:08:58] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:08:58] Bot: The CED Dean's office is located at the left side of the CED building.
+[2025-04-26 00:08:58] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 00:09:18] User: Do you u mam tenido?
+[2025-04-26 00:09:18] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:09:18] Bot: I was created to help students and prospective students get information about MSU-IIT. I can answer questions about colleges, programs, facilities, and services offered by the university.

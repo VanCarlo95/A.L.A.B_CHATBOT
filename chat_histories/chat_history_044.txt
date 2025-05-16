@@ -1,0 +1,13 @@
+Chat History for User ID: user_1745542116189
+Started: 2025-04-25 08:48:39
+==================================================
+[2025-04-25 08:48:39] User: Hi
+[2025-04-25 08:48:39] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 08:48:39] Bot: Hello! I am A.L.A.B, your Academic Learning Assistance Bot. How can I help you today?
+[2025-04-25 08:48:56] User: Where is TBA?
+[2025-04-25 08:48:56] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 08:48:56] Bot: The CEBA building is located at the northern part of the university just along the road that leads to the university gymnasium. It is also near the CASS old building and the CET building.
+[2025-04-25 08:48:56] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-25 08:49:08] User: TBA
+[2025-04-25 08:49:08] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 08:49:08] Bot: I'm sorry, I didn't understand that. Could you rephrase?

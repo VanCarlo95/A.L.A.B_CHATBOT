@@ -1,0 +1,2049 @@
+version: "3.1"
+
+stories:
+  # Core Conversational Flows
+  - story: greet and goodbye
+    steps:
+      - intent: greet
+      - action: utter_greet
+      - intent: goodbye
+      - action: utter_goodbye
+
+  - story: ask about bot identity
+    steps:
+      - intent: bot_identity
+      - action: utter_bot_identity
+      - action: action_listen
+
+  - story: ask about bot purpose
+    steps:
+      - intent: bot_purpose
+      - action: utter_bot_purpose
+      - action: action_listen
+
+  - story: ask about bot creators
+    steps:
+      - intent: bot_creators
+      - action: utter_bot_creators
+      - action: action_listen
+
+  - story: ask about identity then purpose
+    steps:
+      - intent: bot_identity
+      - action: utter_bot_identity
+      - action: action_listen
+      - intent: bot_purpose
+      - action: utter_bot_purpose
+      - action: action_listen
+
+  - story: ask about identity then creators
+    steps:
+      - intent: bot_identity
+      - action: utter_bot_identity
+      - action: action_listen
+      - intent: bot_creators
+      - action: utter_bot_creators
+      - action: action_listen
+
+  - story: say goodbye
+    steps:
+      - intent: goodbye
+      - action: utter_goodbye
+
+  - story: end conversation
+    steps:
+      - intent: conversation_end
+      - action: utter_conversation_end
+      - action: action_listen
+      - intent: goodbye
+      - action: utter_goodbye
+
+  # University General Information Flows
+  - story: basic university inquiry
+    steps:
+      - intent: university_about_msuiit
+      - action: utter_university_about_msuiit
+      - action: utter_ask_follow_up_general
+
+  - story: university location inquiry
+    steps:
+      - intent: university_location
+      - action: utter_university_location
+      - action: utter_ask_follow_up_general
+
+  - story: university colleges basic inquiry
+    steps:
+      - intent: university_colleges
+      - action: utter_university_colleges
+      - action: utter_ask_follow_up_general
+      - action: action_listen
+
+  - story: university colleges with context question
+    steps:
+      - intent: greet
+      - action: utter_greet
+      - action: action_listen
+      - intent: university_colleges
+      - action: utter_university_colleges
+      - action: utter_ask_follow_up_general
+      - action: action_listen
+
+  - story: location with college follow-up
+    steps:
+      - intent: university_location
+      - action: utter_university_location
+      - intent: university_colleges
+      - action: action_track_location_context
+      - action: utter_university_colleges
+      - action: utter_ask_follow_up_general
+
+  - story: college inquiry with location
+    steps:
+      - intent: university_colleges
+      - action: utter_university_colleges
+      - intent: university_location
+      - action: action_track_location_context
+      - action: utter_university_location
+      - action: utter_ask_follow_up_general
+
+  - story: university history inquiry
+    steps:
+      - intent: university_history
+      - action: utter_university_history
+      - action: utter_ask_follow_up_general
+
+  - story: university chancellor information
+    steps:
+      - intent: university_chancellor
+      - action: utter_university_chancellor
+      - action: utter_ask_follow_up_general
+
+  - story: university administration inquiry
+    steps:
+      - intent: university_administration
+      - action: utter_university_administration
+      - action: utter_ask_follow_up_general
+
+  - story: university vision mission
+    steps:
+      - intent: university_vision_mission
+      - action: utter_university_vision_mission
+      - action: utter_ask_follow_up_general
+
+  # MSU System Information Flows
+  - story: msu system overview
+    steps:
+      - intent: msu_system_info
+      - action: utter_msu_system_info
+      - action: utter_ask_follow_up_general
+
+  - story: msu governance inquiry
+    steps:
+      - intent: msu_governance
+      - action: utter_msu_governance
+      - action: utter_ask_follow_up_general
+
+  - story: msu history and culture flow
+    steps:
+      - intent: msu_history
+      - action: utter_msu_history
+      - intent: msu_culture
+      - action: utter_msu_culture
+      - action: utter_ask_follow_up_general
+
+  # Separated MSU history and culture stories
+  - story: msu history only
+    steps:
+      - intent: msu_history
+      - action: utter_msu_history
+      - action: utter_ask_follow_up_general
+
+  - story: msu culture only
+    steps:
+      - intent: msu_culture
+      - action: utter_msu_culture
+      - action: utter_ask_follow_up_general
+
+  # Separated research and achievements stories
+  - story: msu research only
+    steps:
+      - intent: msu_research
+      - action: utter_msu_research
+      - action: utter_ask_follow_up_general
+
+  - story: msu achievements only
+    steps:
+      - intent: msu_achievements
+      - action: utter_msu_achievements
+      - action: utter_ask_follow_up_general
+
+  - story: msu campus comparison
+    steps:
+      - intent: msu_campus_comparison
+      - action: utter_msu_campus_comparison
+      - action: utter_ask_follow_up_general
+
+  # General Services Flows
+  - story: university admission basic inquiry
+    steps:
+      - intent: university_admission
+      - action: utter_university_admission
+      - action: utter_ask_follow_up_general
+
+  - story: university admission inquiry with follow-up
+    steps:
+      - intent: university_admission
+      - action: utter_university_admission
+      - intent: ask_more_details
+      - action: action_track_student_interest
+      - action: utter_university_admission
+      - action: utter_ask_follow_up_general
+
+  - story: university scholarship information
+    steps:
+      - intent: university_scholarships
+      - action: utter_university_scholarships
+      - action: utter_ask_follow_up_general
+
+  - story: general facilities inquiry
+    steps:
+      - intent: university_facilities_general
+      - action: utter_university_facilities_general
+      - action: utter_ask_follow_up_general
+
+  - story: general fallback to location
+    steps:
+      - intent: university_facilities_general
+      - intent: university_location
+      - action: action_track_location_context
+      - action: utter_university_location
+      - action: utter_ask_follow_up_general
+
+  - story: iit specific facilities
+    steps:
+      - intent: university_facilities_iit
+      - action: utter_university_facilities_iit
+      - action: utter_ask_follow_up_general
+
+  - story: general fallback to admission
+    steps:
+      - intent: university_facilities_iit
+      - intent: university_admission
+      - action: action_track_student_interest
+      - action: utter_university_admission
+      - action: utter_ask_follow_up_general
+
+  - story: student life inquiry
+    steps:
+      - intent: university_student_life
+      - action: utter_university_student_life
+      - action: utter_ask_follow_up_general
+
+  - story: international programs inquiry
+    steps:
+      - intent: university_international_programs
+      - action: utter_university_international_programs
+      - action: utter_ask_follow_up_general
+
+  # CCS Information Flows
+  - story: ccs general inquiry
+    steps:
+      - intent: ccs_general_inquiry
+      - action: action_set_active_college
+      - slot_was_set:
+          - active_college: "ccs"
+      - action: utter_ccs_general_inquiry
+      - action: utter_ask_follow_up_general
+
+  # CCS Program and Facilities Flows
+  - story: ccs programs overview
+    steps:
+      - intent: ccs_programs_overview
+      - action: utter_ccs_programs_overview
+      - action: utter_ask_follow_up_general
+
+  - story: ccs facilities information
+    steps:
+      - intent: ccs_facilities_info
+      - action: utter_ccs_facilities_info
+      - action: utter_ask_follow_up_general
+      - action: action_listen
+
+  - story: ccs faculty information
+    steps:
+      - intent: ccs_faculty_info
+      - action: utter_ccs_faculty_info
+      - action: utter_ask_follow_up_general
+
+  - story: ccs scholarship information
+    steps:
+      - intent: ccs_scholarship_info
+      - action: utter_ccs_scholarship_info
+      - action: utter_ask_follow_up_general
+
+  - story: ccs duration information
+    steps:
+      - intent: ccs_duration_info
+      - action: utter_ccs_duration_info
+      - action: utter_ask_follow_up_general
+
+  - story: ccs research information
+    steps:
+      - intent: ccs_research_info
+      - action: utter_ccs_research_info
+      - action: utter_ask_follow_up_general
+
+  - story: ccs student life inquiry
+    steps:
+      - intent: ccs_student_life
+      - action: utter_ccs_student_life
+      - action: utter_ask_follow_up_general
+
+  - story: ccs elective information
+    steps:
+      - intent: ccs_elective
+      - action: utter_ccs_elective
+      - action: utter_ask_follow_up_general
+
+  - story: ccs size information
+    steps:
+      - intent: ccs_size
+      - action: utter_ccs_size
+      - action: utter_ask_follow_up_general
+
+  # CCS Location Flows
+  - story: ccs main location
+    steps:
+      - intent: ccs_location_main
+      - action: utter_ccs_location_main
+      - action: utter_ask_follow_up_general
+
+  - story: ccs dean office location
+    steps:
+      - intent: ccs_location_dean
+      - action: utter_ccs_location_dean
+      - action: utter_ask_follow_up_general
+
+  - story: ccs department locations
+    steps:
+      - intent: ccs_location_departments
+      - action: utter_ccs_location_departments
+      - action: utter_ask_follow_up_general
+
+  # Specific Program Inquiry Flows
+  - story: bscs program inquiry
+    steps:
+      - intent: program_inquiry_bscs
+      - action: utter_bscs_details
+      - action: utter_ask_follow_up_general
+
+  - story: bsit program inquiry
+    steps:
+      - intent: program_inquiry_bsit
+      - action: utter_bsit_details
+      - action: utter_ask_follow_up_general
+
+  - story: bsis program inquiry
+    steps:
+      - intent: program_inquiry_bsis
+      - action: utter_bsis_details
+      - action: utter_ask_follow_up_general
+
+  - story: bsca program inquiry
+    steps:
+      - intent: program_inquiry_bsca
+      - action: utter_bsca_details
+      - action: utter_ask_follow_up_general
+
+  # Detailed Program Information Flows
+  - story: ccs program details
+    steps:
+      - intent: ccs_program_details
+      - action: utter_ccs_program_details
+      - action: utter_ask_follow_up_general
+
+  - story: ccs career prospects
+    steps:
+      - intent: ccs_career_prospects
+      - action: utter_ccs_career_prospects
+      - action: utter_ask_follow_up_general
+
+  - story: ccs admission requirements
+    steps:
+      - intent: ccs_admission_requirements
+      - action: utter_ccs_admission_requirements
+      - action: utter_ask_follow_up_general
+
+  # Program Subject Inquiry Flows
+  - story: bsit subjects inquiry
+    steps:
+      - intent: bsit_subjects
+      - action: utter_bsit_subjects
+      - action: utter_ask_follow_up_general
+
+  - story: bsis subjects inquiry
+    steps:
+      - intent: bsis_subjects
+      - action: utter_bsis_subjects
+      - action: utter_ask_follow_up_general
+
+  - story: bsca subjects inquiry
+    steps:
+      - intent: bsca_subjects
+      - action: utter_bsca_subjects
+      - action: utter_ask_follow_up_general
+
+  - story: bscs subjects inquiry
+    steps:
+      - intent: bscs_subjects
+      - action: utter_bscs_subjects
+      - action: utter_ask_follow_up_general
+
+
+  # Program Difficulty Inquiry Flows
+  - story: bsca difficulty inquiry
+    steps:
+      - intent: bsca_difficulty
+      - action: utter_bsca_difficulty
+      - action: utter_ask_follow_up_general
+
+  - story: bscs difficulty inquiry
+    steps:
+      - intent: bscs_difficulty
+      - action: utter_bscs_difficulty
+      - action: utter_ask_follow_up_general
+
+  - story: bsit difficulty inquiry
+    steps:
+      - intent: bsit_difficulty
+      - action: utter_bsit_difficulty
+      - action: utter_ask_follow_up_general
+
+  - story: bsis difficulty inquiry
+    steps:
+      - intent: bsis_difficulty
+      - action: utter_bsis_difficulty
+      - action: utter_ask_follow_up_general
+
+  # Program Comparison and Difficulty Flows
+  - story: ccs program comparison
+    steps:
+      - intent: ccs_program_comparison
+      - action: utter_ccs_program_comparison
+      - action: utter_ask_follow_up_general
+
+  - story: ccs program difficulty
+    steps:
+      - intent: ccs_program_difficulty
+      - action: utter_ccs_program_difficulty
+      - action: utter_ask_follow_up_general
+
+  - story: ccs program difficulty comparison
+    steps:
+      - intent: ccs_program_difficulty_comparison
+      - action: utter_ccs_program_difficulty_comparison
+      - action: utter_ask_follow_up_general
+
+  - story: ccs evaluation inquiry
+    steps:
+      - intent: ccs_evaluation
+      - action: utter_ccs_evaluation
+      - action: utter_ask_follow_up_general
+
+  # Campus Life and Services Flows
+  - story: ccs exchange programs
+    steps:
+      - intent: ccs_exchange_programs
+      - action: utter_ccs_exchange_programs
+      - action: utter_ask_follow_up_general
+
+  - story: ccs facilities details
+    steps:
+      - intent: ccs_facilities_details
+      - action: utter_ccs_facilities_details
+      - action: utter_ask_follow_up_general
+
+  - story: facilities usage policy
+    steps:
+      - intent: general_facilities_usage_policy
+      - action: utter_general_facilities_usage_policy
+      - action: utter_ask_follow_up_general
+
+  - story: specific facilities inquiry
+    steps:
+      - intent: general_facilities_specific
+      - action: utter_general_facilities_specific
+      - action: utter_ask_follow_up_general
+
+  - story: student work opportunities
+    steps:
+      - intent: student_work_opportunities
+      - action: utter_student_work_opportunities
+      - action: utter_ask_follow_up_general
+
+  #COE Information Flows
+  - story: coe general inquiry
+    steps:
+      - intent: coe_general_inquiry
+      - action: action_set_active_college
+      - slot_was_set:
+          - active_college: "coe"
+      - action: utter_coe_general_inquiry
+      - action: utter_ask_follow_up_general
+
+  - story: coe programs overview
+    steps:
+      - intent: coe_programs_overview
+      - action: utter_coe_programs_overview
+      - action: utter_ask_follow_up_general
+
+  - story: COE Program Details Basic
+    steps:
+      - intent: coe_program_details
+      - action: utter_coe_program_details
+      - action: action_set_active_college
+      - action: utter_ask_follow_up_general
+      - action: action_listen
+
+  - story: coe facilities information
+    steps:
+      - intent: coe_facilities_info
+      - action: utter_coe_facilities_info
+      - action: utter_ask_follow_up_general
+
+  - story: coe faculty information
+    steps:
+      - intent: coe_faculty_info
+      - action: utter_coe_faculty_info
+      - action: utter_ask_follow_up_general
+
+  - story: coe scholarship information
+    steps:
+      - intent: coe_scholarship_info
+      - action: utter_coe_scholarship_info
+      - action: utter_ask_follow_up_general
+
+  - story: coe duration information
+    steps:
+      - intent: coe_duration_info
+      - action: utter_coe_duration_info
+      - action: utter_ask_follow_up_general
+
+  - story: coe research information
+    steps:
+      - intent: coe_research_info
+      - action: utter_coe_research_info
+      - action: utter_ask_follow_up_general
+
+  - story: coe student life inquiry
+    steps:
+      - intent: coe_student_life
+      - action: utter_coe_student_life
+      - action: utter_ask_follow_up_general
+
+  - story: coe elective information
+    steps:
+      - intent: coe_elective
+      - action: utter_coe_elective
+      - action: utter_ask_follow_up_general
+
+  - story: coe size information
+    steps:
+      - intent: coe_size
+      - action: utter_coe_size
+      - action: utter_ask_follow_up_general
+
+  - story: coe location main
+    steps:
+      - intent: coe_location_main
+      - action: utter_coe_location_main
+      - action: utter_ask_follow_up_general
+
+  - story: coe location dean
+    steps:
+      - intent: coe_location_dean
+      - action: utter_coe_location_dean
+      - action: utter_ask_follow_up_general
+
+  - story: coe location departments
+    steps:
+      - intent: coe_location_departments
+      - action: utter_coe_location_departments
+      - action: utter_ask_follow_up_general
+
+  - story: coe career prospects
+    steps:
+      - intent: coe_career_prospects
+      - action: utter_coe_career_prospects
+      - action: utter_ask_follow_up_general
+
+  - story: coe admission requirements
+    steps:
+      - intent: coe_admission_requirements
+      - action: utter_coe_admission_requirements
+      - action: utter_ask_follow_up_general
+
+  - story: coe difficulty inquiry
+    steps:
+      - intent: coe_difficulty
+      - action: utter_coe_difficulty
+      - action: utter_ask_follow_up_general
+
+  - story: coe program difficulty
+    steps:
+      - intent: coe_program_difficulty
+      - action: utter_coe_program_difficulty
+      - action: utter_ask_follow_up_general
+
+  - story: coe evaluation inquiry
+    steps:
+      - intent: coe_evaluation
+      - action: utter_coe_evaluation
+      - action: utter_ask_follow_up_general
+
+  - story: coe exchange programs
+    steps:
+      - intent: coe_exchange_programs
+      - action: utter_coe_exchange_programs
+      - action: utter_ask_follow_up_general
+
+  - story: Program Details with Follow-up
+    steps:
+      - intent: coe_program_details
+      - action: utter_coe_program_details
+      - action: action_set_active_college
+      - action: utter_ask_follow_up_general
+      - action: action_listen
+      - intent: ask_follow_up_general
+      - action: utter_ask_follow_up_general
+
+  - story: Engineering Programs Comparison
+    steps:
+      - intent: coe_program_comparison
+      - action: action_handle_program_comparison
+      - action: action_set_active_college
+      - action: utter_ask_follow_up_general
+
+  - story: Engineering Program Difficulty
+    steps:
+      - intent: coe_program_difficulty
+      - action: action_handle_program_difficulty
+      - action: action_set_active_college
+      - action: utter_ask_follow_up_general
+
+  - story: Engineering Programs Difficulty Comparison
+    steps:
+      - intent: coe_program_difficulty_comparison
+      - action: action_handle_program_comparison
+      - action: action_set_active_college
+      - action: utter_ask_follow_up_general
+      - action: action_listen
+
+  - story: Student Asks for COE Program Details After General Inquiry
+    steps:
+      - intent: coe_general_inquiry
+      - action: action_set_active_college
+      - action: utter_coe_general_inquiry  
+      - action: utter_ask_follow_up_general
+      - action: action_listen
+      - intent: coe_program_details
+      - action: utter_coe_program_details
+
+  - story: Student Asks About Program Details Then Career Prospects
+    steps:
+      - intent: coe_program_details
+      - action: utter_coe_program_details
+      - action: action_set_active_college
+      - action: action_listen
+      - intent: coe_career_prospects
+      - action: utter_coe_career_prospects
+
+  # CHS
+  - story: chs general inquiry
+    steps:
+      - intent: chs_general_inquiry
+      - action: action_set_active_college
+      - slot_was_set:
+          - active_college: "chs"
+      - action: utter_chs_general_inquiry
+      - action: utter_ask_follow_up_general
+
+  - story: chs programs overview
+    steps:
+      - intent: chs_programs_overview
+      - action: utter_chs_programs_overview
+      - action: utter_ask_follow_up_general
+
+  - story: chs facilities information
+    steps:
+      - intent: chs_facilities_info
+      - action: utter_chs_facilities_info
+      - action: utter_ask_follow_up_general
+
+  - story: chs faculty information
+    steps:
+      - intent: chs_faculty_info
+      - action: utter_chs_faculty_info
+      - action: utter_ask_follow_up_general
+
+  - story: chs scholarship information
+    steps:
+      - intent: chs_scholarship_info
+      - action: utter_chs_scholarship_info
+      - action: utter_ask_follow_up_general
+
+  - story: chs duration information
+    steps:
+      - intent: chs_duration_info
+      - action: utter_chs_duration_info
+      - action: utter_ask_follow_up_general
+
+  - story: chs research information
+    steps:
+      - intent: chs_research_info
+      - action: utter_chs_research_info
+      - action: utter_ask_follow_up_general
+
+  - story: chs student life inquiry
+    steps:
+      - intent: chs_student_life
+      - action: utter_chs_student_life
+      - action: utter_ask_follow_up_general
+
+  - story: chs elective information
+    steps:
+      - intent: chs_elective
+      - action: utter_chs_elective
+      - action: utter_ask_follow_up_general
+
+  - story: chs size information
+    steps:
+      - intent: chs_size
+      - action: utter_chs_size
+      - action: utter_ask_follow_up_general
+
+  - story: chs location main
+    steps:
+      - intent: chs_location_main
+      - action: utter_chs_location_main
+      - action: utter_ask_follow_up_general
+
+  - story: chs location dean
+    steps:
+      - intent: chs_location_dean
+      - action: utter_chs_location_dean
+      - action: utter_ask_follow_up_general
+
+  - story: chs location departments
+    steps:
+      - intent: chs_location_departments
+      - action: utter_chs_location_departments
+      - action: utter_ask_follow_up_general
+
+  - story: chs program details
+    steps:
+      - intent: chs_program_details
+      - action: utter_chs_program_details
+      - action: utter_ask_follow_up_general
+
+  - story: chs_admission_requirements
+    steps:
+      - intent: chs_admission_requirements
+      - action: utter_chs_admission_requirements
+      - action: utter_ask_follow_up_general
+
+  - story: chs practical training
+    steps:
+      - intent: chs_practical_training
+      - action: utter_chs_practical_training
+      - action: utter_ask_follow_up_general
+
+  - story: chs career opportunities
+    steps:
+      - intent: chs_career_opportunities
+      - action: utter_chs_career_opportunities
+      - action: utter_ask_follow_up_general
+
+  - story: chs board exam
+    steps:
+      - intent: chs_board_exam
+      - action: utter_chs_board_exam
+      - action: utter_ask_follow_up_general
+
+  - story: clinical practice
+    steps:
+      - intent: chs_clinical_practice
+      - action: utter_chs_clinical_practice
+      - action: utter_ask_follow_up_general
+
+  #CEBA
+  - story: ceba general inquiry
+    steps:
+      - intent: ceba_general_inquiry
+      - action: action_set_active_college
+      - slot_was_set:
+          - active_college: "ceba"
+      - action: utter_ceba_general_inquiry
+      - action: utter_ask_follow_up_general
+
+  - story: ceba programs overview
+    steps:
+      - intent: ceba_programs_overview
+      - action: utter_ceba_programs_overview
+      - action: utter_ask_follow_up_general
+
+  - story: ceba facilities information
+    steps:
+      - intent: ceba_facilities_info
+      - action: utter_ceba_facilities_info
+      - action: utter_ask_follow_up_general
+
+  - story: ceba faculty information
+    steps:
+      - intent: ceba_faculty_info
+      - action: utter_ceba_faculty_info
+      - action: utter_ask_follow_up_general
+
+  - story: ceba scholarship information
+    steps:
+      - intent: ceba_scholarship_info
+      - action: utter_ceba_scholarship_info
+      - action: utter_ask_follow_up_general
+
+  - story: ceba duration information
+    steps:
+      - intent: ceba_duration_info
+      - action: utter_ceba_duration_info
+      - action: utter_ask_follow_up_general
+
+  - story: ceba research information
+    steps:
+      - intent: ceba_research_info
+      - action: utter_ceba_research_info
+      - action: utter_ask_follow_up_general
+
+  - story: ceba student life inquiry
+    steps:
+      - intent: ceba_student_life
+      - action: utter_ceba_student_life
+      - action: utter_ask_follow_up_general
+
+  - story: ceba elective information
+    steps:
+      - intent: ceba_elective
+      - action: utter_ceba_elective
+      - action: utter_ask_follow_up_general
+
+  - story: ceba size information
+    steps:
+      - intent: ceba_size
+      - action: utter_ceba_size
+      - action: utter_ask_follow_up_general
+
+  - story: ceba program details
+    steps:
+      - intent: ceba_program_details
+      - action: utter_ceba_program_details
+      - action: utter_ask_follow_up_general
+
+  - story: ceba admission requirements
+    steps:
+      - intent: ceba_admission_requirements
+      - action: utter_ceba_admission_requirements
+      - action: utter_ask_follow_up_general
+
+  - story: ceba career opportunities
+    steps:
+      - intent: ceba_career_prospects
+      - action: utter_ceba_career_prospects
+      - action: utter_ask_follow_up_general
+
+  - story: ceba program comparison
+    steps:
+      - intent: ceba_program_comparison
+      - action: utter_ceba_program_comparison
+      - action: utter_ask_follow_up_general
+
+  - story: ceba program difficulty
+    steps:
+      - intent: ceba_program_difficulty
+      - action: utter_ceba_program_difficulty
+      - action: utter_ask_follow_up_general
+
+  - story: ceba program difficulty comparison
+    steps:
+      - intent: ceba_program_difficulty_comparison
+      - action: utter_ceba_program_difficulty_comparison
+      - action: utter_ask_follow_up_general
+
+  - story: ceba evaluation inquiry
+    steps:
+      - intent: ceba_evaluation
+      - action: utter_ceba_evaluation
+      - action: utter_ask_follow_up_general
+
+  - story: ceba location main
+    steps:
+      - intent: ceba_location_main
+      - action: utter_ceba_location_main
+      - action: utter_ask_follow_up_general
+
+  - story: ceba location dean
+    steps:
+      - intent: ceba_location_dean
+      - action: utter_ceba_location_dean
+      - action: utter_ask_follow_up_general
+
+  - story: ceba location departments
+    steps:
+      - intent: ceba_location_departments
+      - action: utter_ceba_location_departments
+      - action: utter_ask_follow_up_general
+
+  # CASS
+  - story: cass general inquiry
+    steps:
+      - intent: cass_general_inquiry
+      - action: action_set_active_college
+      - slot_was_set:
+          - active_college: "cass"
+      - action: utter_cass_general_inquiry
+      - action: utter_ask_follow_up_general
+
+  - story: cass programs overview
+    steps:
+      - intent: cass_programs_overview
+      - action: utter_cass_programs_overview
+      - action: utter_ask_follow_up_general
+
+  - story: cass facilities information
+    steps:
+      - intent: cass_facilities_info
+      - action: utter_cass_facilities_info
+      - action: utter_ask_follow_up_general
+
+  - story: cass faculty information
+    steps:
+      - intent: cass_faculty_info
+      - action: utter_cass_faculty_info
+      - action: utter_ask_follow_up_general
+
+  - story: cass scholarship information
+    steps:
+      - intent: cass_scholarship_info
+      - action: utter_cass_scholarship_info
+      - action: utter_ask_follow_up_general
+
+  - story: cass duration information
+    steps:
+      - intent: cass_duration_info
+      - action: utter_cass_duration_info
+      - action: utter_ask_follow_up_general
+
+  - story: cass research information
+    steps:
+      - intent: cass_research_info
+      - action: utter_cass_research_info
+      - action: utter_ask_follow_up_general
+
+  - story: cass student life inquiry
+    steps:
+      - intent: cass_student_life
+      - action: utter_cass_student_life
+      - action: utter_ask_follow_up_general
+
+  - story: cass elective information
+    steps:
+      - intent: cass_elective
+      - action: utter_cass_elective
+      - action: utter_ask_follow_up_general
+
+  - story: cass size information
+    steps:
+      - intent: cass_size
+      - action: utter_cass_size
+      - action: utter_ask_follow_up_general
+
+  - story: cass program details
+    steps:
+      - intent: cass_program_details
+      - action: utter_cass_program_details
+      - action: utter_ask_follow_up_general
+
+  - story: cass admission requirements
+    steps:
+      - intent: cass_admission_requirements
+      - action: utter_cass_admission_requirements
+      - action: utter_ask_follow_up_general
+
+  - story: cass career opportunities
+    steps:
+      - intent: cass_career_prospects
+      - action: utter_cass_career_prospects
+      - action: utter_ask_follow_up_general
+
+  - story: cass program comparison
+    steps:
+      - intent: cass_program_comparison
+      - action: utter_cass_program_comparison
+      - action: utter_ask_follow_up_general
+
+  - story: cass program difficulty
+    steps:
+      - intent: cass_program_difficulty
+      - action: utter_cass_program_difficulty
+      - action: utter_ask_follow_up_general
+
+  - story: cass program difficulty comparison
+    steps:
+      - intent: cass_program_difficulty_comparison
+      - action: utter_cass_program_difficulty_comparison
+      - action: utter_ask_follow_up_general
+
+  - story: cass evaluation inquiry
+    steps:
+      - intent: cass_evaluation
+      - action: utter_cass_evaluation
+      - action: utter_ask_follow_up_general
+
+  - story: cass location main
+    steps:
+      - intent: cass_location_main
+      - action: utter_cass_location_main
+      - action: utter_ask_follow_up_general
+
+  - story: cass location dean
+    steps:
+      - intent: cass_location_dean
+      - action: utter_cass_location_dean
+      - action: utter_ask_follow_up_general
+
+  - story: cass location departments
+    steps:
+      - intent: cass_location_departments
+      - action: utter_cass_location_departments
+      - action: utter_ask_follow_up_general
+
+  # CED
+  - story: ced general inquiry
+    steps:
+      - intent: ced_general_inquiry
+      - action: action_set_active_college
+      - slot_was_set:
+          - active_college: "ced"
+      - action: utter_ced_general_inquiry
+      - action: utter_ask_follow_up_general
+
+  - story: ced programs overview
+    steps:
+      - intent: ced_programs_overview
+      - action: utter_ced_programs_overview
+      - action: utter_ask_follow_up_general
+
+  - story: ced facilities information
+    steps:
+      - intent: ced_facilities_info
+      - action: utter_ced_facilities_info
+      - action: utter_ask_follow_up_general
+
+  - story: ced faculty information
+    steps:
+      - intent: ced_faculty_info
+      - action: utter_ced_faculty_info
+      - action: utter_ask_follow_up_general
+
+  - story: ced scholarship information
+    steps:
+      - intent: ced_scholarship_info
+      - action: utter_ced_scholarship_info
+      - action: utter_ask_follow_up_general
+
+  - story: ced duration information
+    steps:
+      - intent: ced_duration_info
+      - action: utter_ced_duration_info
+      - action: utter_ask_follow_up_general
+
+  - story: ced research information
+    steps:
+      - intent: ced_research_info
+      - action: utter_ced_research_info
+      - action: utter_ask_follow_up_general
+
+  - story: ced student life inquiry
+    steps:
+      - intent: ced_student_life
+      - action: utter_ced_student_life
+      - action: utter_ask_follow_up_general
+
+  - story: ced elective information
+    steps:
+      - intent: ced_elective
+      - action: utter_ced_elective
+      - action: utter_ask_follow_up_general
+
+  - story: ced size information
+    steps:
+      - intent: ced_size
+      - action: utter_ced_size
+      - action: utter_ask_follow_up_general
+
+  - story: ced program details
+    steps:
+      - intent: ced_program_details
+      - action: utter_ced_program_details
+      - action: utter_ask_follow_up_general
+
+  - story: ced admission requirements
+    steps:
+      - intent: ced_admission_requirements
+      - action: utter_ced_admission_requirements
+      - action: utter_ask_follow_up_general
+
+  - story: ced career opportunities
+    steps:
+      - intent: ced_career_prospects
+      - action: utter_ced_career_prospects
+      - action: utter_ask_follow_up_general
+
+  - story: ced program comparison
+    steps:
+      - intent: ced_program_comparison
+      - action: utter_ced_program_comparison
+      - action: utter_ask_follow_up_general
+
+  - story: ced program difficulty
+    steps:
+      - intent: ced_program_difficulty
+      - action: utter_ced_program_difficulty
+      - action: utter_ask_follow_up_general
+
+  - story: ced program difficulty comparison
+    steps:
+      - intent: ced_program_difficulty_comparison
+      - action: utter_ced_program_difficulty_comparison
+      - action: utter_ask_follow_up_general
+
+  - story: ced evaluation inquiry
+    steps:
+      - intent: ced_evaluation
+      - action: utter_ced_evaluation
+      - action: utter_ask_follow_up_general
+
+  - story: ced location main
+    steps:
+      - intent: ced_location_main
+      - action: utter_ced_location_main
+      - action: utter_ask_follow_up_general
+
+  - story: ced location dean
+    steps:
+      - intent: ced_location_dean
+      - action: utter_ced_location_dean
+      - action: utter_ask_follow_up_general
+
+  - story: ced location departments
+    steps:
+      - intent: ced_location_departments
+      - action: utter_ced_location_departments
+      - action: utter_ask_follow_up_general
+
+  # CSM
+  - story: csm general inquiry
+    steps:
+      - intent: csm_general_inquiry
+      - action: action_set_active_college
+      - slot_was_set:
+          - active_college: "csm"
+      - action: utter_csm_general_inquiry
+      - action: utter_ask_follow_up_general
+
+  - story: csm programs overview
+    steps:
+      - intent: csm_programs_overview
+      - action: utter_csm_programs_overview
+      - action: utter_ask_follow_up_general
+
+  - story: csm facilities information
+    steps:
+      - intent: csm_facilities_info
+      - action: utter_csm_facilities_info
+      - action: utter_ask_follow_up_general
+
+  - story: csm faculty information
+    steps:
+      - intent: csm_faculty_info
+      - action: utter_csm_faculty_info
+      - action: utter_ask_follow_up_general
+
+  - story: csm scholarship information
+    steps:
+      - intent: csm_scholarship_info
+      - action: utter_csm_scholarship_info
+      - action: utter_ask_follow_up_general
+
+  - story: csm duration information
+    steps:
+      - intent: csm_duration_info
+      - action: utter_csm_duration_info
+      - action: utter_ask_follow_up_general
+
+  - story: csm research information
+    steps:
+      - intent: csm_research_info
+      - action: utter_csm_research_info
+      - action: utter_ask_follow_up_general
+
+  - story: csm student life inquiry
+    steps:
+      - intent: csm_student_life
+      - action: utter_csm_student_life
+      - action: utter_ask_follow_up_general
+
+  - story: csm elective information
+    steps:
+      - intent: csm_elective
+      - action: utter_csm_elective
+      - action: utter_ask_follow_up_general
+
+  - story: csm size information
+    steps:
+      - intent: csm_size
+      - action: utter_csm_size
+      - action: utter_ask_follow_up_general
+
+  - story: csm program details
+    steps:
+      - intent: csm_program_details
+      - action: utter_csm_program_details
+      - action: utter_ask_follow_up_general
+
+  - story: csm admission requirements
+    steps:
+      - intent: csm_admission_requirements
+      - action: utter_csm_admission_requirements
+      - action: utter_ask_follow_up_general
+
+  - story: csm career opportunities
+    steps:
+      - intent: csm_career_prospects
+      - action: utter_csm_career_prospects
+      - action: utter_ask_follow_up_general
+
+  - story: csm program comparison
+    steps:
+      - intent: csm_program_comparison
+      - action: utter_csm_program_comparison
+      - action: utter_ask_follow_up_general
+
+  - story: csm program difficulty
+    steps:
+      - intent: csm_program_difficulty
+      - action: utter_csm_program_difficulty
+      - action: utter_ask_follow_up_general
+
+  - story: csm program difficulty comparison
+    steps:
+      - intent: csm_program_difficulty_comparison
+      - action: utter_csm_program_difficulty_comparison
+      - action: utter_ask_follow_up_general
+
+  - story: csm evaluation inquiry
+    steps:
+      - intent: csm_evaluation
+      - action: utter_csm_evaluation
+      - action: utter_ask_follow_up_general
+
+  - story: csm location main
+    steps:
+      - intent: csm_location_main
+      - action: utter_csm_location_main
+      - action: utter_ask_follow_up_general
+
+  - story: csm location dean
+    steps:
+      - intent: csm_location_dean
+      - action: utter_csm_location_dean
+      - action: utter_ask_follow_up_general
+
+  - story: csm location departments
+    steps:
+      - intent: csm_location_departments
+      - action: utter_csm_location_departments
+      - action: utter_ask_follow_up_general
+
+  # Fablab
+  - story: fablab about
+    steps:
+      - intent: fablab_about
+      - action: utter_fablab_about
+      - action: utter_ask_follow_up_general
+
+  - story: fablab usage
+    steps:
+      - intent: fablab_usage
+      - action: utter_fablab_usage
+      - action: utter_ask_follow_up_general
+
+  - story: fablab products
+    steps:
+      - intent: fablab_products
+      - action: utter_fablab_products
+      - action: utter_ask_follow_up_general
+
+  - story: fablab access
+    steps:
+      - intent: fablab_access
+      - action: utter_fablab_access
+      - action: utter_ask_follow_up_general
+
+  - story: fablab cost
+    steps:
+      - intent: fablab_cost
+      - action: utter_fablab_cost
+      - action: utter_ask_follow_up_general
+
+  # Admissions
+  - story: admission about
+    steps:
+      - intent: admission_about
+      - action: utter_admission_about
+      - action: utter_ask_follow_up_general
+
+  - story: admission invitation
+    steps:
+      - intent: admission_invitation
+      - action: utter_admission_invitation
+      - action: utter_ask_follow_up_general
+
+  - story: admission document submission
+    steps:
+      - intent: admission_document_submission
+      - action: utter_admission_document_submission
+      - action: utter_ask_follow_up_general
+
+  - story: admission chances
+    steps:
+      - intent: admission_chances
+      - action: utter_admission_chances
+      - action: utter_ask_follow_up_general
+
+  - story: admission email inquiry
+    steps:
+      - intent: admission_email_inquiry
+      - action: utter_admission_email_inquiry
+      - action: utter_ask_follow_up_general
+
+  - story: admission transferee
+    steps:
+      - intent: admission_transferee
+      - action: utter_admission_transferee
+      - action: utter_ask_follow_up_general
+
+  - story: admission transfer external
+    steps:
+      - intent: admission_transfer_external
+      - action: utter_admission_transfer_external
+      - action: utter_ask_follow_up_general
+
+  - story: admission second degree
+    steps:
+      - intent: admission_second_degree
+      - action: utter_admission_second_degree
+      - action: utter_ask_follow_up_general
+
+  - story: admission lacking documents
+    steps:
+      - intent: admission_lacking_documents
+      - action: utter_admission_lacking_documents
+      - action: utter_ask_follow_up_general
+
+  - story: admission liability
+    steps:
+      - intent: admission_liability
+      - action: utter_admission_liability
+      - action: utter_ask_follow_up_general
+
+  # Scholarships
+  - story: scholarship availability
+    steps:
+      - intent: scholar_availability
+      - action: utter_scholar_availability
+      - action: utter_ask_follow_up_general
+
+  - story: scholar delay
+    steps:
+      - intent: scholar_delay
+      - action: utter_scholar_delay
+      - action: utter_ask_follow_up_general
+
+  - story: scholar openlbp
+    steps:
+      - intent: scholar_openlbp
+      - action: utter_scholar_openlbp
+      - action: utter_ask_follow_up_general
+
+  - story: scholar lbpcertificate
+    steps:
+      - intent: scholar_lbpcertificate
+      - action: utter_scholar_lbpcertificate
+      - action: utter_ask_follow_up_general
+
+  - story: scholar lbpsubmit
+    steps:
+      - intent: scholar_lbpsubmit
+      - action: utter_scholar_lbpsubmit
+      - action: utter_ask_follow_up_general
+
+  - story: scholar apply
+    steps:
+      - intent: scholar_apply
+      - action: utter_scholar_apply
+      - action: utter_ask_follow_up_general
+
+  - story: scholar tags
+    steps:
+      - intent: scholar_tags
+      - action: utter_scholar_tags
+      - action: utter_ask_follow_up_general
+
+  # Clinic
+  - story: clinic checkup
+    steps:
+      - intent: clinic_checkup
+      - action: utter_clinic_checkup
+      - action: utter_ask_follow_up_general
+
+  - story: clinic dental
+    steps:
+      - intent: clinic_dental
+      - action: utter_clinic_dental
+      - action: utter_ask_follow_up_general
+
+  - story: clinic medcert absent
+    steps:
+      - intent: clinic_medcert_absent
+      - action: utter_clinic_medcert_absent
+      - action: utter_ask_follow_up_general
+
+  - story: clinic medcert travel
+    steps:
+      - intent: clinic_medcert_travel
+      - action: utter_clinic_medcert_travel
+      - action: utter_ask_follow_up_general
+
+  - story: clinic labtest
+    steps:
+      - intent: clinic_labtest
+      - action: utter_clinic_labtest
+      - action: utter_ask_follow_up_general
+
+  - story: clinic medcert employment
+    steps:
+      - intent: clinic_medcert_employment
+      - action: utter_clinic_medcert_employment
+      - action: utter_ask_follow_up_general
+
+  - story: clninic fasting
+    steps:
+      - intent: clinic_fasting
+      - action: utter_clinic_fasting
+      - action: utter_ask_follow_up_general
+
+  # Registrar
+  - story: registrar transcript request
+    steps:
+      - intent: registrar_transcript_request
+      - action: utter_registrar_transcript_request
+      - action: utter_ask_follow_up_general
+
+  - story: registrar cor request
+    steps:
+      - intent: registrar_cor_request
+      - action: utter_registrar_cor_request
+      - action: utter_ask_follow_up_general
+
+  - story: registrar academic load revision
+    steps:
+      - intent: registrar_academic_load_revision
+      - action: utter_registrar_academic_load_revision
+      - action: utter_ask_follow_up_general
+
+  - story: registrar grade completion
+    steps:
+      - intent: registrar_grade_completion
+      - action: utter_registrar_grade_completion
+      - action: utter_ask_follow_up_general
+
+  - story: registrar withdraw subject
+    steps:
+      - intent: registrar_withdraw_subject
+      - action: utter_registrar_withdraw_subject
+      - action: utter_ask_follow_up_general
+
+  - story: withdraw all subject
+    steps:
+      - intent: registrar_withdraw_all_subjects
+      - action: utter_registrar_withdraw_all_subjects
+      - action: utter_ask_follow_up_general
+
+  - story: add subjects
+    steps:
+      - intent: registrar_add_subjects
+      - action: utter_registrar_add_subjects
+      - action: utter_ask_follow_up_general
+
+  - story: registrar honorable dismissal
+    steps:
+      - intent: registrar_honorable_dismissal
+      - action: utter_registrar_honorable_dismissal
+      - action: utter_ask_follow_up_general
+
+  - story: registrar document authentication fee
+    steps:
+      - intent: registrar_document_authentication_fee
+      - action: utter_registrar_document_authentication_fee
+      - action: utter_ask_follow_up_general
+
+  - story: registrar transfer credentials
+    steps:
+      - intent: registrar_transfer_credentials
+      - action: utter_registrar_transfer_credentials
+      - action: utter_ask_follow_up_general
+
+  - story: registrar cav request
+    steps:
+      - intent: registrar_cav_request
+      - action: utter_registrar_cav_request
+      - action: utter_ask_follow_up_general
+
+  - story: registrar clearance access
+    steps:
+      - intent: registrar_clearance_access
+      - action: utter_registrar_clearance_access
+      - action: utter_ask_follow_up_general
+
+  - story: registrar subject availability
+    steps:
+      - intent: registrar_subject_availability
+      - action: utter_registrar_subject_availability
+      - action: utter_ask_follow_up_general
+
+  - story: registrar removal exams
+    steps:
+      - intent: registrar_removal_exams
+      - action: utter_registrar_removal_exams
+      - action: utter_ask_follow_up_general
+
+  - story: registrar cross enrollment permit
+    steps:
+      - intent: registrar_cross_enrollment_permit
+      - action: utter_registrar_cross_enrollment_permit
+      - action: utter_ask_follow_up_general
+
+  - story: registrar academic calendar
+    steps:
+      - intent: registrar_academic_calendar
+      - action: utter_registrar_academic_calendar
+      - action: utter_ask_follow_up_general
+
+  - story: registrar leave of absence
+    steps:
+      - intent: registrar_leave_of_absence
+      - action: utter_registrar_leave_of_absence
+      - action: utter_ask_follow_up_general
+
+  - story: registrar reprint rog
+    steps:
+      - intent: registrar_reprint_rog
+      - action: utter_registrar_reprint_rog
+      - action: utter_ask_follow_up_general
+
+  - story: academic verification documents
+    steps:
+      - intent: registrar_academic_verification_documents
+      - action: utter_registrar_academic_verification_documents
+      - action: utter_ask_follow_up_general
+
+  - story: registrar check grades
+    steps:
+      - intent: registrar_check_grades
+      - action: utter_registrar_check_grades
+      - action: utter_ask_follow_up_general
+
+  - story: registrar accountability
+    steps:
+      - intent: registrar_accountability
+      - action: utter_registrar_accountability
+      - action: utter_ask_follow_up_general
+
+  - story: registrar document processing time
+    steps:
+      - intent: registrar_document_processing_time
+      - action: utter_registrar_document_processing_time
+      - action: utter_ask_follow_up_general
+
+  - story: registrar preliminary registration form
+    steps:
+      - intent: registrar_preliminary_registration_form
+      - action: utter_registrar_preliminary_registration_form
+      - action: utter_ask_follow_up_general
+
+  - story: registrar advance credit
+    steps:
+      - intent: registrar_advance_credit
+      - action: utter_registrar_advance_credit
+      - action: utter_ask_follow_up_general
+
+  - story: registrar student records online
+    steps:
+      - intent: registrar_student_records_online
+      - action: utter_registrar_student_records_online
+      - action: utter_ask_follow_up_general
+
+  - story: deans list
+    steps:
+      - intent: registrar_deans_list
+      - action: utter_registrar_deans_list
+      - action: utter_ask_follow_up_general
+
+  - story: registrar graduating students list
+    steps:
+      - intent: registrar_graduating_students_list
+      - action: utter_registrar_graduating_students_list
+      - action: utter_ask_follow_up_general
+
+  - story: registrar promissory note
+    steps:
+      - intent: registrar_promissory_note
+      - action: utter_registrar_promissory_note
+      - action: utter_ask_follow_up_general
+
+  - story: registrar cross enrollment requirements
+    steps:
+      - intent: registrar_cross_enrollment_requirements
+      - action: utter_registrar_cross_enrollment_requirements
+      - action: utter_ask_follow_up_general
+
+  - story: registrar transcript fee
+    steps:
+      - intent: registrar_transcript_fee
+      - action: utter_registrar_transcript_fee
+      - action: utter_ask_follow_up_general
+
+  - story: registrar academic records email
+    steps:
+      - intent: registrar_academic_records_email
+      - action: utter_registrar_academic_records_email
+      - action: utter_ask_follow_up_general
+
+  - story: registrar student records validation fee
+    steps:
+      - intent: registrar_student_records_validation_fee
+      - action: utter_registrar_student_records_validation_fee
+      - action: utter_ask_follow_up_general
+
+  - story: registrar shifter status
+    steps:
+      - intent: registrar_shifter_status
+      - action: utter_registrar_shifter_status
+      - action: utter_ask_follow_up_general
+
+  - story: registrar enrollment with pending accountabilities
+    steps:
+      - intent: registrar_enrollment_with_pending_accountabilities
+      - action: utter_registrar_enrollment_with_pending_accountabilities
+      - action: utter_ask_follow_up_general
+
+  - story: registrar unclaimed documents
+    steps:
+      - intent: registrar_unclaimed_documents
+      - action: utter_registrar_unclaimed_documents
+      - action: utter_ask_follow_up_general
+
+  - story: registrar university schedule
+    steps:
+      - intent: registrar_university_schedule
+      - action: utter_registrar_university_schedule
+      - action: utter_ask_follow_up_general
+
+  - story: registrar honorable dissmissal documents
+    steps:
+      - intent: registrar_honorable_dismissal_documents
+      - action: utter_registrar_honorable_dismissal_documents
+      - action: utter_ask_follow_up_general
+
+  - story: registrar academic load revision form
+    steps:
+      - intent: registrar_academic_load_revision_form
+      - action: utter_registrar_academic_load_revision_form
+      - action: utter_ask_follow_up_general
+
+  - story: registrar graduation qualification
+    steps:
+      - intent: registrar_graduation_qualification
+      - action: utter_registrar_graduation_qualification
+      - action: utter_ask_follow_up_general
+
+  - story: registrar form 137 138 request
+    steps:
+      - intent: registrar_form_137_138_request
+      - action: utter_registrar_form_137_138_request
+      - action: utter_ask_follow_up_general
+
+  # OSDS
+  - story: Say anytime user asks about student loan
+    steps:
+      - intent: osds_apply_student_loan
+      - action: utter_osds_apply_student_loan
+
+  - story: Say anytime user asks about financial assistance programs
+    steps:
+      - intent: osds_financial_assistance_programs
+      - action: utter_osds_financial_assistance_programs
+
+  - story: Say anytime user asks about qualifications for student assistantship
+    steps:
+      - intent: osds_qualifications_student_assistantship
+      - action: utter_osds_qualifications_student_assistantship
+
+  - story: Say anytime user asks about applying for teaching assistantship
+    steps:
+      - intent: osds_apply_teaching_assistantship
+      - action: utter_osds_apply_teaching_assistantship
+
+  - story: Say anytime user asks about finding approved student lodging
+    steps:
+      - intent: osds_find_approved_student_lodging
+      - action: utter_osds_find_approved_student_lodging
+
+  - story: Say anytime user asks about requirements for special grants program
+    steps:
+      - intent: osds_requirements_special_grants_program
+      - action: utter_osds_requirements_special_grants_program
+
+  - story: Say anytime user asks about participating in student organizations
+    steps:
+      - intent: osds_participate_student_organizations
+      - action: utter_osds_participate_student_organizations
+
+  - story: Say anytime user asks about the special program for employment of students
+    steps:
+      - intent: osds_special_program_employment_students
+      - action: utter_osds_special_program_employment_students
+
+  - story: Say anytime user asks about submitting complaints or suggestions
+    steps:
+      - intent: osds_submit_complaint_suggestion
+      - action: utter_osds_submit_complaint_suggestion
+
+  - story: Say anytime user asks about processing for organizing extracurricular activities
+    steps:
+      - intent: osds_process_organizing_extra_curricular
+      - action: utter_osds_process_organizing_extra_curricular
+
+  - story: Say anytime user asks about applying for office assistantship
+    steps:
+      - intent: osds_apply_office_assistantship
+      - action: utter_osds_apply_office_assistantship
+
+  - story: Say anytime user asks about benefits for special grants program
+    steps:
+      - intent: osds_benefits_special_grants_program
+      - action: utter_osds_benefits_special_grants_program
+
+  - story: Say anytime user asks about financial difficulties with tuition
+    steps:
+      - intent: osds_financial_difficulties_tuition
+      - action: utter_osds_financial_difficulties_tuition
+
+  - story: Say anytime user asks about qualifying for special program for employment of students
+    steps:
+      - intent: osds_qualify_special_program_employment_students
+      - action: utter_osds_qualify_special_program_employment_students
+
+  - story: Say anytime user asks about approved extracurricular activities
+    steps:
+      - intent: osds_approved_extracurricular_activities
+      - action: utter_osds_approved_extracurricular_activities
+
+  - story: Say anytime user asks about restrictions on student organizations
+    steps:
+      - intent: osds_restrictions_student_organizations
+      - action: utter_osds_restrictions_student_organizations
+
+  - story: Say anytime user asks about filing a complaint related to student discipline
+    steps:
+      - intent: osds_file_complaint_student_discipline
+      - action: utter_osds_file_complaint_student_discipline
+
+  - story: Say anytime user asks about requirements for personal appliances in dormitories
+    steps:
+      - intent: osds_requirements_personal_appliances_dormitories
+      - action: utter_osds_requirements_personal_appliances_dormitories
+
+  - story: Say anytime user asks about the process for student petitions
+    steps:
+      - intent: osds_student_petitions_process
+      - action: utter_osds_student_petitions_process
+
+  - story: Say anytime user asks about running for student council
+    steps:
+      - intent: osds_run_for_student_council
+      - action: utter_osds_run_for_student_council
+
+  - story: Say anytime user asks about finding scholarships
+    steps:
+      - intent: osds_find_scholarships
+      - action: utter_osds_find_scholarships
+
+  - story: Say anytime user asks about the maximum hours for student assistantship
+    steps:
+      - intent: osds_max_hours_student_assistantship
+      - action: utter_osds_max_hours_student_assistantship
+
+  - story: Say anytime user asks about applying for multiple financial aids
+    steps:
+      - intent: osds_apply_multiple_financial_aid
+      - action: utter_osds_apply_multiple_financial_aid
+
+  - story: Say anytime user asks about help finding housing
+    steps:
+      - intent: osds_help_finding_housing
+      - action: utter_osds_help_finding_housing
+
+  - story: Say anytime user asks about renewing a student loan
+    steps:
+      - intent: osds_renew_student_loan
+      - action: utter_osds_renew_student_loan
+
+  - story: Say anytime user asks about the role of the guidance counseling center
+    steps:
+      - intent: osds_guidance_counseling_center_role
+      - action: utter_osds_guidance_counseling_center_role
+
+  - story: Say anytime user asks about summer programs
+    steps:
+      - intent: osds_summer_programs
+      - action: utter_osds_summer_programs
+
+  - story: Say anytime user asks about student elections rules
+    steps:
+      - intent: osds_student_elections_rules
+      - action: utter_osds_student_elections_rules
+
+  - story: Say anytime user asks about help organizing cultural events
+    steps:
+      - intent: osds_help_organizing_cultural_events
+      - action: utter_osds_help_organizing_cultural_events
+
+  - story: Say anytime user asks about getting involved in the student publication
+    steps:
+      - intent: osds_involved_student_publication
+      - action: utter_osds_involved_student_publication
+
+  - story: Say anytime user asks about academic advising or career counseling
+    steps:
+      - intent: osds_academic_advising_career_counseling
+      - action: utter_osds_academic_advising_career_counseling
+
+  - story: Say anytime user asks about student organization advisers
+    steps:
+      - intent: osds_student_organization_advisers
+      - action: utter_osds_student_organization_advisers
+
+  - story: Say anytime user asks about applying for a scholarship
+    steps:
+      - intent: osds_apply_scholarship
+      - action: utter_osds_apply_scholarship
+
+  - story: Say anytime user asks about missing a student loan payment
+    steps:
+      - intent: osds_missing_student_id
+      - action: utter_osds_missing_student_id
+
+  - story: Say anytime user asks about finding upcoming activities
+    steps:
+      - intent: osds_find_upcoming_activities
+      - action: utter_osds_find_upcoming_activities
+
+  - story: Say anytime user asks about penalties for non-participation in extracurricular activities
+    steps:
+      - intent: osds_penalties_non_participation_extracurricular
+      - action: utter_osds_penalties_non_participation_extracurricular
+
+  - story: apply_student_loan
+    steps:
+      - intent: osds_apply_student_loan
+      - action: utter_osds_apply_student_loan
+      - intent: osds_financial_assistance_programs
+      - action: utter_osds_financial_assistance_programs
+      - intent: osds_qualifications_student_assistantship
+      - action: utter_osds_qualifications_student_assistantship
+
+  - story: financial_assistance_programs
+    steps:
+      - intent: osds_financial_assistance_programs
+      - action: utter_osds_financial_assistance_programs
+      - intent: osds_qualifications_student_assistantship
+      - action: utter_osds_qualifications_student_assistantship
+      - intent: osds_apply_student_loan
+      - action: utter_osds_apply_student_loan
+
+  - story: apply_loan_or_assistantship
+    steps:
+      - intent: osds_apply_student_loan
+      - action: utter_osds_apply_student_loan
+      - intent: osds_apply_teaching_assistantship
+      - action: utter_osds_apply_teaching_assistantship
+      - intent: osds_apply_office_assistantship
+      - action: utter_osds_apply_office_assistantship
+
+  - story: student_assistantship
+    steps:
+      - intent: osds_qualifications_student_assistantship
+      - action: utter_osds_qualifications_student_assistantship
+      - intent: osds_max_hours_student_assistantship
+      - action: utter_osds_max_hours_student_assistantship
+      - intent: osds_apply_student_loan
+      - action: utter_osds_apply_student_loan
+
+  - story: apply_scholarship_and_loan
+    steps:
+      - intent: osds_apply_scholarship
+      - action: utter_osds_apply_scholarship
+      - intent: osds_apply_student_loan
+      - action: utter_osds_apply_student_loan
+      - intent: osds_find_scholarships
+      - action: utter_osds_find_scholarships
+
+  - story: organize_student_events
+    steps:
+      - intent: osds_process_organizing_extra_curricular
+      - action: utter_osds_process_organizing_extra_curricular
+      - intent: osds_help_organizing_cultural_events
+      - action: utter_osds_help_organizing_cultural_events
+      - intent: osds_find_upcoming_activities
+      - action: utter_osds_find_upcoming_activities
+
+  - story: housing_assistance
+    steps:
+      - intent: osds_help_finding_housing
+      - action: utter_osds_help_finding_housing
+      - intent: osds_find_approved_student_lodging
+      - action: utter_osds_find_approved_student_lodging
+      - intent: osds_requirements_personal_appliances_dormitories
+      - action: utter_osds_requirements_personal_appliances_dormitories
+
+  - story: student_programs_and_employment
+    steps:
+      - intent: osds_special_program_employment_students
+      - action: utter_osds_special_program_employment_students
+      - intent: osds_qualify_special_program_employment_students
+      - action: utter_osds_qualify_special_program_employment_students
+      - intent: osds_approved_extracurricular_activities
+      - action: utter_osds_approved_extracurricular_activities
+
+  - story: extracurricular_activities_participation
+    steps:
+      - intent: osds_participate_student_organizations
+      - action: utter_osds_participate_student_organizations
+      - intent: osds_approved_extracurricular_activities
+      - action: utter_osds_approved_extracurricular_activities
+      - intent: osds_penalties_non_participation_extracurricular
+      - action: utter_osds_penalties_non_participation_extracurricular
+
+  - story: student_discipline_complaint
+    steps:
+      - intent: osds_file_complaint_student_discipline
+      - action: utter_osds_file_complaint_student_discipline
+      - intent: osds_submit_complaint_suggestion
+      - action: utter_osds_submit_complaint_suggestion
+      - intent: osds_requirements_special_grants_program
+      - action: utter_osds_requirements_special_grants_program
+
+  - story: submit_student_petitions
+    steps:
+      - intent: osds_student_petitions_process
+      - action: utter_osds_student_petitions_process
+      - intent: osds_run_for_student_council
+      - action: utter_osds_run_for_student_council
+      - intent: osds_involved_student_publication
+      - action: utter_osds_involved_student_publication
+
+  - story: missing_student_id
+    steps:
+      - intent: osds_missing_student_id
+      - action: utter_osds_missing_student_id
+      - intent: osds_requirements_personal_appliances_dormitories
+      - action: utter_osds_requirements_personal_appliances_dormitories
+      - intent: osds_file_complaint_student_discipline
+      - action: utter_osds_file_complaint_student_discipline
+
+  - story: apply_student_loan_and_scholarship
+    steps:
+      - intent: osds_apply_student_loan
+      - action: utter_osds_apply_student_loan
+      - intent: osds_apply_scholarship
+      - action: utter_osds_apply_scholarship
+      - intent: osds_find_scholarships
+      - action: utter_osds_find_scholarships
+
+  - story: organize_events_and_volunteer
+    steps:
+      - intent: osds_help_organizing_cultural_events
+      - action: utter_osds_help_organizing_cultural_events
+      - intent: osds_volunteer_campus_events
+      - action: utter_osds_volunteer_campus_events
+      - intent: osds_find_upcoming_activities
+      - action: utter_osds_find_upcoming_activities
+
+  # Conversation Redirection Flows
+  - story: specific campus inquiry
+    steps:
+      - intent: ask_specific_campus
+      - action: utter_ask_specific_campus
+      - action: utter_ask_follow_up_general
+
+  - story: help refocus conversation
+    steps:
+      - intent: help_refocus
+      - action: utter_help_refocus
+
+  - story: confirm topic switch
+    steps:
+      - intent: confirm_topic_switch
+      - action: utter_confirm_topic_switch
+
+  - story: request more details
+    steps:
+      - intent: ask_more_details
+      - action: utter_ask_more_details
+
+  # Multi-turn Conversation Flows
+  - story: full ccs program exploration
+    steps:
+      - intent: ccs_program_details
+      - action: utter_ccs_program_details
+      - intent: ccs_program_comparison
+      - action: utter_ccs_program_comparison
+      - intent: ccs_program_difficulty
+      - action: utter_ccs_program_difficulty
+      - intent: ccs_career_prospects
+      - action: utter_ccs_career_prospects
+      - action: utter_ask_follow_up_general
+
+  - story: facilities exploration with follow-up
+    steps:
+      - intent: ccs_facilities_info
+      - action: utter_ccs_facilities_info
+      - action: action_listen
+      - intent: ccs_facilities_details
+      - action: utter_ccs_facilities_details
+      - action: action_listen
+      - intent: general_facilities_usage_policy
+      - action: utter_general_facilities_usage_policy
+      - action: utter_ask_follow_up_general
+      - action: action_listen
+
+

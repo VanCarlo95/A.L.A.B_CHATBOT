@@ -1,0 +1,19 @@
+Chat History for User ID: user_1745720660784
+Started: 2025-04-27 10:25:51
+==================================================
+[2025-04-27 10:25:51] User: Hello!
+[2025-04-27 10:25:51] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 10:25:51] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-27 10:26:24] User: Why is BA PSYCH removed from the courses next school year?
+[2025-04-27 10:26:24] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 10:26:24] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-27 10:27:00] User: Who is the department of psychology chairman?
+[2025-04-27 10:27:00] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 10:27:00] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-27 10:27:10] User: Who is the chancellor
+[2025-04-27 10:27:10] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 10:27:10] Bot: The current Chancellor of MSU-IIT is Dr. Alizedney M. Ditucalan. Under his leadership, the university has achieved significant milestones, including ranking 3rd among Philippine universities in the Times Higher Education (THE) World University Rankings 2025. Chancellor Ditucalan has emphasized strengthening academic publishing and research initiatives.
+[2025-04-27 10:27:10] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-27 10:27:38] User: What is IPAG
+[2025-04-27 10:27:38] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 10:27:38] Bot: I'm sorry, I didn't understand that. Could you rephrase?

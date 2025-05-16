@@ -1,0 +1,9 @@
+Chat History for User ID: user_1745596064417
+Started: 2025-04-25 23:48:02
+==================================================
+[2025-04-25 23:48:02] User: Good evening
+[2025-04-25 23:48:02] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:48:02] Bot: Hello! I am A.L.A.B, your Academic Learning Assistance Bot. How can I help you today?
+[2025-04-25 23:48:35] User: What is CASS?
+[2025-04-25 23:48:35] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:48:35] Bot: I'm sorry, I didn't understand that. Could you rephrase?

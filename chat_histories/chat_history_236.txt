@@ -1,0 +1,6 @@
+Chat History for User ID: user_1745714769200
+Started: 2025-04-27 08:46:22
+==================================================
+[2025-04-27 08:46:22] User: What college offers AB POL SCIE?
+[2025-04-27 08:46:22] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 08:46:22] Bot: I'm sorry, I didn't understand that. Could you rephrase?

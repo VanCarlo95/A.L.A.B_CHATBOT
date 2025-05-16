@@ -1,0 +1,28 @@
+Chat History for User ID: user_1745534793372
+Started: 2025-04-25 06:47:03
+==================================================
+[2025-04-25 06:47:03] User: Where is MSU-IIT located at?
+[2025-04-25 06:47:03] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 06:47:03] Bot: MSU-IIT is located in the heart of Iligan City, Lanao del Norte, Philippines. The main campus is situated along Andres Bonifacio Avenue, and is easily accessible by public transportation. The campus is known for its modern facilities and beautiful landscape.
+[2025-04-25 06:47:03] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-25 06:47:48] User: Can you tell something about BS Mechanical Engineering in MSU-IIT?
+[2025-04-25 06:47:48] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 06:47:48] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 06:48:08] User: Tell some faqs about the mechanical engineering program of MSU-IIT
+[2025-04-25 06:48:08] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 06:48:08] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 06:48:13] User: nah
+[2025-04-25 06:48:13] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 06:48:13] Bot: Hello! I am A.L.A.B, your Academic Learning Assistance Bot. How can I help you today?
+[2025-04-25 06:48:36] User: Is MSU-IIT one of the top school in the philippines?
+[2025-04-25 06:48:36] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 06:48:36] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 06:48:53] User: What is the job of the OSDS?
+[2025-04-25 06:48:53] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 06:48:53] Bot: MSU-IIT supports working students through:
+- Flexible class schedules
+- Student assistant positions
+- Part-time work opportunities in campus
+- Industry internship programs
+[2025-04-25 06:48:53] Bot: Working students should maintain satisfactory academic performance and inform their academic advisor to ensure proper balance of work and studies.
+[2025-04-25 06:48:53] Bot: Would you like to know more about any specific aspect of MSU-IIT?

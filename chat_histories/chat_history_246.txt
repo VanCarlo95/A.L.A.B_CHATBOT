@@ -1,0 +1,37 @@
+Chat History for User ID: user_1745727913839
+Started: 2025-04-27 12:27:09
+==================================================
+[2025-04-27 12:27:09] User: Hi
+[2025-04-27 12:27:09] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 12:27:09] Bot: Hello! I am A.L.A.B, your Academic Learning Assistance Bot. How can I help you today?
+[2025-04-27 12:27:28] User: What can you do?
+[2025-04-27 12:27:28] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 12:27:28] Bot: My purpose is to provide quick and accurate information about MSU-IIT's academic programs, facilities, and services. I'm here to make it easier for you to find the information you need about the university.
+[2025-04-27 12:27:50] User: How to process the RICO
+[2025-04-27 12:27:50] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 12:27:50] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-27 12:27:57] User: Rico
+[2025-04-27 12:27:57] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 12:27:57] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-27 12:28:01] User: Bobo
+[2025-04-27 12:28:01] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 12:28:01] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-27 12:28:17] User: BA Filipino
+[2025-04-27 12:28:17] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 12:28:17] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-27 12:28:43] User: Where can I gate evaluation grade?
+[2025-04-27 12:28:43] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 12:28:43] Bot: CCS uses a comprehensive evaluation system that includes:
+- Regular examinations (40%)
+- Laboratory work and projects (30%)
+- Assignments and quizzes (20%)
+- Class participation (10%)
+[2025-04-27 12:28:43] Bot: Grading follows the university's standard system:
+- 1.0 (Excellent) to 5.0 (Failed)
+- 3.0 is the passing grade for most subjects
+- Some technical subjects require 2.5 or better to pass
+[2025-04-27 12:28:43] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-27 12:29:02] User: Cass
+[2025-04-27 12:29:02] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 12:29:02] Bot: The CASS building is located at the northern most part of the university. It is the building beside the CEBA student lounge. The CASS building consists of the old and new building.
+[2025-04-27 12:29:02] Bot: Would you like to know more about any specific aspect of MSU-IIT?

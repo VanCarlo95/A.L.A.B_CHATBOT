@@ -1,0 +1,9 @@
+Chat History for User ID: user_1745673790164
+Started: 2025-04-26 21:23:32
+==================================================
+[2025-04-26 21:23:32] User: Am I handsome?
+[2025-04-26 21:23:32] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 21:23:32] Bot: I am ALAB, the Automated Learning Assistant Bot for MSU-IIT. I'm here to help answer your questions about MSU-IIT, its colleges, programs, and facilities.
+[2025-04-26 21:23:55] User: Which is more demanding ccs or coe?
+[2025-04-26 21:23:55] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 21:23:55] Bot: I'm sorry, I didn't understand that. Could you rephrase?

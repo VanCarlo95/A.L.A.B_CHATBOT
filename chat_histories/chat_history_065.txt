@@ -1,0 +1,27 @@
+Chat History for User ID: user_1745592394889
+Started: 2025-04-25 22:46:54
+==================================================
+[2025-04-25 22:46:54] User: bruh
+[2025-04-25 22:46:54] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 22:46:54] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-25 22:47:01] User: programs
+[2025-04-25 22:47:01] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 22:47:01] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 22:47:10] User: program offerings
+[2025-04-25 22:47:10] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 22:47:10] Bot: Here are the details for our programs:
+[2025-04-25 22:47:10] Bot: BSCS (Bachelor of Science in Computer Science):
+• Core Focus: Computational theory, algorithm design, and software development
+• Key Subjects: Advanced Programming, Data Structures, Algorithms, AI/ML
+• Duration: 4 years
+• Special Features: Research-oriented, strong mathematics foundation
+[2025-04-25 22:47:10] Bot: BSIT (Bachelor of Science in Information Technology):
+• Core Focus: Applied technology, system administration, and network management
+• Key Subjects: Web Development, Network Administration, Database Management
+• Duration: 4 years
+• Special Features: Industry-aligned, hands-on technical skills
+[2025-04-25 22:47:10] Bot: BSIS (Bachelor of Science in Information Systems):
+• Core Focus: Business process automation and information management
+• Key Subjects: Business Process Management, Systems Analysis, Enterprise Systems
+• Duration: 4 years
+• Special Features: Business-IT alignment, enterprise solutions

@@ -1,0 +1,24 @@
+Chat History for User ID: user_1745679963502
+Started: 2025-04-26 23:06:19
+==================================================
+[2025-04-26 23:06:19] User: Can you tell me about CASS
+[2025-04-26 23:06:19] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 23:06:19] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 23:06:44] User: cass
+[2025-04-26 23:06:44] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 23:06:44] Bot: The CASS building is located at the northern most part of the university. It is the building beside the CEBA student lounge. The CASS building consists of the old and new building.
+[2025-04-26 23:06:44] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 23:07:55] User: What departments are in cass
+[2025-04-26 23:07:55] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 23:07:55] Bot: The location of CASS deparment's office are located on the second floor of the old and new building.
+[2025-04-26 23:07:55] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 23:08:09] User: What about prism
+[2025-04-26 23:08:09] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 23:08:09] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 23:08:13] User: PRISM
+[2025-04-26 23:08:13] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 23:08:13] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 23:08:43] User: What programs does cass have?
+[2025-04-26 23:08:43] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 23:08:43] Bot: The College of Arts and Social Sciences offers Bachelor of Arts in Communication, Bachelor of Arts in English, Bachelor of Arts in History, Bachelor of Arts in Political Science, Bachelor of Arts in Psychology, and Bachelor of Arts in Sociology.
+[2025-04-26 23:08:43] Bot: Would you like to know more about any specific aspect of MSU-IIT?

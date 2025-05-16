@@ -1,0 +1,41 @@
+Chat History for User ID: user_1745597231536
+Started: 2025-04-26 00:07:35
+==================================================
+[2025-04-26 00:07:35] User: What is ccs
+[2025-04-26 00:07:35] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:07:35] Bot: The College of Computer Studies is located in the CCS Building, a modern 4-story structure in the heart of MSU-IIT campus. It's easily accessible and recognizable by its distinctive blue-gray exterior. The building houses state-of-the-art computer laboratories, classrooms, and faculty offices.
+[2025-04-26 00:07:35] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 00:07:57] User: How do I enroll for comp sci
+[2025-04-26 00:07:57] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:07:57] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 00:08:08] User: How do I enroll in msu iit
+[2025-04-26 00:08:08] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:08:08] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 00:08:15] User: How to enrol in iit
+[2025-04-26 00:08:15] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:08:15] Bot: MSU-IIT is located in the heart of Iligan City, Lanao del Norte, Philippines. The main campus is situated along Andres Bonifacio Avenue, and is easily accessible by public transportation. The campus is known for its modern facilities and beautiful landscape.
+[2025-04-26 00:08:15] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 00:08:28] User: Who are you
+[2025-04-26 00:08:28] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:08:28] Bot: My creators are Draco, Van, and Justine, who are students at MSU-IIT. They built me to help fellow students and visitors easily access information about the university.
+[2025-04-26 00:08:39] User: Why
+[2025-04-26 00:08:39] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:08:39] Bot: I was created to help students and prospective students get information about MSU-IIT. I can answer questions about colleges, programs, facilities, and services offered by the university.
+[2025-04-26 00:08:47] User: Why
+[2025-04-26 00:08:47] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:08:47] Bot: My purpose is to provide quick and accurate information about MSU-IIT's academic programs, facilities, and services. I'm here to make it easier for you to find the information you need about the university.
+[2025-04-26 00:08:59] User: What's your name
+[2025-04-26 00:08:59] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:08:59] Bot: My name is ALAB, which stands for Automated Learning Assistant Bot. I'm designed to provide information about MSU-IIT to students, prospective students, and visitors.
+[2025-04-26 00:09:10] User: Tell me a funny joke
+[2025-04-26 00:09:10] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:09:10] Bot: MSU offers various scholarship opportunities:
+• Entrance Scholarships for top SASE performers
+• Academic Scholarships for high-achieving students
+• Cultural and Athletic Grants
+• Financial Aid Programs
+• Government Scholarship Programs
+• Research Scholarships
+• Special Grants for Indigenous Peoples
+[2025-04-26 00:09:10] Bot: Each scholarship has specific requirements and benefits. Contact the Scholarship Office for detailed information and application procedures.
+[2025-04-26 00:09:10] Bot: Would you like to know more about any specific aspect of MSU-IIT?

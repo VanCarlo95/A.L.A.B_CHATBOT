@@ -1,0 +1,21 @@
+Chat History for User ID: user_1745597769688
+Started: 2025-04-26 00:16:20
+==================================================
+[2025-04-26 00:16:20] User: What is DSME
+[2025-04-26 00:16:20] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:16:20] Bot: I am ALAB, the Automated Learning Assistant Bot for MSU-IIT. I'm here to help answer your questions about MSU-IIT, its colleges, programs, and facilities.
+[2025-04-26 00:16:33] User: What is DSME
+[2025-04-26 00:16:33] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:16:33] Bot: I am ALAB, the Automated Learning Assistant Bot for MSU-IIT. I'm here to help answer your questions about MSU-IIT, its colleges, programs, and facilities.
+[2025-04-26 00:16:58] User: Why Alab is your name?
+[2025-04-26 00:16:58] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:16:58] Bot: I'm ALAB, a chatbot created to assist with inquiries about MSU-IIT. How can I help you today?
+[2025-04-26 00:17:09] User: Nah nadaot
+[2025-04-26 00:17:09] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:17:09] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-26 00:17:19] User: What is MSU-IIT?
+[2025-04-26 00:17:19] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:17:19] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 00:17:33] User: What is CASS?
+[2025-04-26 00:17:33] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:17:33] Bot: I'm sorry, I didn't understand that. Could you rephrase?

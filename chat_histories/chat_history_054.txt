@@ -1,0 +1,16 @@
+Chat History for User ID: user_1745573887847
+Started: 2025-04-25 17:38:39
+==================================================
+[2025-04-25 17:38:39] User: what open source you are using?
+[2025-04-25 17:38:39] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 17:38:39] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 17:38:54] User: what source of text or datas that you use?
+[2025-04-25 17:38:54] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 17:38:54] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 17:38:58] User: 1+1
+[2025-04-25 17:38:58] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 17:38:58] Bot: Form 137-A or Form 138 can be requested by filling out the relevant form from the Registrar’s Office.
+[2025-04-25 17:38:58] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-25 17:39:36] User: I am freshman at college what would be my preparation for me not to be shocked to the environemtn that I'll be in
+[2025-04-25 17:39:36] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 17:39:36] Bot: I'm sorry, I didn't understand that. Could you rephrase?

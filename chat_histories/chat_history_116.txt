@@ -1,0 +1,24 @@
+Chat History for User ID: user_1745623725558
+Started: 2025-04-26 07:29:01
+==================================================
+[2025-04-26 07:29:01] User: What is COE?
+[2025-04-26 07:29:01] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 07:29:01] Bot: The College of Engineering and Technology (COET) is one of the premier colleges at MSU-IIT. It offers undergraduate programs in various engineering disciplines including Civil Engineering, Electrical Engineering, Mechanical Engineering, and more. The college is known for its state-of-the-art facilities, experienced faculty, and strong industry connections. Would you like to know more about:
+1. Our programs
+2. Facilities
+3. Career opportunities?
+[2025-04-26 07:29:01] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 07:29:26] User: Where can I find COE?
+[2025-04-26 07:29:26] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 07:29:26] Bot: The College of Engineering and Technology is located in the COET Building, a modern 4-story structure in the heart of MSU-IIT campus. It's easily accessible and recognizable by its distinctive red-brick exterior. The building houses state-of-the-art engineering laboratories, classrooms, and faculty offices.
+[2025-04-26 07:29:26] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 07:30:20] User: What are the courses in COE that have Center of Excellence Award?
+[2025-04-26 07:30:20] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 07:30:20] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 07:30:39] User: Can you define love?
+[2025-04-26 07:30:39] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 07:30:39] Bot: My creators are Draco, Van, and Justine, who are students at MSU-IIT. They built me to help fellow students and visitors easily access information about the university.
+[2025-04-26 07:31:49] User: Can you give me accurate route of the COE ? im at the gate
+[2025-04-26 07:31:49] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 07:31:49] Bot: All undergraduate programs at COET are designed to be completed in 4 years or 8 regular semesters. Each academic year consists of two regular semesters and an optional summer term. The typical course load is 15-21 units per semester, depending on the program and year level.
+[2025-04-26 07:31:49] Bot: Would you like to know more about any specific aspect of MSU-IIT?

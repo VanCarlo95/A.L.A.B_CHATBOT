@@ -1,0 +1,12 @@
+Chat History for User ID: user_1745597551842
+Started: 2025-04-26 00:12:54
+==================================================
+[2025-04-26 00:12:54] User: Hi
+[2025-04-26 00:12:54] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:12:54] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-26 00:13:42] User: I love writing codes. Is there any courses you can recommend?
+[2025-04-26 00:13:42] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:13:42] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 00:14:53] User: I mean, I love developing softwares. Can you recommend some courses for me?
+[2025-04-26 00:14:53] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:14:53] Bot: I'm sorry, I didn't understand that. Could you rephrase?

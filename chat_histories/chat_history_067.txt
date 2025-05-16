@@ -1,0 +1,40 @@
+Chat History for User ID: user_1745594572551
+Started: 2025-04-25 23:23:10
+==================================================
+[2025-04-25 23:23:10] User: Oh Hi!
+[2025-04-25 23:23:10] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:23:10] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-25 23:23:26] User: How many program does COE have?
+[2025-04-25 23:23:26] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:23:26] Bot: The College of Engineering offers these undergraduate programs:
+[2025-04-25 23:23:26] Bot: 1. BS Civil Engineering (BSCE): Focuses on infrastructure design and construction
+2. BS Electrical Engineering (BSEE): Emphasizes electrical systems and power generation
+3. BS Mechanical Engineering (BSME): Focuses on mechanical systems and design
+[2025-04-25 23:23:26] Bot: Which program would you like to learn more about?
+[2025-04-25 23:23:26] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-25 23:23:55] User: Are there any other?
+[2025-04-25 23:23:55] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:23:55] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 23:24:13] User: Is there more than just those above mentioned programs?
+[2025-04-25 23:24:13] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:24:13] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 23:24:39] User: How many department does COE have?
+[2025-04-25 23:24:39] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:24:39] Bot: Department locations in the COET Building:
+- Civil Engineering Department: 3rd Floor, Room 301
+- Electrical Engineering Department: 3rd Floor, Room 302
+- Mechanical Engineering Department: 3rd Floor, Room 303
+[2025-04-25 23:24:39] Bot: All department offices are open during regular business hours and can be reached via stairs or elevator.
+[2025-04-25 23:24:39] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-25 23:25:25] User: Does MSU-IIT offer BSEM program?
+[2025-04-25 23:25:25] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:25:25] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 23:26:01] User: Does MSU-IIT offer Bachelor of Science in Mining Engineering course?
+[2025-04-25 23:26:01] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:26:01] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 23:26:12] User: Okay, thank you
+[2025-04-25 23:26:12] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:26:12] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 23:26:20] User: Thanks for answering
+[2025-04-25 23:26:20] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:26:20] Bot: I'm sorry, I didn't understand that. Could you rephrase?

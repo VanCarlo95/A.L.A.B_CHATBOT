@@ -1,0 +1,30 @@
+Chat History for User ID: user_1745596141707
+Started: 2025-04-25 23:49:13
+==================================================
+[2025-04-25 23:49:13] User: Hi
+[2025-04-25 23:49:13] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:49:13] Bot: Hello! I am A.L.A.B, your Academic Learning Assistance Bot. How can I help you today?
+[2025-04-25 23:49:26] User: What is CASS?
+[2025-04-25 23:49:26] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:49:26] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 23:49:37] User: Tell me about CASS.
+[2025-04-25 23:49:37] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:49:37] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 23:50:18] User: Tell me something about the College of Arts and Social Sciences?
+[2025-04-25 23:50:18] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:50:18] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 23:50:32] User: What is CCS?
+[2025-04-25 23:50:32] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:50:32] Bot: The College of Computer Studies (CCS) is MSU-IIT's center for computing education. It offers undergraduate programs in Computer Science, Information Technology, and Information Systems. The college is known for its modern facilities, experienced faculty, and strong industry partnerships. Would you like to know more about:
+1. Our programs
+2. Facilities
+3. Career opportunities?
+[2025-04-25 23:50:32] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-25 23:51:16] User: What programs does CCS have?
+[2025-04-25 23:51:16] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:51:16] Bot: The College of Computer Studies offers these undergraduate programs:
+[2025-04-25 23:51:16] Bot: 1. BS Computer Science (BSCS): Focuses on computational theory, programming, and software development
+2. BS Information Technology (BSIT): Emphasizes practical IT applications and systems administration
+3. BS Information Systems (BSIS): Combines IT with business processes and management
+[2025-04-25 23:51:16] Bot: Which program would you like to learn more about?
+[2025-04-25 23:51:16] Bot: Would you like to know more about any specific aspect of MSU-IIT?

@@ -1,0 +1,12 @@
+Chat History for User ID: user_1745594313554
+Started: 2025-04-25 23:19:10
+==================================================
+[2025-04-25 23:19:10] User: how is chanzed?
+[2025-04-25 23:19:10] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:19:10] Bot: Hello! I am A.L.A.B, your Academic Learning Assistance Bot. How can I help you today?
+[2025-04-25 23:19:22] User: Make an essay about backburner
+[2025-04-25 23:19:22] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:19:22] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 23:19:42] User: help me with anything
+[2025-04-25 23:19:42] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:19:42] Bot: I'm sorry, I didn't understand that. Could you rephrase?

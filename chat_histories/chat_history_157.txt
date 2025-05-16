@@ -1,0 +1,27 @@
+Chat History for User ID: user_1745662123223
+Started: 2025-04-26 18:09:00
+==================================================
+[2025-04-26 18:09:00] User: when is the graduation?
+[2025-04-26 18:09:00] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:09:00] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 18:09:07] User: hello
+[2025-04-26 18:09:07] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:09:07] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-26 18:09:21] User: what is my name
+[2025-04-26 18:09:21] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:09:21] Bot: I'm ALAB, a chatbot created to assist with inquiries about MSU-IIT. How can I help you today?
+[2025-04-26 18:09:47] User: what does alab mean
+[2025-04-26 18:09:47] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:09:47] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 18:09:53] User: yes
+[2025-04-26 18:09:53] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:09:53] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 18:10:02] User: sige
+[2025-04-26 18:10:02] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:10:02] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 18:10:08] User: ok
+[2025-04-26 18:10:08] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:10:08] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 18:10:27] User: what is the date today
+[2025-04-26 18:10:27] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:10:27] Bot: My purpose is to provide quick and accurate information about MSU-IIT's academic programs, facilities, and services. I'm here to make it easier for you to find the information you need about the university.

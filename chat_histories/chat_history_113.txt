@@ -1,0 +1,19 @@
+Chat History for User ID: user_1745620749394
+Started: 2025-04-26 06:41:46
+==================================================
+[2025-04-26 06:41:46] User: Hi
+[2025-04-26 06:41:46] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 06:41:46] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-26 06:41:52] User: COET
+[2025-04-26 06:41:52] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 06:41:52] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 06:41:57] User: COE
+[2025-04-26 06:41:57] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 06:41:57] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 06:42:04] User: tell me about coe
+[2025-04-26 06:42:04] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 06:42:04] Bot: The College of Engineering and Technology (COET) is one of the premier colleges at MSU-IIT. It offers undergraduate programs in various engineering disciplines including Civil Engineering, Electrical Engineering, Mechanical Engineering, and more. The college is known for its state-of-the-art facilities, experienced faculty, and strong industry connections. Would you like to know more about:
+1. Our programs
+2. Facilities
+3. Career opportunities?
+[2025-04-26 06:42:04] Bot: Would you like to know more about any specific aspect of MSU-IIT?

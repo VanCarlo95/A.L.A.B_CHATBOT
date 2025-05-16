@@ -1,0 +1,38 @@
+Chat History for User ID: user_1745528748699
+Started: 2025-04-25 05:06:20
+==================================================
+[2025-04-25 05:06:20] User: Hello
+[2025-04-25 05:06:20] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 05:06:20] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-25 05:06:36] User: What is the grading system of the MSU-IIT?
+[2025-04-25 05:06:36] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 05:06:36] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 05:07:00] User: Do you know MSU-IIT grading system?
+[2025-04-25 05:07:00] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 05:07:00] Bot: The Mindanao State University (MSU) System is one of the largest university systems in the Philippines, with multiple campuses across Mindanao. The main campus is in Marawi City, with major branches including:
+• MSU-IIT (Iligan Institute of Technology)
+• MSU-General Santos
+• MSU-Maguindanao
+• MSU-Tawi-Tawi College of Technology and Oceanography (MSU-TCTO)
+• Several other satellite campuses throughout Mindanao
+[2025-04-25 05:07:00] Bot: Each campus has its own specializations while contributing to MSU's mission of providing quality education and promoting peace and development in Mindanao.
+[2025-04-25 05:07:00] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-25 05:07:21] User: its grading system
+[2025-04-25 05:07:21] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 05:07:21] Bot: CCS uses a comprehensive evaluation system that includes:
+- Regular examinations (40%)
+- Laboratory work and projects (30%)
+- Assignments and quizzes (20%)
+- Class participation (10%)
+[2025-04-25 05:07:21] Bot: Grading follows the university's standard system:
+- 1.0 (Excellent) to 5.0 (Failed)
+- 3.0 is the passing grade for most subjects
+- Some technical subjects require 2.5 or better to pass
+[2025-04-25 05:07:21] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-25 05:07:57] User: What clinical check up is available in the MSU-IIT Clinic?
+[2025-04-25 05:07:57] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 05:07:57] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 05:08:13] User: what services does the clinic have?
+[2025-04-25 05:08:13] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 05:08:13] Bot: I. Hematology II. Urinalysis III. FBS IV. RBS V. Lipid Profile VI. Creatinine VII. Blood Uric Acid (BUA) VIII. Blood Urea Nitrogen (BUN) IX. SGPT X. SGOT VI. Blood Typing
+[2025-04-25 05:08:13] Bot: Would you like to know more about any specific aspect of MSU-IIT?

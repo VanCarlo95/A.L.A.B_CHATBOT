@@ -1,0 +1,16 @@
+Chat History for User ID: user_1745692753492
+Started: 2025-04-27 02:36:27
+==================================================
+[2025-04-27 02:36:27] User: Who was the first Chancellor of MSU IIT?
+[2025-04-27 02:36:27] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 02:36:27] Bot: The current Chancellor of MSU-IIT is Dr. Alizedney M. Ditucalan. Under his leadership, the university has achieved significant milestones, including ranking 3rd among Philippine universities in the Times Higher Education (THE) World University Rankings 2025. Chancellor Ditucalan has emphasized strengthening academic publishing and research initiatives.
+[2025-04-27 02:36:27] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-27 02:36:44] User: What is the name of the marine vessel of IIT?
+[2025-04-27 02:36:44] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 02:36:44] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-27 02:36:54] User: What is MV Kalilintad
+[2025-04-27 02:36:54] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 02:36:54] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-27 02:37:07] User: When was Kasama Established?
+[2025-04-27 02:37:07] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 02:37:07] Bot: I'm sorry, I didn't understand that. Could you rephrase?

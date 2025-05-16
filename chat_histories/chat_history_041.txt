@@ -1,0 +1,9 @@
+Chat History for User ID: user_1745539477231
+Started: 2025-04-25 08:05:55
+==================================================
+[2025-04-25 08:05:55] User: give some publications
+[2025-04-25 08:05:55] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 08:05:55] Bot: Students interested in journalism can join “Silahis,” the official student publication. You can apply through the student affairs office, and members typically meet to produce content at least once a month.
+[2025-04-25 08:06:14] User: where is the sid office?
+[2025-04-25 08:06:14] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 08:06:14] Bot: I'm sorry, I didn't understand that. Could you rephrase?

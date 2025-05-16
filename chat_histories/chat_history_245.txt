@@ -1,0 +1,6 @@
+Chat History for User ID: user_1745725650129
+Started: 2025-04-27 11:47:52
+==================================================
+[2025-04-27 11:47:52] User: Hello!
+[2025-04-27 11:47:52] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 11:47:52] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?

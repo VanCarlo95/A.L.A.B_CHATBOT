@@ -1,0 +1,16 @@
+Chat History for User ID: user_1745686075775
+Started: 2025-04-27 00:52:34
+==================================================
+[2025-04-27 00:52:34] User: how many center of excellence in iit?
+[2025-04-27 00:52:34] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 00:52:34] Bot: The current Chancellor of MSU-IIT is Dr. Alizedney M. Ditucalan. Under his leadership, the university has achieved significant milestones, including ranking 3rd among Philippine universities in the Times Higher Education (THE) World University Rankings 2025. Chancellor Ditucalan has emphasized strengthening academic publishing and research initiatives.
+[2025-04-27 00:52:34] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-27 00:53:00] User: is the university a private school?
+[2025-04-27 00:53:00] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 00:53:00] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-27 00:53:11] User: give me questions to ask
+[2025-04-27 00:53:11] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 00:53:11] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-27 00:53:24] User: what is the college of arts and sciences
+[2025-04-27 00:53:24] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 00:53:24] Bot: I'm sorry, I didn't understand that. Could you rephrase?

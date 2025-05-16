@@ -1,0 +1,26 @@
+Chat History for User ID: user_1745681509241
+Started: 2025-04-26 23:32:08
+==================================================
+[2025-04-26 23:32:08] User: Hi!
+[2025-04-26 23:32:08] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 23:32:08] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-26 23:32:27] User: Tell me about MSU-IIT PALAKASAN
+[2025-04-26 23:32:27] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 23:32:27] Bot: The Mindanao State University (MSU) System is one of the largest university systems in the Philippines, with multiple campuses across Mindanao. The main campus is in Marawi City, with major branches including:
+• MSU-IIT (Iligan Institute of Technology)
+• MSU-General Santos
+• MSU-Maguindanao
+• MSU-Tawi-Tawi College of Technology and Oceanography (MSU-TCTO)
+• Several other satellite campuses throughout Mindanao
+[2025-04-26 23:32:27] Bot: Each campus has its own specializations while contributing to MSU's mission of providing quality education and promoting peace and development in Mindanao.
+[2025-04-26 23:32:27] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 23:33:03] User: Tell me about BSHM
+[2025-04-26 23:33:03] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 23:33:03] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 23:33:12] User: Tell me about CEBA
+[2025-04-26 23:33:12] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 23:33:12] Bot: The College of Economics and Business Administration (CEBA) at MSU-IIT offers undergraduate programs in Business Administration, Accountancy, and Economics. The college is known for its state-of-the-art facilities, experienced faculty, and strong industry connections. Would you like to know more about:
+1. Our programs
+2. Facilities
+3. Career opportunities?
+[2025-04-26 23:33:12] Bot: Would you like to know more about any specific aspect of MSU-IIT?

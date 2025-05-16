@@ -1,0 +1,16 @@
+Chat History for User ID: user_1745672121023
+Started: 2025-04-26 20:56:01
+==================================================
+[2025-04-26 20:56:01] User: what is the powerhouse of the cell?
+[2025-04-26 20:56:01] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 20:56:01] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 20:56:19] User: nevermind
+[2025-04-26 20:56:19] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 20:56:19] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 20:56:37] User: who is msu iit chancellor
+[2025-04-26 20:56:37] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 20:56:37] Bot: The current Chancellor of MSU-IIT is Dr. Alizedney M. Ditucalan. Under his leadership, the university has achieved significant milestones, including ranking 3rd among Philippine universities in the Times Higher Education (THE) World University Rankings 2025. Chancellor Ditucalan has emphasized strengthening academic publishing and research initiatives.
+[2025-04-26 20:56:37] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 20:57:08] User: What is the powerhouse of a cell?
+[2025-04-26 20:57:08] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 20:57:08] Bot: I'm sorry, I didn't understand that. Could you rephrase?

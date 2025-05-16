@@ -1,0 +1,12 @@
+Chat History for User ID: user_1745638977148
+Started: 2025-04-26 11:43:21
+==================================================
+[2025-04-26 11:43:21] User: what is my name
+[2025-04-26 11:43:21] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 11:43:21] Bot: My name is ALAB, which stands for Automated Learning Assistant Bot. I'm designed to provide information about MSU-IIT to students, prospective students, and visitors.
+[2025-04-26 11:43:33] User: who is justine boncales
+[2025-04-26 11:43:33] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 11:43:33] Bot: My creators are Draco, Van, and Justine, who are students at MSU-IIT. They built me to help fellow students and visitors easily access information about the university.
+[2025-04-26 11:43:48] User: is justine tuli already?
+[2025-04-26 11:43:48] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 11:43:48] Bot: I was developed by Draco, Van, and Justine. They're the brilliant minds behind my design and knowledge base, creating me to serve as an informational resource for the MSU-IIT community.

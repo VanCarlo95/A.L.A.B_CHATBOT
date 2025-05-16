@@ -1,0 +1,9 @@
+Chat History for User ID: user_1745490149789
+Started: 2025-04-24 18:22:31
+==================================================
+[2025-04-24 18:22:31] User: Hi
+[2025-04-24 18:22:31] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 18:22:31] Bot: Hello! I am A.L.A.B, your Academic Learning Assistance Bot. How can I help you today?
+[2025-04-24 18:23:03] User: Who are you
+[2025-04-24 18:23:03] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 18:23:03] Bot: My creators are Draco, Van, and Justine, who are students at MSU-IIT. They built me to help fellow students and visitors easily access information about the university.

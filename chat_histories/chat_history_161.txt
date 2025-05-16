@@ -1,0 +1,19 @@
+Chat History for User ID: user_1745662470101
+Started: 2025-04-26 18:14:44
+==================================================
+[2025-04-26 18:14:44] User: How to shift?
+[2025-04-26 18:14:44] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:14:44] Bot: For shifter status, complete and submit the Shifters Application Form to the Registrar’s Office.
+[2025-04-26 18:14:44] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 18:15:09] User: When can I get my stipend?
+[2025-04-26 18:15:09] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:15:09] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 18:15:42] User: How do I find true love?
+[2025-04-26 18:15:42] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:15:42] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 18:16:20] User: I have a crush on this student for more than 6 years. How to confess?
+[2025-04-26 18:16:20] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:16:20] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 18:16:28] User: Wtf.
+[2025-04-26 18:16:28] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:16:28] Bot: I'm sorry, I didn't understand that. Could you rephrase?

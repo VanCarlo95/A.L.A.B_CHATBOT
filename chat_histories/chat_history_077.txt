@@ -1,0 +1,6 @@
+Chat History for User ID: user_1745595708484
+Started: 2025-04-25 23:42:22
+==================================================
+[2025-04-25 23:42:22] User: How was the research week this year?
+[2025-04-25 23:42:22] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:42:22] Bot: I'm sorry, I didn't understand that. Could you rephrase?

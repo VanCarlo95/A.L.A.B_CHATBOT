@@ -1,0 +1,6 @@
+Chat History for User ID: user_1745537679056
+Started: 2025-04-25 07:34:50
+==================================================
+[2025-04-25 07:34:50] User: Where is your information based on?
+[2025-04-25 07:34:50] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 07:34:50] Bot: I was created to help students and prospective students get information about MSU-IIT. I can answer questions about colleges, programs, facilities, and services offered by the university.

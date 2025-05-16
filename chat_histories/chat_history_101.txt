@@ -1,0 +1,12 @@
+Chat History for User ID: user_1745598307753
+Started: 2025-04-26 00:25:28
+==================================================
+[2025-04-26 00:25:28] User: I am an alumni
+[2025-04-26 00:25:28] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:25:28] Bot: My name is ALAB, which stands for Automated Learning Assistant Bot. I'm designed to provide information about MSU-IIT to students, prospective students, and visitors.
+[2025-04-26 00:25:40] User: Ok
+[2025-04-26 00:25:40] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:25:40] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 00:25:54] User: I am an alumni
+[2025-04-26 00:25:54] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:25:54] Bot: I'm ALAB, a chatbot created to assist with inquiries about MSU-IIT. How can I help you today?

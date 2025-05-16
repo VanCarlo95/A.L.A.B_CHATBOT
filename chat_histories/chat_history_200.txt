@@ -1,0 +1,10 @@
+Chat History for User ID: user_1745676597121
+Started: 2025-04-26 22:10:14
+==================================================
+[2025-04-26 22:10:14] User: What is CEBA
+[2025-04-26 22:10:14] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 22:10:14] Bot: The College of Economics and Business Administration (CEBA) at MSU-IIT offers undergraduate programs in Business Administration, Accountancy, and Economics. The college is known for its state-of-the-art facilities, experienced faculty, and strong industry connections. Would you like to know more about:
+1. Our programs
+2. Facilities
+3. Career opportunities?
+[2025-04-26 22:10:14] Bot: Would you like to know more about any specific aspect of MSU-IIT?

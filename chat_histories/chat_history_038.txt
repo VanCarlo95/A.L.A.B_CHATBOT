@@ -1,0 +1,21 @@
+Chat History for User ID: user_1745538397025
+Started: 2025-04-25 07:48:18
+==================================================
+[2025-04-25 07:48:18] User: hackdog
+[2025-04-25 07:48:18] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 07:48:18] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 07:48:47] User: who are you?
+[2025-04-25 07:48:47] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 07:48:47] Bot: I was created by a talented team of MSU-IIT students: Draco, Van, and Justine. They developed me as part of their project to improve information accessibility for the university community.
+[2025-04-25 07:49:34] User: are you trained with different resourec?
+[2025-04-25 07:49:34] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 07:49:34] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 07:49:45] User: what is a resources?
+[2025-04-25 07:49:45] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 07:49:45] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 07:49:59] User: what are the knowledge you currently have?
+[2025-04-25 07:49:59] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 07:49:59] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 07:50:06] User: FAQs
+[2025-04-25 07:50:06] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 07:50:06] Bot: I'm sorry, I didn't understand that. Could you rephrase?

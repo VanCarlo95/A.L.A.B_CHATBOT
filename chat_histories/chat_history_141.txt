@@ -1,0 +1,40 @@
+Chat History for User ID: user_1745653795634
+Started: 2025-04-26 15:50:08
+==================================================
+[2025-04-26 15:50:08] User: Hello Alab!
+[2025-04-26 15:50:08] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 15:50:08] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-26 15:50:20] User: Tell me about COE?
+[2025-04-26 15:50:20] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 15:50:20] Bot: The College of Engineering and Technology (COET) is one of the premier colleges at MSU-IIT. It offers undergraduate programs in various engineering disciplines including Civil Engineering, Electrical Engineering, Mechanical Engineering, and more. The college is known for its state-of-the-art facilities, experienced faculty, and strong industry connections. Would you like to know more about:
+1. Our programs
+2. Facilities
+3. Career opportunities?
+[2025-04-26 15:50:20] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 15:50:32] User: How about CCS?
+[2025-04-26 15:50:32] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 15:50:32] Bot: The College of Computer Studies (CCS) is MSU-IIT's center for computing education. It offers undergraduate programs in Computer Science, Information Technology, and Information Systems. The college is known for its modern facilities, experienced faculty, and strong industry partnerships. Would you like to know more about:
+1. Our programs
+2. Facilities
+3. Career opportunities?
+[2025-04-26 15:50:32] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 15:50:49] User: where is the CCS Located?
+[2025-04-26 15:50:49] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 15:50:49] Bot: The College of Computer Studies is located in the CCS Building, a modern 4-story structure in the heart of MSU-IIT campus. It's easily accessible and recognizable by its distinctive blue-gray exterior. The building houses state-of-the-art computer laboratories, classrooms, and faculty offices.
+[2025-04-26 15:50:49] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 15:51:02] User: how about the CASS?
+[2025-04-26 15:51:02] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 15:51:02] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 15:51:12] User: where is CASS located?
+[2025-04-26 15:51:12] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 15:51:12] Bot: The CASS building is located at the northern most part of the university. It is the building beside the CEBA student lounge. The CASS building consists of the old and new building.
+[2025-04-26 15:51:12] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 15:51:28] User: the university gymnasium?
+[2025-04-26 15:51:28] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 15:51:28] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 15:51:58] User: what are the requirements for the Admission?
+[2025-04-26 15:51:58] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 15:51:58] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 15:52:13] User: oki alab
+[2025-04-26 15:52:13] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 15:52:13] Bot: I'm sorry, I didn't understand that. Could you rephrase?

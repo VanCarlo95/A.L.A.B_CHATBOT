@@ -1,0 +1,35 @@
+Chat History for User ID: user_1745672592205
+Started: 2025-04-26 21:03:57
+==================================================
+[2025-04-26 21:03:57] User: Hi, Does MSU-IIT offer environmental science related programs for undergraduate students?
+[2025-04-26 21:03:57] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 21:03:57] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 21:04:39] User: Does MSU-IIT offer any undergraduate programs that are related to environmental science?
+[2025-04-26 21:04:39] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 21:04:39] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 21:05:01] User: naay environmental science sa MSU-IIT
+[2025-04-26 21:05:01] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 21:05:01] Bot: Key differences between MSU campuses:
+[2025-04-26 21:05:01] Bot: MSU-Marawi (Main Campus):
+• Largest campus
+• Strong focus on cultural integration
+• Comprehensive program offerings
+• Center for Islamic Studies
+[2025-04-26 21:05:01] Bot: MSU-IIT:
+• Premier Science & Technology campus
+• Highest accreditation levels
+• Strong research focus
+• Industry partnerships
+[2025-04-26 21:05:01] Bot: MSU-TCTO:
+• Marine Science specialization
+• Oceanography programs
+• Coastal research initiatives
+[2025-04-26 21:05:01] Bot: MSU-Gensan:
+• Strong Business programs
+• Agricultural studies
+• Community development focus
+[2025-04-26 21:05:01] Bot: Would you like more specific details about any campus?
+[2025-04-26 21:05:01] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 21:05:43] User: why is MSU-GSC more renowned in Business more than MSU-IIT?
+[2025-04-26 21:05:43] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 21:05:43] Bot: I'm sorry, I didn't understand that. Could you rephrase?

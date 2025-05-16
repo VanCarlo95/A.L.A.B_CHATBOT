@@ -1,0 +1,20 @@
+Chat History for User ID: user_1745602473275
+Started: 2025-04-26 01:35:53
+==================================================
+[2025-04-26 01:35:53] User: Hi, I would like to explore on what CCS means and what to expect from it?
+[2025-04-26 01:35:53] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 01:35:53] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 01:36:02] User: What is CCS?
+[2025-04-26 01:36:02] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 01:36:02] Bot: The College of Computer Studies (CCS) is MSU-IIT's center for computing education. It offers undergraduate programs in Computer Science, Information Technology, and Information Systems. The college is known for its modern facilities, experienced faculty, and strong industry partnerships. Would you like to know more about:
+1. Our programs
+2. Facilities
+3. Career opportunities?
+[2025-04-26 01:36:02] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 01:44:24] User: What is CSM
+[2025-04-26 01:44:24] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 01:44:24] Bot: The College of Science and Mathematics (CSM) at MSU-IIT offers undergraduate programs in Biology, Chemistry, Mathematics, Physics, and Statistics. The college is known for its state-of-the-art facilities, experienced faculty, and strong industry connections. Would you like to know more about:
+1. Our programs
+2. Facilities
+3. Career opportunities?
+[2025-04-26 01:44:24] Bot: Would you like to know more about any specific aspect of MSU-IIT?

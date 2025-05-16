@@ -1,0 +1,44 @@
+Chat History for User ID: user_1745515715925
+Started: 2025-04-25 01:29:27
+==================================================
+[2025-04-25 01:29:27] User: Hello
+[2025-04-25 01:29:27] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 01:29:27] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-25 01:29:47] User: Can you tell me about CSM
+[2025-04-25 01:29:47] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 01:29:47] Bot: The College of Science and Mathematics (CSM) at MSU-IIT offers undergraduate programs in Biology, Chemistry, Mathematics, Physics, and Statistics. The college is known for its state-of-the-art facilities, experienced faculty, and strong industry connections. Would you like to know more about:
+1. Our programs
+2. Facilities
+3. Career opportunities?
+[2025-04-25 01:29:47] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-25 01:30:26] User: What are the degree programs in CSM
+[2025-04-25 01:30:26] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 01:30:26] Bot: The College of Science and Mathematics offers Bachelor of Science in Biology, Bachelor of Science in Chemistry, Bachelor of Science in Mathematics, Bachelor of Science in Physics, and Bachelor of Science in Statistics.
+[2025-04-25 01:30:26] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-25 01:31:19] User: What are the different tracks or majors under the Biology program?
+[2025-04-25 01:31:19] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 01:31:19] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 01:31:46] User: What are the four majors offered by the BS Biology program?
+[2025-04-25 01:31:46] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 01:31:46] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 01:32:08] User: Who is the university chancellor?
+[2025-04-25 01:32:08] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 01:32:08] Bot: The current Chancellor of MSU-IIT is Dr. Alizedney M. Ditucalan. Under his leadership, the university has achieved significant milestones, including ranking 3rd among Philippine universities in the Times Higher Education (THE) World University Rankings 2025. Chancellor Ditucalan has emphasized strengthening academic publishing and research initiatives.
+[2025-04-25 01:32:08] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-25 01:32:42] User: provide me a short brief history of MSU-IIT
+[2025-04-25 01:32:42] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 01:32:42] Bot: MSU was established on September 1, 1961, through Republic Act 1387 (amended by RA 1893). It was founded with a unique mission to promote education and cultural integration among the diverse peoples of Mindanao. The university has since grown from its main campus in Marawi to include multiple campuses across Mindanao, each contributing to the region's development. MSU-IIT, established in 1968, has developed into one of the system's premier technological institutes.
+[2025-04-25 01:32:42] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-25 01:33:04] User: good
+[2025-04-25 01:33:04] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 01:33:04] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-25 01:33:27] User: Who is the current dean of csm
+[2025-04-25 01:33:27] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 01:33:27] Bot: The CSM Dean's office is located at the east side of the CSM building.
+[2025-04-25 01:33:27] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-25 01:33:44] User: Who is the CSM Dean?
+[2025-04-25 01:33:44] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 01:33:44] Bot: The CSM Dean's office is located at the east side of the CSM building.
+[2025-04-25 01:33:44] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-25 01:33:44] Bot: ❌ You've reached the message limit. Thank you for testing our chatbot. Your participation in our study is crucial and would be greatly appreciated. <a href='https://2ly.link/26ajD'>Please continue here to provide your feedback</a>
+[2025-04-25 01:33:44] SYSTEM: Message limit reached

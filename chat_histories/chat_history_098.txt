@@ -1,0 +1,59 @@
+Chat History for User ID: user_1745597854864
+Started: 2025-04-26 00:17:37
+==================================================
+[2025-04-26 00:17:37] User: Hello
+[2025-04-26 00:17:37] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:17:37] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-26 00:17:43] User: Who are the vice chancellors?
+[2025-04-26 00:17:43] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:17:43] Bot: MSU-IIT's administration is structured with several Vice Chancellors overseeing specific areas:
+• Vice Chancellor for Academic Affairs: Manages academic programs
+• Vice Chancellor for Research and Extension: Oversees research and community services
+• Vice Chancellor for Administration and Finance: Handles administrative and financial operations
+• Vice Chancellor for Planning and Development: Focuses on strategic planning
+• Vice Chancellor for Student Services: Manages student welfare
+[2025-04-26 00:17:43] Bot: These leaders work together to ensure the university's continued growth and excellence.
+[2025-04-26 00:17:43] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 00:17:58] User: What are their names?
+[2025-04-26 00:17:58] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:17:58] Bot: My name is ALAB, which stands for Automated Learning Assistant Bot. I'm designed to provide information about MSU-IIT to students, prospective students, and visitors.
+[2025-04-26 00:18:05] User: I mean the chancellors
+[2025-04-26 00:18:05] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:18:05] Bot: The current Chancellor of MSU-IIT is Dr. Alizedney M. Ditucalan. Under his leadership, the university has achieved significant milestones, including ranking 3rd among Philippine universities in the Times Higher Education (THE) World University Rankings 2025. Chancellor Ditucalan has emphasized strengthening academic publishing and research initiatives.
+[2025-04-26 00:18:05] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 00:18:12] User: The vice chancellors
+[2025-04-26 00:18:12] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:18:12] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 00:18:23] User: What are the names of the vice chancellors?
+[2025-04-26 00:18:23] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:18:23] Bot: MSU-IIT's administration is structured with several Vice Chancellors overseeing specific areas:
+• Vice Chancellor for Academic Affairs: Manages academic programs
+• Vice Chancellor for Research and Extension: Oversees research and community services
+• Vice Chancellor for Administration and Finance: Handles administrative and financial operations
+• Vice Chancellor for Planning and Development: Focuses on strategic planning
+• Vice Chancellor for Student Services: Manages student welfare
+[2025-04-26 00:18:23] Bot: These leaders work together to ensure the university's continued growth and excellence.
+[2025-04-26 00:18:23] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 00:18:34] User: Give me names
+[2025-04-26 00:18:34] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:18:34] Bot: My name is ALAB, which stands for Automated Learning Assistant Bot. I'm designed to provide information about MSU-IIT to students, prospective students, and visitors.
+[2025-04-26 00:18:42] User: of the vice chancellors
+[2025-04-26 00:18:42] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:18:42] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 00:18:53] User: give me the names of the vice chancellors
+[2025-04-26 00:18:53] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:18:53] Bot: MSU-IIT's administration is structured with several Vice Chancellors overseeing specific areas:
+• Vice Chancellor for Academic Affairs: Manages academic programs
+• Vice Chancellor for Research and Extension: Oversees research and community services
+• Vice Chancellor for Administration and Finance: Handles administrative and financial operations
+• Vice Chancellor for Planning and Development: Focuses on strategic planning
+• Vice Chancellor for Student Services: Manages student welfare
+[2025-04-26 00:18:53] Bot: These leaders work together to ensure the university's continued growth and excellence.
+[2025-04-26 00:18:53] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 00:19:07] User: KASAMA
+[2025-04-26 00:19:07] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:19:07] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 00:19:07] Bot: ❌ You've reached the message limit. Thank you for testing our chatbot. Your participation in our study is crucial and would be greatly appreciated. <a href='https://2ly.link/26ajD'>Please continue here to provide your feedback</a>
+[2025-04-26 00:19:07] SYSTEM: Message limit reached
+[2025-04-26 00:19:14] User: Who are the KASAMA officers?
+[2025-04-26 00:19:14] SYSTEM: Message limit reached

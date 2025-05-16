@@ -1,0 +1,7 @@
+Chat History for User ID: user_1745787234662
+Started: 2025-04-28 04:54:10
+==================================================
+[2025-04-28 04:54:10] User: what is 1+1?
+[2025-04-28 04:54:10] System: Predicted Action: unknown with confidence N/A
+[2025-04-28 04:54:10] Bot: Form 137-A or Form 138 can be requested by filling out the relevant form from the Registrar’s Office.
+[2025-04-28 04:54:10] Bot: Would you like to know more about any specific aspect of MSU-IIT?

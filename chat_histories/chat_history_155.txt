@@ -1,0 +1,60 @@
+Chat History for User ID: user_1745661574125
+Started: 2025-04-26 18:00:25
+==================================================
+[2025-04-26 18:00:25] User: Who championed the palakasan 2025?
+[2025-04-26 18:00:25] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:00:25] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 18:01:04] User: Who has the highest authority of MSU-IIT?
+[2025-04-26 18:01:04] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:01:04] Bot: MSU-IIT is located in the heart of Iligan City, Lanao del Norte, Philippines. The main campus is situated along Andres Bonifacio Avenue, and is easily accessible by public transportation. The campus is known for its modern facilities and beautiful landscape.
+[2025-04-26 18:01:04] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 18:01:38] User: Who is the person that has the highest position and authority of msu iit?
+[2025-04-26 18:01:38] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:01:38] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 18:01:59] User: When is the graduation date of 2025?
+[2025-04-26 18:01:59] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:01:59] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 18:02:21] User: What are the engineering courses available?
+[2025-04-26 18:02:21] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:02:21] Bot: Here are the details for our programs:
+[2025-04-26 18:02:21] Bot: BS Civil Engineering (BSCE):
+• Core Focus: Infrastructure design and construction
+• Key Subjects: Structural Engineering, Geotechnical Engineering, Transportation Engineering
+• Duration: 4 years
+• Special Features: Fieldwork, Design Projects, Industry Internships
+[2025-04-26 18:02:21] Bot: BS Electrical Engineering (BSEE):
+• Core Focus: Electrical systems and power generation
+• Key Subjects: Power Systems, Electronics, Control Systems
+• Duration: 4 years
+• Special Features: Laboratory Work, Circuit Design, Industry Projects
+[2025-04-26 18:02:21] Bot: BS Mechanical Engineering (BSME):
+• Core Focus: Mechanical systems and design
+• Key Subjects: Thermodynamics, Fluid Mechanics, Machine Design
+• Duration: 4 years
+• Special Features: Machine Shop Training, CAD/CAM Projects, Research Opportunities
+[2025-04-26 18:02:21] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 18:03:07] User: Is there only 3 engineering programs?
+[2025-04-26 18:03:07] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:03:07] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 18:03:17] User: What are the other engineering programs?
+[2025-04-26 18:03:17] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:03:17] Bot: Here are the details for our programs:
+[2025-04-26 18:03:17] Bot: BS Civil Engineering (BSCE):
+• Core Focus: Infrastructure design and construction
+• Key Subjects: Structural Engineering, Geotechnical Engineering, Transportation Engineering
+• Duration: 4 years
+• Special Features: Fieldwork, Design Projects, Industry Internships
+[2025-04-26 18:03:17] Bot: BS Electrical Engineering (BSEE):
+• Core Focus: Electrical systems and power generation
+• Key Subjects: Power Systems, Electronics, Control Systems
+• Duration: 4 years
+• Special Features: Laboratory Work, Circuit Design, Industry Projects
+[2025-04-26 18:03:17] Bot: BS Mechanical Engineering (BSME):
+• Core Focus: Mechanical systems and design
+• Key Subjects: Thermodynamics, Fluid Mechanics, Machine Design
+• Duration: 4 years
+• Special Features: Machine Shop Training, CAD/CAM Projects, Research Opportunities
+[2025-04-26 18:03:17] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 18:03:47] User: How many colleges?
+[2025-04-26 18:03:47] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:03:47] Bot: I'm sorry, I didn't understand that. Could you rephrase?

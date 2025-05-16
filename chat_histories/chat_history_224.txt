@@ -1,0 +1,12 @@
+Chat History for User ID: user_1745682935943
+Started: 2025-04-26 23:55:44
+==================================================
+[2025-04-26 23:55:44] User: Hello ALAB!
+[2025-04-26 23:55:44] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 23:55:44] Bot: Hello! I am A.L.A.B, your Academic Learning Assistance Bot. How can I help you today?
+[2025-04-26 23:56:01] User: What can you do? And what can't you do?
+[2025-04-26 23:56:01] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 23:56:01] Bot: My purpose is to provide quick and accurate information about MSU-IIT's academic programs, facilities, and services. I'm here to make it easier for you to find the information you need about the university.
+[2025-04-26 23:56:19] User: Can you give me information about the facilities in MSU-IIT?
+[2025-04-26 23:56:19] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 23:56:19] Bot: I'm sorry, I didn't understand that. Could you rephrase?

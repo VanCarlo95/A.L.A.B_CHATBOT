@@ -1,0 +1,41 @@
+Chat History for User ID: user_1745662536108
+Started: 2025-04-26 18:16:25
+==================================================
+[2025-04-26 18:16:25] User: Do you have access to information regarding MSU-IIT's early days?
+[2025-04-26 18:16:25] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:16:25] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 18:17:06] User: Are you trained to answer historical questions regarding MSU-IIT?
+[2025-04-26 18:17:06] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:17:06] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 18:17:28] User: Alab, can you tell me a joke?
+[2025-04-26 18:17:28] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:17:28] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 18:17:47] User: What is MICA?
+[2025-04-26 18:17:47] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:17:47] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 18:17:56] User: How do i enroll?
+[2025-04-26 18:17:56] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:17:56] Bot: To be admitted to MSU:
+1. Pass the MSU System Admission and Scholarship Examination (SASE)
+2. Meet specific program requirements
+3. Submit required documents:
+   • Form 138 (Report Card)
+   • Certificate of Good Moral Character
+   • Birth Certificate
+   • Medical Certificate
+[2025-04-26 18:17:56] Bot: Note: Requirements may vary by campus and program. Contact the specific campus admission office for detailed information.
+[2025-04-26 18:17:56] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 18:18:10] User: who is the chancellor?
+[2025-04-26 18:18:10] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:18:10] Bot: The current Chancellor of MSU-IIT is Dr. Alizedney M. Ditucalan. Under his leadership, the university has achieved significant milestones, including ranking 3rd among Philippine universities in the Times Higher Education (THE) World University Rankings 2025. Chancellor Ditucalan has emphasized strengthening academic publishing and research initiatives.
+[2025-04-26 18:18:10] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 18:18:32] User: who is the head of the department of physical education?
+[2025-04-26 18:18:32] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:18:32] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 18:18:43] User: who is the dean of ccs?
+[2025-04-26 18:18:43] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:18:43] Bot: The Dean's Office is located on the 2nd floor of the CCS Building, Room 201. It's easily accessible via the main staircase or elevator. The office is open during regular business hours (8:00 AM - 5:00 PM) on weekdays.
+[2025-04-26 18:18:43] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 18:18:56] User: who are the deans?
+[2025-04-26 18:18:56] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:18:56] Bot: I'm sorry, I didn't understand that. Could you rephrase?

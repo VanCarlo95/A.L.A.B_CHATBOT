@@ -1,0 +1,21 @@
+Chat History for User ID: user_1745594898008
+Started: 2025-04-25 23:28:39
+==================================================
+[2025-04-25 23:28:39] User: What programs does CSM offers to students?
+[2025-04-25 23:28:39] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:28:39] Bot: The College of Science and Mathematics offers Bachelor of Science in Biology, Bachelor of Science in Chemistry, Bachelor of Science in Mathematics, Bachelor of Science in Physics, and Bachelor of Science in Statistics.
+[2025-04-25 23:28:39] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-25 23:29:18] User: Who is the current Chancellor of MSU-IIT?
+[2025-04-25 23:29:18] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:29:18] Bot: The current Chancellor of MSU-IIT is Dr. Alizedney M. Ditucalan. Under his leadership, the university has achieved significant milestones, including ranking 3rd among Philippine universities in the Times Higher Education (THE) World University Rankings 2025. Chancellor Ditucalan has emphasized strengthening academic publishing and research initiatives.
+[2025-04-25 23:29:18] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-25 23:30:01] User: Who are the Deans of the seven colleges of MSU
+[2025-04-25 23:30:01] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:30:01] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 23:30:21] User: The current Dean of CSM.
+[2025-04-25 23:30:21] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:30:21] Bot: The CSM Dean's office is located at the east side of the CSM building.
+[2025-04-25 23:30:21] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-25 23:31:19] User: The PRISM
+[2025-04-25 23:31:19] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:31:19] Bot: I'm sorry, I didn't understand that. Could you rephrase?

@@ -1,0 +1,44 @@
+Chat History for User ID: user_1745680272289
+Started: 2025-04-26 23:15:17
+==================================================
+[2025-04-26 23:15:17] User: hi
+[2025-04-26 23:15:17] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 23:15:17] Bot: Hello! I am A.L.A.B, your Academic Learning Assistance Bot. How can I help you today?
+[2025-04-26 23:15:39] User: What is CHS?
+[2025-04-26 23:15:39] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 23:15:39] Bot: The College of Health Sciences (CHS) at MSU-IIT offers undergraduate programs in Nursing. The college is known for its state-of-the-art facilities, experienced faculty, and strong industry connections. Would you like to know more about:
+1. Our programs
+2. Facilities
+3. Career opportunities?
+[2025-04-26 23:15:39] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 23:16:09] User: What is the cut off score for entrance exam in CHS?
+[2025-04-26 23:16:09] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 23:16:09] Bot: Admission requirements include passing the MSU SASE, submitting high school credentials, and meeting the required grade standards for Science and English subjects. Students are also required to take the medical exam which consists of CBC, Chest X-ray, and Drug Test.
+[2025-04-26 23:16:09] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 23:16:54] User: Minimum score required for admission to CHS
+[2025-04-26 23:16:54] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 23:16:54] Bot: Admission requirements include passing the MSU SASE, submitting high school credentials, and meeting the required grade standards for Science and English subjects. Students are also required to take the medical exam which consists of CBC, Chest X-ray, and Drug Test.
+[2025-04-26 23:16:54] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 23:17:52] User: Minimum sase score requirement for CHS admission
+[2025-04-26 23:17:52] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 23:17:52] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 23:18:17] User: Do I need to take SASE for this year 2025 before I can enrol to CHS?
+[2025-04-26 23:18:17] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 23:18:17] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 23:19:20] User: Tell me more about MSU IIT
+[2025-04-26 23:19:20] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 23:19:20] Bot: MSU-IIT (Mindanao State University - Iligan Institute of Technology) is a premier state university established in 1968. Known for its excellence in science and technology education, MSU-IIT has consistently ranked among the top universities in the Philippines. The university offers quality education across various fields including engineering, computer studies, science and mathematics, business, arts, and more.
+[2025-04-26 23:19:20] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 23:19:55] User: What is the current ranking of CHS among all the Universities in the Philippines?
+[2025-04-26 23:19:55] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 23:19:55] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 23:20:32] User: Who is the current Chancellor or MSU IIT?
+[2025-04-26 23:20:32] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 23:20:32] Bot: The current Chancellor of MSU-IIT is Dr. Alizedney M. Ditucalan. Under his leadership, the university has achieved significant milestones, including ranking 3rd among Philippine universities in the Times Higher Education (THE) World University Rankings 2025. Chancellor Ditucalan has emphasized strengthening academic publishing and research initiatives.
+[2025-04-26 23:20:32] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 23:21:06] User: When was MSU IIT founded?
+[2025-04-26 23:21:06] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 23:21:06] Bot: MSU-IIT was established in 1968 under Republic Act 5363. Originally part of the MSU System, it has grown into one of the premier technological institutions in the Philippines. The institute has consistently maintained its reputation for academic excellence, particularly in science and technology education.
+[2025-04-26 23:21:06] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 23:21:06] Bot: ❌ You've reached the message limit. Thank you for testing our chatbot. Your participation in our study is crucial and would be greatly appreciated. <a href='https://2ly.link/26ajD'>Please continue here to provide your feedback</a>
+[2025-04-26 23:21:06] SYSTEM: Message limit reached

@@ -1,0 +1,13 @@
+Chat History for User ID: user_1745714795406
+Started: 2025-04-27 08:46:56
+==================================================
+[2025-04-27 08:46:56] User: What are the requirements for scholarship in MSU-IIT?
+[2025-04-27 08:46:56] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 08:46:56] Bot: Yes, MSU-IIT offers scholarships to students based on academic performance, financial need, and other qualifications. The university has various scholarship programs funded by the government, private organizations, and the university itself. Announcement of available scholarships will be posted on the official Facebook page of the office, MSU-IIT Office of Admissions, Scholarships and Grants.
+[2025-04-27 08:46:56] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-27 08:47:11] User: Yes.
+[2025-04-27 08:47:11] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 08:47:11] Bot: What topic would you like to know more about?
+[2025-04-27 08:47:22] User: Tell me about Political Science
+[2025-04-27 08:47:22] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 08:47:22] Bot: I'm sorry, I didn't understand that. Could you rephrase?

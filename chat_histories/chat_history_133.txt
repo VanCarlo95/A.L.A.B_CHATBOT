@@ -1,0 +1,6 @@
+Chat History for User ID: user_1745639791661
+Started: 2025-04-26 11:57:03
+==================================================
+[2025-04-26 11:57:03] User: do you have research on new ways to handle liver problems
+[2025-04-26 11:57:03] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 11:57:03] Bot: I'm sorry, I didn't understand that. Could you rephrase?

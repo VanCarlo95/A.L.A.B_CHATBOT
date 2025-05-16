@@ -1,0 +1,38 @@
+Chat History for User ID: user_1745595064645
+Started: 2025-04-25 23:31:30
+==================================================
+[2025-04-25 23:31:30] User: hello
+[2025-04-25 23:31:30] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:31:30] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-25 23:31:47] User: can i ask if you pay a domain website for this?
+[2025-04-25 23:31:47] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:31:47] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 23:32:12] User: can you tell me who is the professor of BC183 in BSCA in CCS
+[2025-04-25 23:32:12] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:32:12] Bot: CCS Faculty Information:
+[2025-04-25 23:32:12] Bot: Qualifications:
+• PhD and Master's degree holders
+• Industry certified professionals
+• Active researchers
+• International conference speakers
+• Industry practitioners
+[2025-04-25 23:32:12] Bot: Teaching Approach:
+• Hands-on learning
+• Industry-based projects
+• Research mentoring
+• Interactive lectures
+• Laboratory work
+[2025-04-25 23:32:12] Bot: Support for Students:
+• Regular consultation hours
+• Online mentoring
+• Career guidance
+• Research supervision
+• Industry networking
+[2025-04-25 23:32:12] Bot: Specializations:
+• Software Development
+• Network Security
+• Data Science
+• AI and Machine Learning
+• Business Analytics
+• Web Technologies
+[2025-04-25 23:32:12] Bot: Would you like to know more about any specific aspect of MSU-IIT?

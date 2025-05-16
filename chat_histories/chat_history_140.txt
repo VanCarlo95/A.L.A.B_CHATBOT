@@ -1,0 +1,21 @@
+Chat History for User ID: user_1745653194602
+Started: 2025-04-26 15:40:18
+==================================================
+[2025-04-26 15:40:18] User: How are you?
+[2025-04-26 15:40:18] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 15:40:18] Bot: I am ALAB, the Automated Learning Assistant Bot for MSU-IIT. I'm here to help answer your questions about MSU-IIT, its colleges, programs, and facilities.
+[2025-04-26 15:40:44] User: Where do you live?
+[2025-04-26 15:40:44] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 15:40:44] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 15:41:25] User: Why the sase results are still not out since the last msu sase exam?
+[2025-04-26 15:41:25] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 15:41:25] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 15:41:46] User: Do you know rogen lee charcos?
+[2025-04-26 15:41:46] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 15:41:46] Bot: I was designed to serve as an information assistant for MSU-IIT, helping people learn about the university's offerings, locations, and resources without having to search through multiple sources.
+[2025-04-26 15:42:36] User: What post graduate studies offers in iit?
+[2025-04-26 15:42:36] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 15:42:36] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 15:43:30] User: Course offers in the college of arts and social sciences.
+[2025-04-26 15:43:30] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 15:43:30] Bot: I'm sorry, I didn't understand that. Could you rephrase?

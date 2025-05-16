@@ -1,0 +1,32 @@
+Chat History for User ID: user_1745539365088
+Started: 2025-04-25 08:00:11
+==================================================
+[2025-04-25 08:00:11] User: When was MSU IIT established?
+[2025-04-25 08:00:11] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 08:00:11] Bot: MSU-IIT was established in 1968 under Republic Act 5363. Originally part of the MSU System, it has grown into one of the premier technological institutions in the Philippines. The institute has consistently maintained its reputation for academic excellence, particularly in science and technology education.
+[2025-04-25 08:00:11] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-25 08:00:27] User: Who was the first Chancellor of MSU IIT?
+[2025-04-25 08:00:27] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 08:00:27] Bot: The current Chancellor of MSU-IIT is Dr. Alizedney M. Ditucalan. Under his leadership, the university has achieved significant milestones, including ranking 3rd among Philippine universities in the Times Higher Education (THE) World University Rankings 2025. Chancellor Ditucalan has emphasized strengthening academic publishing and research initiatives.
+[2025-04-25 08:00:27] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-25 08:01:10] User: Chancellor Ditucalan was the fourth chancellor of MSU IIT, then who is the first?
+[2025-04-25 08:01:10] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 08:01:10] Bot: The current Chancellor of MSU-IIT is Dr. Alizedney M. Ditucalan. Under his leadership, the university has achieved significant milestones, including ranking 3rd among Philippine universities in the Times Higher Education (THE) World University Rankings 2025. Chancellor Ditucalan has emphasized strengthening academic publishing and research initiatives.
+[2025-04-25 08:01:10] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-25 08:01:28] User: Dr. Camar A. Umpa was the first Chancellor tho
+[2025-04-25 08:01:28] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 08:01:28] Bot: The current Chancellor of MSU-IIT is Dr. Alizedney M. Ditucalan. Under his leadership, the university has achieved significant milestones, including ranking 3rd among Philippine universities in the Times Higher Education (THE) World University Rankings 2025. Chancellor Ditucalan has emphasized strengthening academic publishing and research initiatives.
+[2025-04-25 08:01:28] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-25 08:01:51] User: When did Chancellor Ditucalan become chancellor of MSU IIT?
+[2025-04-25 08:01:51] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 08:01:51] Bot: The current Chancellor of MSU-IIT is Dr. Alizedney M. Ditucalan. Under his leadership, the university has achieved significant milestones, including ranking 3rd among Philippine universities in the Times Higher Education (THE) World University Rankings 2025. Chancellor Ditucalan has emphasized strengthening academic publishing and research initiatives.
+[2025-04-25 08:01:51] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-25 08:02:06] User: When was CEBA established?
+[2025-04-25 08:02:06] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 08:02:06] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 08:02:15] User: Was was CEBA established?
+[2025-04-25 08:02:15] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 08:02:15] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 08:02:34] User: Out of the seven colleges, who was the first to be established?
+[2025-04-25 08:02:34] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 08:02:34] Bot: I'm sorry, I didn't understand that. Could you rephrase?

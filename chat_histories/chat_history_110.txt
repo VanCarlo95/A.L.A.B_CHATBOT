@@ -1,0 +1,9 @@
+Chat History for User ID: user_1745606295631
+Started: 2025-04-26 02:38:23
+==================================================
+[2025-04-26 02:38:23] User: kenny cantila
+[2025-04-26 02:38:23] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 02:38:23] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 02:38:33] User: who is kenny cantila
+[2025-04-26 02:38:33] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 02:38:33] Bot: I'm sorry, I didn't understand that. Could you rephrase?

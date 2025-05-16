@@ -1,0 +1,12 @@
+Chat History for User ID: user_1745596626875
+Started: 2025-04-25 23:57:26
+==================================================
+[2025-04-25 23:57:26] User: Am I Handasome?
+[2025-04-25 23:57:26] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:57:26] Bot: I am ALAB, the Automated Learning Assistant Bot for MSU-IIT. I'm here to help answer your questions about MSU-IIT, its colleges, programs, and facilities.
+[2025-04-25 23:57:34] User: hi
+[2025-04-25 23:57:34] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:57:34] Bot: Hello! I am A.L.A.B, your Academic Learning Assistance Bot. How can I help you today?
+[2025-04-25 23:57:42] User: Am I Handasome?
+[2025-04-25 23:57:42] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:57:42] Bot: My name is ALAB, which stands for Automated Learning Assistant Bot. I'm designed to provide information about MSU-IIT to students, prospective students, and visitors.

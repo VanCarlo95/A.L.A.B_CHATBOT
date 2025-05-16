@@ -1,0 +1,10 @@
+Chat History for User ID: user_1745673380928
+Started: 2025-04-26 21:16:42
+==================================================
+[2025-04-26 21:16:42] User: what is the current student population?
+[2025-04-26 21:16:42] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 21:16:42] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 21:17:07] User: What is the current student population, for school year 2024-2025
+[2025-04-26 21:17:07] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 21:17:07] Bot: Form 137-A or Form 138 can be requested by filling out the relevant form from the Registrar’s Office.
+[2025-04-26 21:17:07] Bot: Would you like to know more about any specific aspect of MSU-IIT?

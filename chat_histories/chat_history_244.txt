@@ -1,0 +1,63 @@
+Chat History for User ID: user_1745724111960
+Started: 2025-04-27 11:22:06
+==================================================
+[2025-04-27 11:22:06] User: Tell me about CSM
+[2025-04-27 11:22:06] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 11:22:06] Bot: The College of Science and Mathematics (CSM) at MSU-IIT offers undergraduate programs in Biology, Chemistry, Mathematics, Physics, and Statistics. The college is known for its state-of-the-art facilities, experienced faculty, and strong industry connections. Would you like to know more about:
+1. Our programs
+2. Facilities
+3. Career opportunities?
+[2025-04-27 11:22:06] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-27 11:22:24] User: Career opportunities for statistics
+[2025-04-27 11:22:24] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 11:22:24] Bot: Career opportunities for CSM graduates include:
+[2025-04-27 11:22:24] Bot: For Biology Graduates:
+• Biologist (₱20,000 - ₱50,000/month)
+• Researcher
+• Environmental Scientist
+• Laboratory Technician
+• Wildlife Biologist
+• Botanist
+[2025-04-27 11:22:24] Bot: For Chemistry Graduates:
+• Chemist (₱20,000 - ₱50,000/month)
+• Analytical Chemist
+• Quality Control Specialist
+• Research Scientist
+• Pharmaceutical Chemist
+• Forensic Scientist
+[2025-04-27 11:22:24] Bot: For Mathematics Graduates:
+• Mathematician (₱20,000 - ₱50,000/month)
+• Statistician
+• Actuary
+• Data Analyst
+• Financial Analyst
+• Operations Research Analyst
+[2025-04-27 11:22:24] Bot: For Physics Graduates:
+• Physicist (₱20,000 - ₱50,000/month)
+• Research Scientist
+• Laboratory Technician
+• Astrophysicist
+• Quantum Physicist
+• Engineering Physicist
+[2025-04-27 11:22:24] Bot: For Statistics Graduates:
+• Statistician (₱20,000 - ₱50,000/month)
+• Data Analyst
+• Researcher
+• Actuary
+• Financial Analyst
+• Business Intelligence Analyst
+[2025-04-27 11:22:24] Bot: Companies actively hiring CSM graduates:
+• Research Institutions
+• Pharmaceutical Companies
+• Environmental Agencies
+• Government Laboratories
+• Educational Institutions
+• Data Analytics Firms
+[2025-04-27 11:22:24] Bot: Career Growth:
+• Senior Biologist
+• Chief Chemist
+• Lead Mathematician
+• Principal Physicist
+• Head Statistician
+• Research Director
+[2025-04-27 11:22:24] Bot: Would you like to know more about any specific aspect of MSU-IIT?

@@ -1,0 +1,6 @@
+Chat History for User ID: user_1745594972728
+Started: 2025-04-25 23:29:49
+==================================================
+[2025-04-25 23:29:49] User: Is there class tomorrow?
+[2025-04-25 23:29:49] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:29:49] Bot: I'm sorry, I didn't understand that. Could you rephrase?

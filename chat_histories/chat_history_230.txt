@@ -1,0 +1,35 @@
+Chat History for User ID: user_1745690552651
+Started: 2025-04-27 02:02:55
+==================================================
+[2025-04-27 02:02:55] User: hi
+[2025-04-27 02:02:55] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 02:02:55] Bot: Hello! I am A.L.A.B, your Academic Learning Assistance Bot. How can I help you today?
+[2025-04-27 02:03:49] User: does the researcher of this bot read this conversation?
+[2025-04-27 02:03:49] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 02:03:49] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-27 02:04:08] User: will our conversation be recorded in some database?
+[2025-04-27 02:04:08] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 02:04:08] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-27 02:04:21] User: what color is the sky
+[2025-04-27 02:04:21] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 02:04:21] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-27 02:04:31] User: what can you do?
+[2025-04-27 02:04:31] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 02:04:31] Bot: I was designed to serve as an information assistant for MSU-IIT, helping people learn about the university's offerings, locations, and resources without having to search through multiple sources.
+[2025-04-27 02:04:47] User: where is TBA
+[2025-04-27 02:04:47] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 02:04:47] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-27 02:04:56] User: where is ict3d
+[2025-04-27 02:04:56] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 02:04:56] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-27 02:05:14] User: what college can i go to computer
+[2025-04-27 02:05:14] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 02:05:14] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-27 02:05:32] User: what specific questions work for you?
+[2025-04-27 02:05:32] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 02:05:32] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-27 02:05:40] User: uhmm
+[2025-04-27 02:05:40] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 02:05:40] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-27 02:05:40] Bot: ❌ You've reached the message limit. Thank you for testing our chatbot. Your participation in our study is crucial and would be greatly appreciated. <a href='https://2ly.link/26ajD'>Please continue here to provide your feedback</a>
+[2025-04-27 02:05:40] SYSTEM: Message limit reached

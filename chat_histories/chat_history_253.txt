@@ -1,0 +1,6 @@
+Chat History for User ID: user_1745741776581
+Started: 2025-04-27 16:16:33
+==================================================
+[2025-04-27 16:16:33] User: Is summer class allowed in msu iit?
+[2025-04-27 16:16:33] System: Predicted Action: unknown with confidence N/A
+[2025-04-27 16:16:33] Bot: I'm sorry, I didn't understand that. Could you rephrase?

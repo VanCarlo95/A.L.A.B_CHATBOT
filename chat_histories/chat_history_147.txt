@@ -1,0 +1,49 @@
+Chat History for User ID: user_1745660283755
+Started: 2025-04-26 17:38:08
+==================================================
+[2025-04-26 17:38:08] User: Hello
+[2025-04-26 17:38:08] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:38:08] Bot: Hello! I am A.L.A.B, your Academic Learning Assistance Bot. How can I help you today?
+[2025-04-26 17:38:14] User: How to claim TOR
+[2025-04-26 17:38:14] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:38:14] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 17:38:24] User: How do I get my TOR
+[2025-04-26 17:38:24] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:38:24] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 17:38:28] User: TOR
+[2025-04-26 17:38:28] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:38:28] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-26 17:38:40] User: How do I get my transcript of records
+[2025-04-26 17:38:40] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:38:40] Bot: To request a transcript of records, fill out the relevant form and pay Php 50.00 per page. The processing time is approximately three working days.
+[2025-04-26 17:38:40] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 17:38:59] User: When is the graduation
+[2025-04-26 17:38:59] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:38:59] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 17:39:03] User: Tell me about courses
+[2025-04-26 17:39:03] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:39:03] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 17:39:09] User: Courses of ccs
+[2025-04-26 17:39:09] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:39:09] Bot: The College of Computer Studies offers these undergraduate programs:
+[2025-04-26 17:39:09] Bot: 1. BS Computer Science (BSCS): Focuses on computational theory, programming, and software development
+2. BS Information Technology (BSIT): Emphasizes practical IT applications and systems administration
+3. BS Information Systems (BSIS): Combines IT with business processes and management
+[2025-04-26 17:39:09] Bot: Which program would you like to learn more about?
+[2025-04-26 17:39:09] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 17:39:21] User: Courses of COE
+[2025-04-26 17:39:21] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:39:21] Bot: The College of Engineering offers these undergraduate programs:
+[2025-04-26 17:39:21] Bot: 1. BS Civil Engineering (BSCE): Focuses on infrastructure design and construction
+2. BS Electrical Engineering (BSEE): Emphasizes electrical systems and power generation
+3. BS Mechanical Engineering (BSME): Focuses on mechanical systems and design
+[2025-04-26 17:39:21] Bot: Which program would you like to learn more about?
+[2025-04-26 17:39:21] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 17:39:29] User: Courses of CASS
+[2025-04-26 17:39:29] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:39:29] Bot: The College of Arts and Social Sciences offers Bachelor of Arts in Communication, Bachelor of Arts in English, Bachelor of Arts in History, Bachelor of Arts in Political Science, Bachelor of Arts in Psychology, and Bachelor of Arts in Sociology.
+[2025-04-26 17:39:29] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 17:39:29] Bot: ❌ You've reached the message limit. Thank you for testing our chatbot. Your participation in our study is crucial and would be greatly appreciated. <a href='https://2ly.link/26ajD'>Please continue here to provide your feedback</a>
+[2025-04-26 17:39:29] SYSTEM: Message limit reached
+[2025-04-26 17:44:46] User: Hello Alab!
+[2025-04-26 17:44:46] SYSTEM: Message limit reached

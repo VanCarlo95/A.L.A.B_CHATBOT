@@ -1,0 +1,6 @@
+Chat History for User ID: user_1745672965352
+Started: 2025-04-26 21:09:52
+==================================================
+[2025-04-26 21:09:52] User: im struggling in calculus 1 topic is partial fractions can you help me out?
+[2025-04-26 21:09:52] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 21:09:52] Bot: I'm sorry, I didn't understand that. Could you rephrase?

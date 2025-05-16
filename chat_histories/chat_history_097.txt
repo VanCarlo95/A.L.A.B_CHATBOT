@@ -1,0 +1,22 @@
+Chat History for User ID: user_1745597824732
+Started: 2025-04-26 00:17:28
+==================================================
+[2025-04-26 00:17:28] User: hello, can you share to me the history of MSU-IIT
+[2025-04-26 00:17:28] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:17:28] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 00:17:41] User: what is the history of MSU-IIT
+[2025-04-26 00:17:41] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:17:41] Bot: MSU-IIT was established in 1968 under Republic Act 5363. Originally part of the MSU System, it has grown into one of the premier technological institutions in the Philippines. The institute has consistently maintained its reputation for academic excellence, particularly in science and technology education.
+[2025-04-26 00:17:41] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 00:18:23] User: what is the 10% of our brain
+[2025-04-26 00:18:23] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:18:23] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 00:18:33] User: what is 10 percent in brain
+[2025-04-26 00:18:33] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:18:33] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 00:18:36] User: why
+[2025-04-26 00:18:36] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:18:36] Bot: My purpose is to provide quick and accurate information about MSU-IIT's academic programs, facilities, and services. I'm here to make it easier for you to find the information you need about the university.
+[2025-04-26 00:18:47] User: i asked other question
+[2025-04-26 00:18:47] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:18:47] Bot: I'm sorry, I didn't understand that. Could you rephrase?

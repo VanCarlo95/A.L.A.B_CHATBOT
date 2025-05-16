@@ -1,0 +1,6 @@
+Chat History for User ID: user_1745490144248
+Started: 2025-04-24 18:22:26
+==================================================
+[2025-04-24 18:22:26] User: Hi
+[2025-04-24 18:22:26] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 18:22:26] Bot: Hello! I am A.L.A.B, your Academic Learning Assistance Bot. How can I help you today?

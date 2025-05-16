@@ -1,0 +1,20 @@
+Chat History for User ID: user_1745521190049
+Started: 2025-04-25 03:00:05
+==================================================
+[2025-04-25 03:00:05] User: hi how many faculties in msu iit
+[2025-04-25 03:00:05] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 03:00:05] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 03:00:16] User: who is the chancellor
+[2025-04-25 03:00:16] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 03:00:16] Bot: The current Chancellor of MSU-IIT is Dr. Alizedney M. Ditucalan. Under his leadership, the university has achieved significant milestones, including ranking 3rd among Philippine universities in the Times Higher Education (THE) World University Rankings 2025. Chancellor Ditucalan has emphasized strengthening academic publishing and research initiatives.
+[2025-04-25 03:00:16] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-25 03:00:35] User: who is the vice chancellor for academic affairs
+[2025-04-25 03:00:35] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 03:00:35] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-25 03:00:46] User: who is the dean of coe
+[2025-04-25 03:00:46] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 03:00:46] Bot: The Dean's Office is located on the 2nd floor of the COET Building, Room 201. It's easily accessible via the main staircase or elevator. The office is open during regular business hours (8:00 AM - 5:00 PM) on weekdays.
+[2025-04-25 03:00:46] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-25 03:01:02] User: who is she
+[2025-04-25 03:01:02] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 03:01:02] Bot: My creators are Draco, Van, and Justine, who are students at MSU-IIT. They built me to help fellow students and visitors easily access information about the university.

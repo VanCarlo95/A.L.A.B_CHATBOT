@@ -1,0 +1,55 @@
+Chat History for User ID: user_1745660607848
+Started: 2025-04-26 17:43:57
+==================================================
+[2025-04-26 17:43:57] User: hi, can u tell me about CSS?
+[2025-04-26 17:43:57] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:43:57] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 17:44:14] User: What is CCS?
+[2025-04-26 17:44:14] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:44:14] Bot: The College of Computer Studies (CCS) is MSU-IIT's center for computing education. It offers undergraduate programs in Computer Science, Information Technology, and Information Systems. The college is known for its modern facilities, experienced faculty, and strong industry partnerships. Would you like to know more about:
+1. Our programs
+2. Facilities
+3. Career opportunities?
+[2025-04-26 17:44:14] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 17:44:50] User: 1
+[2025-04-26 17:44:50] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:44:50] Bot: Form 137-A or Form 138 can be requested by filling out the relevant form from the Registrar’s Office.
+[2025-04-26 17:44:50] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 17:45:56] User: what is the process when requesting TOR?
+[2025-04-26 17:45:56] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:45:56] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 17:47:03] User: What are the admission requirements?
+[2025-04-26 17:47:03] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:47:03] Bot: The MSU-IIT Admissions Office or OASG is responsible for processing applications, conducting entrance exams, and managing student admissions. The office provides information on admission requirements, application procedures, and enrollment schedules. Would you like to know more about:
+1. Admission requirements
+2. Application process
+3. Entrance exams?
+[2025-04-26 17:47:03] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 17:47:16] User: 2
+[2025-04-26 17:47:16] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:47:16] Bot: Form 137-A or Form 138 can be requested by filling out the relevant form from the Registrar’s Office.
+[2025-04-26 17:47:16] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 17:47:39] User: What are the admission requirements?
+[2025-04-26 17:47:39] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:47:39] Bot: The MSU-IIT Admissions Office or OASG is responsible for processing applications, conducting entrance exams, and managing student admissions. The office provides information on admission requirements, application procedures, and enrollment schedules. Would you like to know more about:
+1. Admission requirements
+2. Application process
+3. Entrance exams?
+[2025-04-26 17:47:39] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 17:47:56] User: 1. Admission requirements
+[2025-04-26 17:47:56] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:47:56] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 17:48:09] User: Admission requirements
+[2025-04-26 17:48:09] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:48:09] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 17:48:28] User: What is CCS?
+[2025-04-26 17:48:28] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 17:48:28] Bot: The College of Computer Studies (CCS) is MSU-IIT's center for computing education. It offers undergraduate programs in Computer Science, Information Technology, and Information Systems. The college is known for its modern facilities, experienced faculty, and strong industry partnerships. Would you like to know more about:
+1. Our programs
+2. Facilities
+3. Career opportunities?
+[2025-04-26 17:48:28] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 17:48:28] Bot: ❌ You've reached the message limit. Thank you for testing our chatbot. Your participation in our study is crucial and would be greatly appreciated. <a href='https://2ly.link/26ajD'>Please continue here to provide your feedback</a>
+[2025-04-26 17:48:28] SYSTEM: Message limit reached
+[2025-04-26 17:48:53] User: Yes
+[2025-04-26 17:48:53] SYSTEM: Message limit reached

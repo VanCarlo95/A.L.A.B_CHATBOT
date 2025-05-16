@@ -1,0 +1,60 @@
+Chat History for User ID: user_1745597209949
+Started: 2025-04-26 00:07:48
+==================================================
+[2025-04-26 00:07:48] User: Hello, What department does the Mining Engineering Program belong to, and who is the current Program Coordinator of the Mining Program?
+[2025-04-26 00:07:48] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:07:48] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 00:08:16] User: Hi what data are available to you?
+[2025-04-26 00:08:16] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:08:16] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 00:08:25] User: Hi
+[2025-04-26 00:08:25] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:08:25] Bot: Hello! I am A.L.A.B, your Academic Learning Assistance Bot. How can I help you today?
+[2025-04-26 00:08:42] User: What programs does msu-iit offer
+[2025-04-26 00:08:42] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:08:42] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 00:09:01] User: How can i repharse it?
+[2025-04-26 00:09:01] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:09:01] Bot: BS Information Technology (BSIT) Program Details:
+[2025-04-26 00:09:01] Bot: Overview:
+• Industry-aligned IT program
+• Focus on practical applications
+• Strong emphasis on current technologies
+• Hands-on technical skills development
+[2025-04-26 00:09:01] Bot: Key Features:
+• Network administration
+• Systems administration
+• Web and mobile development
+• Database management
+• IT project management
+• Industry certifications
+[2025-04-26 00:09:01] Bot: Learning Outcomes:
+• Technical implementation skills
+• System administration capabilities
+• Network management expertise
+• Web and mobile development proficiency
+• IT service management knowledge
+[2025-04-26 00:09:01] Bot: Special Features:
+• Industry certifications (CISCO, CompTIA)
+• Hands-on laboratory exercises
+• Industry internships
+• Real-world projects
+• Technical support training
+[2025-04-26 00:09:01] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 00:09:20] User: Stop
+[2025-04-26 00:09:20] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:09:20] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 00:09:30] User: Mining Engineering
+[2025-04-26 00:09:30] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:09:30] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 00:09:37] User: Mining Engineering
+[2025-04-26 00:09:37] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:09:37] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 00:09:44] User: How?
+[2025-04-26 00:09:44] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:09:44] Bot: Hello! I am A.L.A.B, your Academic Learning Assistance Bot. How can I help you today?
+[2025-04-26 00:10:01] User: Does MSU-IIT offer Mining Engineering!
+[2025-04-26 00:10:01] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:10:01] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 00:10:01] Bot: ❌ You've reached the message limit. Thank you for testing our chatbot. Your participation in our study is crucial and would be greatly appreciated. <a href='https://2ly.link/26ajD'>Please continue here to provide your feedback</a>
+[2025-04-26 00:10:01] SYSTEM: Message limit reached

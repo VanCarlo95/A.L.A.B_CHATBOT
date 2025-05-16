@@ -1,0 +1,39 @@
+Chat History for User ID: user_1745662149305
+Started: 2025-04-26 18:09:13
+==================================================
+[2025-04-26 18:09:13] User: heyyy
+[2025-04-26 18:09:13] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:09:13] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-26 18:09:23] User: any facts about IIT
+[2025-04-26 18:09:23] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:09:23] Bot: MSU-IIT (Mindanao State University - Iligan Institute of Technology) is a premier state university established in 1968. Known for its excellence in science and technology education, MSU-IIT has consistently ranked among the top universities in the Philippines. The university offers quality education across various fields including engineering, computer studies, science and mathematics, business, arts, and more.
+[2025-04-26 18:09:23] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 18:09:41] User: any program reco
+[2025-04-26 18:09:41] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:09:41] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 18:09:59] User: what progrma they offer any reco
+[2025-04-26 18:09:59] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:09:59] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 18:10:11] User: why alab?
+[2025-04-26 18:10:11] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:10:11] Bot: I was created to help students and prospective students get information about MSU-IIT. I can answer questions about colleges, programs, facilities, and services offered by the university.
+[2025-04-26 18:10:25] User: any programs in iit?
+[2025-04-26 18:10:25] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:10:25] Bot: MSU-IIT (Mindanao State University - Iligan Institute of Technology) is a premier state university established in 1968. Known for its excellence in science and technology education, MSU-IIT has consistently ranked among the top universities in the Philippines. The university offers quality education across various fields including engineering, computer studies, science and mathematics, business, arts, and more.
+[2025-04-26 18:10:25] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 18:10:40] User: nursing?
+[2025-04-26 18:10:40] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:10:40] Bot: Nursing students undergo clinical rotations in hospitals, health centers, and community settings to gain hands-on experience in patient care, under the supervision of qualified healthcare professionals.
+[2025-04-26 18:10:40] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 18:11:04] User: rate the difficulty of nursing in iit
+[2025-04-26 18:11:04] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:11:04] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 18:11:19] User: why cats whats the history?
+[2025-04-26 18:11:19] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:11:19] Bot: MSU was established on September 1, 1961, through Republic Act 1387 (amended by RA 1893). It was founded with a unique mission to promote education and cultural integration among the diverse peoples of Mindanao. The university has since grown from its main campus in Marawi to include multiple campuses across Mindanao, each contributing to the region's development. MSU-IIT, established in 1968, has developed into one of the system's premier technological institutes.
+[2025-04-26 18:11:19] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 18:13:41] User: how to get admmited?
+[2025-04-26 18:13:41] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 18:13:41] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 18:13:41] Bot: ❌ You've reached the message limit. Thank you for testing our chatbot. Your participation in our study is crucial and would be greatly appreciated. <a href='https://2ly.link/26ajD'>Please continue here to provide your feedback</a>
+[2025-04-26 18:13:41] SYSTEM: Message limit reached

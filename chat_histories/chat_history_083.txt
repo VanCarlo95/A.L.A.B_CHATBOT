@@ -1,0 +1,6 @@
+Chat History for User ID: user_1745596538799
+Started: 2025-04-25 23:55:51
+==================================================
+[2025-04-25 23:55:51] User: what time does the campus open
+[2025-04-25 23:55:51] System: Predicted Action: unknown with confidence N/A
+[2025-04-25 23:55:51] Bot: I'm sorry, I didn't understand that. Could you rephrase?

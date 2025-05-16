@@ -1,0 +1,7 @@
+Chat History for User ID: user_1745597983479
+Started: 2025-04-26 00:19:50
+==================================================
+[2025-04-26 00:19:50] User: What is CCS
+[2025-04-26 00:19:50] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 00:19:50] Bot: The College of Computer Studies is located in the CCS Building, a modern 4-story structure in the heart of MSU-IIT campus. It's easily accessible and recognizable by its distinctive blue-gray exterior. The building houses state-of-the-art computer laboratories, classrooms, and faculty offices.
+[2025-04-26 00:19:50] Bot: Would you like to know more about any specific aspect of MSU-IIT?

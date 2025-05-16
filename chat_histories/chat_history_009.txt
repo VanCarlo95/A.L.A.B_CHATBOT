@@ -1,0 +1,18 @@
+Chat History for User ID: user_1745491521438
+Started: 2025-04-24 18:45:38
+==================================================
+[2025-04-24 18:45:38] User: oh hell nah
+[2025-04-24 18:45:38] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 18:45:38] Bot: Hi there! I'm A.L.A.B, here to assist you with information about MSU-IIT. What would you like to know?
+[2025-04-24 18:45:48] User: uhh thats ligma
+[2025-04-24 18:45:48] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 18:45:48] Bot: What topic would you like to know more about?
+[2025-04-24 18:45:55] User: who is van
+[2025-04-24 18:45:55] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 18:45:55] Bot: I was created by a talented team of MSU-IIT students: Draco, Van, and Justine. They developed me as part of their project to improve information accessibility for the university community.
+[2025-04-24 18:46:09] User: van whats the full name and how big is it
+[2025-04-24 18:46:09] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 18:46:09] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-24 18:46:15] User: van who
+[2025-04-24 18:46:15] System: Predicted Action: unknown with confidence N/A
+[2025-04-24 18:46:15] Bot: I was created by a talented team of MSU-IIT students: Draco, Van, and Justine. They developed me as part of their project to improve information accessibility for the university community.

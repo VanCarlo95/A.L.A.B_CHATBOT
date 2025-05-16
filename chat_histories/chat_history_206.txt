@@ -1,0 +1,17 @@
+Chat History for User ID: user_1745679315696
+Started: 2025-04-26 22:55:35
+==================================================
+[2025-04-26 22:55:35] User: What courses does CSM offer?
+[2025-04-26 22:55:35] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 22:55:35] Bot: The College of Science and Mathematics offers Bachelor of Science in Biology, Bachelor of Science in Chemistry, Bachelor of Science in Mathematics, Bachelor of Science in Physics, and Bachelor of Science in Statistics.
+[2025-04-26 22:55:35] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 22:55:52] User: which college is the center of excellence
+[2025-04-26 22:55:52] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 22:55:52] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 22:56:30] User: does CSM offer quota courses?
+[2025-04-26 22:56:30] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 22:56:30] Bot: The College of Science and Mathematics offers Bachelor of Science in Biology, Bachelor of Science in Chemistry, Bachelor of Science in Mathematics, Bachelor of Science in Physics, and Bachelor of Science in Statistics.
+[2025-04-26 22:56:30] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 22:56:50] User: in BS Biology what are the majors
+[2025-04-26 22:56:50] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 22:56:50] Bot: I'm sorry, I didn't understand that. Could you rephrase?

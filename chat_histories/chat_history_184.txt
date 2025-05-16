@@ -1,0 +1,66 @@
+Chat History for User ID: user_1745672143369
+Started: 2025-04-26 20:56:20
+==================================================
+[2025-04-26 20:56:20] User: what programs does CCS has?
+[2025-04-26 20:56:20] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 20:56:20] Bot: The College of Computer Studies offers these undergraduate programs:
+[2025-04-26 20:56:20] Bot: 1. BS Computer Science (BSCS): Focuses on computational theory, programming, and software development
+2. BS Information Technology (BSIT): Emphasizes practical IT applications and systems administration
+3. BS Information Systems (BSIS): Combines IT with business processes and management
+[2025-04-26 20:56:20] Bot: Which program would you like to learn more about?
+[2025-04-26 20:56:20] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 20:56:43] User: how about BSCA?
+[2025-04-26 20:56:43] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 20:56:43] Bot: BS Computer Applications (BSCA) Program Details:
+[2025-04-26 20:56:43] Bot: Overview:
+• Industry-focused program
+• Emphasis on software applications and development
+• Strong foundation in business applications
+• Focus on practical computing solutions
+[2025-04-26 20:56:43] Bot: Key Features:
+• Application Development
+• Business Software Solutions
+• Database Applications
+• User Interface Design
+• Mobile Application Development
+• Enterprise Software Development
+[2025-04-26 20:56:43] Bot: Learning Outcomes:
+• Software application development skills
+• Business process understanding
+• Database management expertise
+• UI/UX design capabilities
+• Project management skills
+[2025-04-26 20:56:43] Bot: Special Features:
+• Industry-aligned projects
+• Application development portfolio
+• Business software training
+• Internship opportunities
+• Software development tools mastery
+[2025-04-26 20:56:43] Bot: Would you like to know more about any specific aspect of MSU-IIT?
+[2025-04-26 20:56:55] User: BSIS
+[2025-04-26 20:56:55] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 20:56:55] Bot: BS Information Systems (BSIS) Program Details:
+[2025-04-26 20:56:55] Bot: Overview:
+• Business-oriented IT program
+• Focus on enterprise systems
+• Integration of business and technology
+• Management perspective of IT
+[2025-04-26 20:56:55] Bot: Key Features:
+• Business process analysis
+• Enterprise systems
+• Project management
+• Information management
+• Business analytics
+[2025-04-26 20:56:55] Bot: Learning Outcomes:
+• Business analysis skills
+• IT project management
+• Enterprise system knowledge
+• Process improvement capabilities
+• Business-IT alignment expertise
+[2025-04-26 20:56:55] Bot: Special Features:
+• SAP training
+• Business case studies
+• Industry projects
+• Management training
+• Enterprise software experience
+[2025-04-26 20:56:55] Bot: Would you like to know more about any specific aspect of MSU-IIT?

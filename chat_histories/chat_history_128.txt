@@ -1,0 +1,24 @@
+Chat History for User ID: user_1745638530719
+Started: 2025-04-26 11:35:37
+==================================================
+[2025-04-26 11:35:37] User: hey
+[2025-04-26 11:35:37] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 11:35:37] Bot: Hello! I am A.L.A.B, your Academic Learning Assistance Bot. How can I help you today?
+[2025-04-26 11:35:47] User: what are the courses offered here?
+[2025-04-26 11:35:47] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 11:35:47] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 11:36:04] User: is it true that they will be removing ba psychology?
+[2025-04-26 11:36:04] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 11:36:04] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 11:36:09] User: hey
+[2025-04-26 11:36:09] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 11:36:09] Bot: Hello! I am A.L.A.B, your Academic Learning Assistance Bot. How can I help you today?
+[2025-04-26 11:36:17] User: do you speak english?
+[2025-04-26 11:36:17] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 11:36:17] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 11:36:26] User: do u speak bisaya
+[2025-04-26 11:36:26] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 11:36:26] Bot: I'm sorry, I didn't understand that. Could you rephrase?
+[2025-04-26 11:36:36] User: te amo, do u know what that means?
+[2025-04-26 11:36:36] System: Predicted Action: unknown with confidence N/A
+[2025-04-26 11:36:36] Bot: I'm sorry, I didn't understand that. Could you rephrase?
